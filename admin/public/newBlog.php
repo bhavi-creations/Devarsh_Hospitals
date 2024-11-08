@@ -74,8 +74,8 @@
                                                 <option value="General Surgery">General Surgery</option>
                                                 <option value="Cardiology">Cardiology</option>
                                                 <option value="Neurology">Neurology</option>
-                                                <option value="Dermatology">Dermatology</option>
-                                                <option value="Radiology">Radiology</option>
+                                                <option value="Gastroenterology">Gastroenterology</option>
+                                                <option value="General Medicine">General Medicine</option>
                                                 
                                             </select>
                                         </div>

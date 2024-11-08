@@ -96,43 +96,43 @@ $conn->close();
           </li>
 
           <li class="unique-nav-item" style="--i: 1.1s">
-            <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-            <div class="unique-dropdown">
-              <ul class="unique-dropdown-list new_nav_bg">
-                <!-- Column 1 -->
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">Urology</a>
-                </li>
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                </li>
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">Orthopedic</a>
-                </li>
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">Paediatrics</a>
-                </li>
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">General Surgery</a>
-                </li>
+             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+             <div class="unique-dropdown">
+               <ul class="unique-dropdown-list new_nav_bg">
+                 <!-- Column 1 -->
+                 <li class="unique-dropdown-item">
+                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
+                 </li>
+                 <li class="unique-dropdown-item">
+                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
+                 </li>
+                 <li class="unique-dropdown-item">
+                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                 </li>
+                 <li class="unique-dropdown-item">
+                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
+                 </li>
+                 <li class="unique-dropdown-item">
+                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
+                 </li>
 
-                <!-- Column 2 -->
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">Cardiology</a>
-                </li>
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">Neurology</a>
-                </li>
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">Dermatology</a>
-                </li>
-                <li class="unique-dropdown-item">
-                  <a href="#" class="unique-dropdown-link">Radiology</a>
-                </li>
-              </ul>
-              <div class="unique-arrow"></div>
-            </div>
-          </li>
+                 <!-- Column 2 -->
+                 <li class="unique-dropdown-item">
+                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
+                 </li>
+                 <li class="unique-dropdown-item">
+                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
+                 </li>
+                 <li class="unique-dropdown-item">
+                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
+                 </li>
+                 <li class="unique-dropdown-item">
+                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
+                 </li>
+               </ul>
+               <div class="unique-arrow"></div>
+             </div>
+           </li>
 
 
 

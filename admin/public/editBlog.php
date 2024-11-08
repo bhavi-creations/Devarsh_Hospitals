@@ -74,18 +74,20 @@ $conn->close();
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Root Canal" <?php echo ($service == 'Root Canal') ? 'selected' : ''; ?>>Root Canal</option>
-                                                <option value="Dental Braces" <?php echo ($service == 'Dental Braces') ? 'selected' : ''; ?>>Dental Braces</option>
-                                                <option value="Dental Implants" <?php echo ($service == 'Dental Implants') ? 'selected' : ''; ?>>Dental Implants</option>
-                                                <option value="Crown & Bridge" <?php echo ($service == 'Crown & Bridge') ? 'selected' : ''; ?>>Crown & Bridge</option>
-                                                <option value="Teeth Filling" <?php echo ($service == 'Teeth Filling') ? 'selected' : ''; ?>>Teeth Filling</option>
-                                                <option value="Dentures" <?php echo ($service == 'Dentures') ? 'selected' : ''; ?>>Dentures</option>
-                                                <option value="Teeth Scaling" <?php echo ($service == 'Teeth Scaling') ? 'selected' : ''; ?>>Teeth Scaling</option>
-                                                <option value="Tooth Extraction" <?php echo ($service == 'Tooth Extraction') ? 'selected' : ''; ?>>Tooth Extraction</option>
-                                                <option value="Teeth Cleaning" <?php echo ($service == 'Teeth Cleaning') ? 'selected' : ''; ?>>Teeth Cleaning</option>
-                                                <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>>Teeth Whitening</option>
-                                                <option value="Smile Makeover" <?php echo ($service == 'Smile Makeover') ? 'selected' : ''; ?>>Smile Makeover</option>
-                                                <option value="Full Mouth Restoration" <?php echo ($service == 'Full Mouth Restoration') ? 'selected' : ''; ?>>Full Mouth Restoration</option>
+                                                <option value="Urology" <?php echo ($service == 'Urology') ? 'selected' : ''; ?>>Urology</option>
+                                                <option value="Obstetrics & Gynaecology" <?php echo ($service == 'Obstetrics & Gynaecology') ? 'selected' : ''; ?>>Obstetrics & Gynaecology</option>
+                                                <option value="Orthopedic" <?php echo ($service == 'Orthopedic') ? 'selected' : ''; ?>>Orthopedic</option>
+                                                <option value="Paediatrics" <?php echo ($service == 'Paediatrics') ? 'selected' : ''; ?>>Paediatrics</option>
+                                                <option value="General Surgery" <?php echo ($service == 'General Surgery') ? 'selected' : ''; ?>>General Surgery</option>
+                                                <option value="Cardiology" <?php echo ($service == 'Cardiology') ? 'selected' : ''; ?>>Cardiology</option>
+                                                <option value="Neurology" <?php echo ($service == 'Neurology') ? 'selected' : ''; ?>>Neurology</option>
+                                                <option value="Gastroenterology" <?php echo ($service == 'Gastroenterology') ? 'selected' : ''; ?>>Gastroenterology</option>
+                                                <option value="General Medicine" <?php echo ($service == 'General Medicine') ? 'selected' : ''; ?>>General Medicine</option>
+                                            
+                                                
+                                            
+                                            
+                                            
                                             </select>
                                         </div>
 

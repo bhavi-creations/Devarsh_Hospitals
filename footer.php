@@ -116,11 +116,11 @@
                     <div class="footer-widget__copyright-info info-direction">
                         <p class="last_text">
                             <a
-                                href="terms.html"
+                                href="terms.php"
                                 style="text-decoration: none; color:  #1E1E1E; font-weight:bold;">Terms & conditions :
                             </a>
                             <a
-                                href="privacy.html"
+                                href="privacy.php"
                                 style="text-decoration: none; color:#1E1E1E;  font-weight:bold;">
                                 Privacy & policy</a>
                         </p>

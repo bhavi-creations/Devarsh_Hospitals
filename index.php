@@ -77,33 +77,33 @@
                <ul class="unique-dropdown-list new_nav_bg">
                  <!-- Column 1 -->
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Urology</a>
+                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
                  </li>
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
+                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
                  </li>
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Orthopedic</a>
+                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
                  </li>
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Paediatrics</a>
+                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
                  </li>
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">General Surgery</a>
+                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
                  </li>
 
                  <!-- Column 2 -->
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Cardiology</a>
+                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
                  </li>
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Neurology</a>
+                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
                  </li>
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Dermatology</a>
+                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
                  </li>
                  <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Radiology</a>
+                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
                  </li>
                </ul>
                <div class="unique-arrow"></div>
@@ -188,7 +188,7 @@
    <section>
      <div class="container text-center testmonials_section_space">
        <div class="row  d-flex fex-row justify-content-center">
-         <h1 class="test_cont_head only_to_plus" >Our Centres of Excellence</h1>
+         <h1 class="test_cont_head only_to_plus">Our Centres of Excellence</h1>
          <p class="test_cont_para only_to_miinus">Committed to Providing Quality Healthcare For Every Patient,
            Every Time</p>
        </div>
@@ -277,7 +277,7 @@
 
            <div class="custom-card custom_card_bg_two swiper-slide">
              <div class="row  ">
-               <h4 class="text-center card_text_inn">General medicine   </h4>
+               <h4 class="text-center card_text_inn">General medicine </h4>
                <div class="text-center">
                  <img src="assets/img/deversh/General medicine.png" class="img-fluid img_box" alt="">
                </div>
@@ -307,7 +307,7 @@
 
            <div class="custom-card custom_card_bg_one swiper-slide">
              <div class="row  ">
-               <h4 class="text-center card_text_inn">Neurology  </h4>
+               <h4 class="text-center card_text_inn">Neurology </h4>
                <div class="text-center">
                  <img src="assets/img/deversh/Neurology.png" class="img-fluid img_box" alt="">
                </div>
@@ -322,7 +322,7 @@
 
            <div class="custom-card custom_card_bg_two swiper-slide">
              <div class="row  ">
-               <h4 class="text-center card_text_inn">Cardiology   </h4>
+               <h4 class="text-center card_text_inn">Cardiology </h4>
                <div class="text-center">
                  <img src="assets/img/deversh/Cardiology.png" class="img-fluid img_box" alt="">
                </div>
@@ -335,7 +335,7 @@
              </div>
            </div>
 
-           
+
          </div>
        </div>
 
@@ -751,7 +751,7 @@
                       ?>
 
 
- 
+
                      <div class="mt-5 d-none d-md-block">
                        <a href="blogs.php" style="text-decoration: none;">
                          <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
@@ -788,7 +788,7 @@
 
 
 
-    
+
 
    <!-- ======= Footer ======= -->
    <?php include('./footer.php'); ?>

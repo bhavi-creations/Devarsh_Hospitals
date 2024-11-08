@@ -163,8 +163,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>Cardiology</Strong></p>
-                    <h1 class="about_test_cont_head">Cardiology</h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Paediatrics  </Strong></p>
+                    <h1 class="about_test_cont_head">Paediatrics </h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -181,7 +181,7 @@
                     </div>
 
                     <div class="col-md-6  order-0 order-md-1 ">
-                        <img src="assets/img/deversh/cardiology1.png" class="img-fluid  need_img_top" alt="">
+                        <img src="assets/img/deversh/peadritics (1).png" class="img-fluid  need_img_top" alt="">
                     </div>
 
                 </div>
@@ -197,7 +197,7 @@
                     <h1 class="service_text_head mt-3">Specialities</h1>
                     <div class="col-md-6 ">
                         <div class=" ">
-                            <img src="assets/img/deversh/cardiology2.png" class="img-fluid   " alt="">
+                            <img src="assets/img/deversh/peadritics (2).png" class="img-fluid   " alt="">
                         </div>
                     </div>
 
