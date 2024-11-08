@@ -1,5 +1,5 @@
 <?php
-include './db.connection/db_connection.php';// Include your database connection file
+include './db.connection/db_connection.php'; // Include your database connection file
 
 // Retrieve service filter from GET request
 $service = isset($_GET['service']) ? $_GET['service'] : '';
@@ -7,7 +7,7 @@ $service = isset($_GET['service']) ? $_GET['service'] : '';
 // Prepare SQL query with optional service filter
 $sql = "SELECT id, title, main_content, main_image, created_at FROM blogs";
 if (!empty($service)) {
-    $sql .= " WHERE service = ?";
+  $sql .= " WHERE service = ?";
 }
 $sql .= " ORDER BY created_at DESC";
 
@@ -16,7 +16,7 @@ $stmt = $conn->prepare($sql);
 
 // Bind parameters if service is set
 if (!empty($service)) {
-    $stmt->bind_param("s", $service);
+  $stmt->bind_param("s", $service);
 }
 
 // Execute the statement
@@ -84,103 +84,103 @@ $result = $stmt->get_result();
 
 
 
-<header id="header">
-     <div class="container d-flex align-items-center onlypad  ">
-       <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
-         <a href="index.php">
-           <img src="assets/img/deversh/Logo.png" class="img-fluid nav_logo_image " alt="">
-         </a>
-       </div>
+  <header id="header">
+    <div class="container d-flex align-items-center onlypad  ">
+      <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
+        <a href="index.php">
+          <img src="assets/img/deversh/Logo.png" class="img-fluid nav_logo_image " alt="">
+        </a>
+      </div>
 
-       <nav id="navbar" class="navbar order-lg-0">
-         <i class="bi bi-list mobile-nav-toggle"></i>
-         <ul>
-           <li><a class="nav-link scrollto  " href="index.php">Home</a></li>
-           <li class="nav-item ">
-             <a class="nav-link scrollto" href="about.php">About</a>
-           </li>
+      <nav id="navbar" class="navbar order-lg-0">
+        <i class="bi bi-list mobile-nav-toggle"></i>
+        <ul>
+          <li><a class="nav-link scrollto  " href="index.php">Home</a></li>
+          <li class="nav-item ">
+            <a class="nav-link scrollto" href="about.php">About</a>
+          </li>
 
-           <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+          <li class="unique-nav-item" style="--i: 1.1s">
+            <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+            <div class="unique-dropdown">
+              <ul class="unique-dropdown-list new_nav_bg">
+                <!-- Column 1 -->
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Urology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Orthopedic</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Paediatrics</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">General Surgery</a>
+                </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Dermatology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Radiology</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
-
-
-
-           <li><a class="nav-link scrollto" href="contact.php">Contact Us</a></li>
-           <li><a class="nav-link active" href="blogs.php">Blogs</a></li>
-
-           <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
-               Appointment
-             </a></li>
-         </ul>
-       </nav>
-
-       <a href="appointment.php" class="appointment-btn scrollto d-none d-lg-block" style="z-index: 999;">
-         <div class="d-flex  ">
-           <div class="svg_iconjm"> <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29" fill="none">
-               <path d="M22.9583 4.83331H6.04167C4.70698 4.83331 3.625 5.91529 3.625 7.24998V24.1666C3.625 25.5013 4.70698 26.5833 6.04167 26.5833H22.9583C24.293 26.5833 25.375 25.5013 25.375 24.1666V7.24998C25.375 5.91529 24.293 4.83331 22.9583 4.83331Z" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
-               <path d="M19.3333 2.41669V7.25002" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
-               <path d="M9.66675 2.41669V7.25002" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
-               <path d="M3.625 12.0833H25.375" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
-             </svg>
-           </div>
-           <div class=""> Book <i class="fa-solid fa-arrow-right"></i><br> Appointment</div>
-         </div>
-       </a>
-     </div>
+                <!-- Column 2 -->
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Cardiology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Neurology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Dermatology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Radiology</a>
+                </li>
+              </ul>
+              <div class="unique-arrow"></div>
+            </div>
+          </li>
 
 
-     <script>
-       // jQuery needed to manage hover and click behavior
-       $(document).ready(function() {
-         // Ensure that the dropdown opens on hover
-         $('#servicesDropdown').hover(function() {
-           $(this).dropdown('toggle');
-         });
 
-         // Make sure the dropdown also works on click
-         $('#servicesDropdown').click(function(e) {
-           e.stopPropagation(); // Prevents the click from closing the dropdown immediately
-           window.location.href = $(this).attr('href'); // Redirect to the link
-         });
-       });
-     </script>
-   </header>
+          <li><a class="nav-link scrollto" href="contact.php">Contact Us</a></li>
+          <li><a class="nav-link active" href="blogs.php">Blogs</a></li>
+
+          <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
+              Appointment
+            </a></li>
+        </ul>
+      </nav>
+
+      <a href="appointment.php" class="appointment-btn scrollto d-none d-lg-block" style="z-index: 999;">
+        <div class="d-flex  ">
+          <div class="svg_iconjm"> <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29" fill="none">
+              <path d="M22.9583 4.83331H6.04167C4.70698 4.83331 3.625 5.91529 3.625 7.24998V24.1666C3.625 25.5013 4.70698 26.5833 6.04167 26.5833H22.9583C24.293 26.5833 25.375 25.5013 25.375 24.1666V7.24998C25.375 5.91529 24.293 4.83331 22.9583 4.83331Z" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
+              <path d="M19.3333 2.41669V7.25002" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
+              <path d="M9.66675 2.41669V7.25002" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
+              <path d="M3.625 12.0833H25.375" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </div>
+          <div class=""> Book <i class="fa-solid fa-arrow-right"></i><br> Appointment</div>
+        </div>
+      </a>
+    </div>
+
+
+    <script>
+      // jQuery needed to manage hover and click behavior
+      $(document).ready(function() {
+        // Ensure that the dropdown opens on hover
+        $('#servicesDropdown').hover(function() {
+          $(this).dropdown('toggle');
+        });
+
+        // Make sure the dropdown also works on click
+        $('#servicesDropdown').click(function(e) {
+          e.stopPropagation(); // Prevents the click from closing the dropdown immediately
+          window.location.href = $(this).attr('href'); // Redirect to the link
+        });
+      });
+    </script>
+  </header>
 
   <main>
     <!-- Filter Buttons -->
@@ -196,7 +196,7 @@ $result = $stmt->get_result();
         <a href="blogs.php?service=Neurology"><button class="redirect_blog_srivice">Neurology</button></a>
         <a href="blogs.php?service=Dermatology"><button class="redirect_blog_srivice">Dermatology</button></a>
         <a href="blogs.php?service=Radiology"><button class="redirect_blog_srivice">Radiology</button></a>
-         
+
 
       </div>
     </div>
@@ -236,7 +236,7 @@ $result = $stmt->get_result();
     </div>
   </main>
 
- 
+
 
 
 
@@ -290,7 +290,7 @@ $result = $stmt->get_result();
 
 
 <?php
-        // Close the statement and connection
-        $stmt->close();
-        $conn->close();
-        ?>
+// Close the statement and connection
+$stmt->close();
+$conn->close();
+?>

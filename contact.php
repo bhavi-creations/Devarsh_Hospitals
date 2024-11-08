@@ -55,105 +55,199 @@
 
 
 
-<header id="header">
-     <div class="container d-flex align-items-center onlypad  ">
-       <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
-         <a href="index.php">
-           <img src="assets/img/deversh/Logo.png" class="img-fluid nav_logo_image " alt="">
-         </a>
-       </div>
+  <header id="header">
+    <div class="container d-flex align-items-center onlypad  ">
+      <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
+        <a href="index.php">
+          <img src="assets/img/deversh/Logo.png" class="img-fluid nav_logo_image " alt="">
+        </a>
+      </div>
 
-       <nav id="navbar" class="navbar order-lg-0">
-         <i class="bi bi-list mobile-nav-toggle"></i>
-         <ul>
-           <li><a class="nav-link scrollto " href="index.php">Home</a></li>
-           <li class="nav-item ">
-             <a class="nav-link scrollto" href="about.php">About</a>
-           </li>
+      <nav id="navbar" class="navbar order-lg-0">
+        <i class="bi bi-list mobile-nav-toggle"></i>
+        <ul>
+          <li><a class="nav-link scrollto " href="index.php">Home</a></li>
+          <li class="nav-item ">
+            <a class="nav-link scrollto" href="about.php">About</a>
+          </li>
 
-           <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+          <li class="unique-nav-item" style="--i: 1.1s">
+            <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+            <div class="unique-dropdown">
+              <ul class="unique-dropdown-list new_nav_bg">
+                <!-- Column 1 -->
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Urology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Orthopedic</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Paediatrics</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">General Surgery</a>
+                </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Dermatology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="#" class="unique-dropdown-link">Radiology</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
-
-
-
-           <li><a class="nav-link scrollto active" href="contact.php">Contact Us</a></li>
-           <li><a class="nav-link" href="blogs.php">Blogs</a></li>
-
-           <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
-               Appointment
-             </a></li>
-         </ul>
-       </nav>
-
-       <a href="appointment.php" class="appointment-btn scrollto d-none d-lg-block" style="z-index: 999;">
-         <div class="d-flex  ">
-           <div class="svg_iconjm"> <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29" fill="none">
-               <path d="M22.9583 4.83331H6.04167C4.70698 4.83331 3.625 5.91529 3.625 7.24998V24.1666C3.625 25.5013 4.70698 26.5833 6.04167 26.5833H22.9583C24.293 26.5833 25.375 25.5013 25.375 24.1666V7.24998C25.375 5.91529 24.293 4.83331 22.9583 4.83331Z" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
-               <path d="M19.3333 2.41669V7.25002" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
-               <path d="M9.66675 2.41669V7.25002" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
-               <path d="M3.625 12.0833H25.375" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
-             </svg>
-           </div>
-           <div class=""> Book <i class="fa-solid fa-arrow-right"></i><br> Appointment</div>
-         </div>
-       </a>
-     </div>
+                <!-- Column 2 -->
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Cardiology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Neurology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Dermatology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="#" class="unique-dropdown-link">Radiology</a>
+                </li>
+              </ul>
+              <div class="unique-arrow"></div>
+            </div>
+          </li>
 
 
-     <script>
-       // jQuery needed to manage hover and click behavior
-       $(document).ready(function() {
-         // Ensure that the dropdown opens on hover
-         $('#servicesDropdown').hover(function() {
-           $(this).dropdown('toggle');
-         });
 
-         // Make sure the dropdown also works on click
-         $('#servicesDropdown').click(function(e) {
-           e.stopPropagation(); // Prevents the click from closing the dropdown immediately
-           window.location.href = $(this).attr('href'); // Redirect to the link
-         });
-       });
-     </script>
-   </header>
+          <li><a class="nav-link scrollto active" href="contact.php">Contact Us</a></li>
+          <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
+          <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
+              Appointment
+            </a></li>
+        </ul>
+      </nav>
+
+      <a href="appointment.php" class="appointment-btn scrollto d-none d-lg-block" style="z-index: 999;">
+        <div class="d-flex  ">
+          <div class="svg_iconjm"> <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29" fill="none">
+              <path d="M22.9583 4.83331H6.04167C4.70698 4.83331 3.625 5.91529 3.625 7.24998V24.1666C3.625 25.5013 4.70698 26.5833 6.04167 26.5833H22.9583C24.293 26.5833 25.375 25.5013 25.375 24.1666V7.24998C25.375 5.91529 24.293 4.83331 22.9583 4.83331Z" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
+              <path d="M19.3333 2.41669V7.25002" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
+              <path d="M9.66675 2.41669V7.25002" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
+              <path d="M3.625 12.0833H25.375" stroke="#3C68A9" stroke-width="2.41667" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </div>
+          <div class=""> Book <i class="fa-solid fa-arrow-right"></i><br> Appointment</div>
+        </div>
+      </a>
+    </div>
+
+
+    <script>
+      // jQuery needed to manage hover and click behavior
+      $(document).ready(function() {
+        // Ensure that the dropdown opens on hover
+        $('#servicesDropdown').hover(function() {
+          $(this).dropdown('toggle');
+        });
+
+        // Make sure the dropdown also works on click
+        $('#servicesDropdown').click(function(e) {
+          e.stopPropagation(); // Prevents the click from closing the dropdown immediately
+          window.location.href = $(this).attr('href'); // Redirect to the link
+        });
+      });
+    </script>
+  </header>
+
+
+
+  
+  <section>
+
+
+    <div class="container">
+      <div class="row ">
+
+        <div class="col-md-6">
+
+          <p class="home_direction   ">Home > <Strong> Contact Us </Strong></p>
+
+          <h1 class="about_test_cont_head   ">contact us</h1>
+          <img src="assets\img\deversh\appotiment.png" class="img-fluid fluid d-none d-md-block" alt="devarsh">
  
+        </div>
+
+
+
+        <div class="col-md-6    " >
+          <div class="row row-icons ">
+
+            <div class="col-5 col-sm-6 col-md-5 col-lg-6 text-center text-sm-start">
+              <p> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                  <g clip-path="url(#clip0_134_107)">
+                    <path d="M23.3465 17.6136L19.9972 14.2643C18.801 13.0681 16.7676 13.5467 16.2891 15.1016C15.9302 16.1782 14.7341 16.7763 13.6575 16.537C11.2652 15.9389 8.03553 12.8289 7.43745 10.317C7.0786 9.24035 7.7963 8.04419 8.87285 7.68538C10.4279 7.20691 10.9063 5.17343 9.71017 3.97726L6.3609 0.627988C5.40396 -0.209329 3.96856 -0.209329 3.13124 0.627988L0.858521 2.90071C-1.4142 5.29305 1.09775 11.6327 6.71975 17.2547C12.3417 22.8767 18.6814 25.5083 21.0738 23.116L23.3465 20.8432C24.1839 19.8863 24.1839 18.4509 23.3465 17.6136Z" fill="#446391" />
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_134_107">
+                      <rect width="24" height="24" fill="white" />
+                    </clipPath>
+                  </defs>
+                </svg><strong> Call : </strong>7660907108</p>
+            </div>
+
+            <div class="col-7 col-sm-6 col-md-7  col-lg-6 text-center text-sm-start">
+
+              <p> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M3.43651 5.37927L11.0009 12.9469C12.6507 14.5936 15.3476 14.595 16.9987 12.9469L24.5631 5.37927C24.6393 5.30309 24.6282 5.17764 24.5398 5.116C23.7683 4.57793 22.8296 4.25894 21.8184 4.25894H6.18127C5.17005 4.25894 4.23134 4.57799 3.4598 5.116C3.37143 5.17764 3.36033 5.30309 3.43651 5.37927ZM1.41504 9.02512C1.41504 8.22997 1.61219 7.47867 1.95945 6.81832C2.01376 6.71501 2.15141 6.69412 2.23393 6.77664L9.70255 14.2453C12.0676 16.6138 15.9306 16.6151 18.2971 14.2453L25.7657 6.77664C25.8483 6.69412 25.9859 6.71501 26.0402 6.81832C26.3874 7.47867 26.5846 8.23002 26.5846 9.02512V18.9748C26.5846 21.6049 24.4452 23.741 21.8184 23.741H6.18127C3.55452 23.741 1.41504 21.6049 1.41504 18.9748V9.02512Z" fill="#446391" />
+                </svg><strong> Email : </strong>devarsh@gmail.com</p>
+            </div>
+
+          </div>
+
+
+          <div class="details">
+
+            <form action="contactform.php" method="post" role="form" class="php-email-form"
+              data-aos-delay="100">
+              <div class="row">
+                <div class="col-md-6 form-group mt-4 mt-md-0 mb-4">
+                  <input type="text" name="contactname" class="form-control  " id="name"
+                    style="border-radius: 23px; " placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-4 mt-md-0">
+                  <input type="email" class="form-control  " name="contactemail" id="email"
+                    style="border-radius: 23px;" placeholder="Your Email" required>
+                </div>
+                
+                <div class="col-md-6 form-group mt-4  mt-md-0">
+                  <input type="text" name="contactsubject" class="form-control datepicker  "
+                    style="border-radius: 23px;" id="date" placeholder="subject" required>
+                </div>
+                <div class="col-md-6 form-group mt-5 mt-md-0">
+                  <input type="tel" class="form-control  " name="contactnumber" id="phone"
+                    style="border-radius: 23px;" placeholder="Your Phone" required>
+                </div>
+              </div>
+              <div class="row">
+
+
+              </div>
+
+              <div class="form-group mt-4 mb-5">
+                <textarea class="form-control" name="contactmessage" style="border-radius: 23px;" rows="5"
+                  placeholder="Message (Optional)"></textarea>
+              </div>
+
+              <div class="text-center maker"><button type="submit" class="makee">send meassage</button></div>
+            </form>
+          </div>
+
+
+
+        </div>
+
+
+      </div>
+    </div>
+    </div>
+  </section>
+
+
+
 
 
   <!-- ======= Footer ======= -->

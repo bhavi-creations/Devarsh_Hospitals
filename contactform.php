@@ -24,14 +24,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'visiondentalguntur@gmail.com'; // Your Gmail email address
-        $mail->Password = 'tdhztwykrazgiytr'; // Your Gmail password
+        $mail->Username = 'devarshhospitals.2015@gmail.com'; // Your Gmail email address
+        $mail->Password = 'rtbewvhbjahaxgin'; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('visiondentalguntur@gmail.com', 'visiondentalguntur.com' ); // Your Gmail email and name
-        $mail->addAddress('visiondentalguntur@gmail.com', 'visiondentalguntur.com'); // Recipient's email and name
+        $mail->setFrom('devarshhospitals.2015@gmail.com', 'devarshhospitals.com' ); // Your Gmail email and name
+        $mail->addAddress('devarshhospitals.2015@gmail.com', 'devarshhospitals.com'); // Recipient's email and name
 
         // Content
         $mail->isHTML(true);
