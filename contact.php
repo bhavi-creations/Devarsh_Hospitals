@@ -72,43 +72,43 @@
           </li>
 
           <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+            <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+            <div class="unique-dropdown">
+              <ul class="unique-dropdown-list new_nav_bg">
+                <!-- Column 1 -->
+                <li class="unique-dropdown-item">
+                  <a href="urology.php" class="unique-dropdown-link">Urology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
+                </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
+                <!-- Column 2 -->
+                <li class="unique-dropdown-item">
+                  <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
+                </li>
+                <li class="unique-dropdown-item">
+                  <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
+                </li>
+              </ul>
+              <div class="unique-arrow"></div>
+            </div>
+          </li>
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-  
+
   <section>
 
 
@@ -168,12 +168,12 @@
 
           <h1 class="about_test_cont_head   ">contact us</h1>
           <img src="assets\img\deversh\appotiment.png" class="img-fluid fluid d-none d-md-block" alt="devarsh">
- 
+
         </div>
 
 
 
-        <div class="col-md-6    " >
+        <div class="col-md-6    ">
           <div class="row row-icons ">
 
             <div class="col-5 col-sm-6 col-md-5 col-lg-6 text-center text-sm-start">
@@ -212,7 +212,7 @@
                   <input type="email" class="form-control  " name="contactemail" id="email"
                     style="border-radius: 23px;" placeholder="Your Email" required>
                 </div>
-                
+
                 <div class="col-md-6 form-group mt-4  mt-md-0">
                   <input type="text" name="contactsubject" class="form-control datepicker  "
                     style="border-radius: 23px;" id="date" placeholder="subject" required>
@@ -246,7 +246,13 @@
     </div>
   </section>
 
-
+  <section>
+    <div class="container my-5">
+      <div class="row">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3810.778830268431!2d82.1918254!3d17.2295154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a377f065377b337%3A0x96b247104ede3218!2sDevarsh%20Hospitals!5e0!3m2!1sen!2sin!4v1731063780059!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </div>
+  </section>
 
 
 

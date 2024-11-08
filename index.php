@@ -205,11 +205,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/urology.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+               <a href="urology.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -221,11 +223,11 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Obstetrics.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+              <a href="gynocology.php"> <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                    <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                    <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
                    <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+                 </svg></p></a>
 
              </div>
            </div>
@@ -236,11 +238,11 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Orthopedic.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+             <a href="orthopedic.php">  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                    <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                    <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
                    <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+                 </svg></p></a>
 
              </div>
            </div>
@@ -251,11 +253,11 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Paediatrics.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+             <a href="paediatrics.php">  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                    <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                    <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
                    <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+                 </svg></p></a>
 
              </div>
            </div>
@@ -266,11 +268,11 @@
                <div class="text-center">
                  <img src="assets/img/deversh/General surgery.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+             <a href="generalsurgery.php"> <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                    <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                    <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
                    <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+                 </svg></p></a> 
 
              </div>
            </div>
@@ -281,11 +283,11 @@
                <div class="text-center">
                  <img src="assets/img/deversh/General medicine.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+             <a href="generalmedicine.php"> <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                    <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                    <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
                    <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+                 </svg></p></a> 
 
              </div>
            </div>
@@ -296,11 +298,11 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Gastroenterology.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+           <a href="gastroenterology.php">  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                    <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                    <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
                    <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+                 </svg></p></a>  
 
              </div>
            </div>
@@ -311,11 +313,11 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Neurology.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+              <a href="neurology.php"> <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                    <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                    <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
                    <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+                 </svg></p></a>
 
              </div>
            </div>
@@ -326,11 +328,11 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Cardiology.png" class="img-fluid img_box" alt="">
                </div>
-               <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+             <a href="cardiology.php">  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                    <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                    <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
                    <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p>
+                 </svg></p></a>
 
              </div>
            </div>
