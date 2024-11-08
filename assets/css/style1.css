@@ -11,15 +11,6 @@ img.img-fluid.dr_img_padding {
   align-items: center;
 }
 
-.poetsen_font1 {
-  color: #141b2a;
-  font-family: Poppins;
-  font-size: 15px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 28px;
-
-}
 
 
 @media (min-width:768px) and (max-width:992px) {

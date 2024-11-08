@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Srinivasa Dental - Dashboard</title>
+    <title>Devarsh Hospitals - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -67,18 +67,16 @@
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Root Canal">Root Canal</option>
-                                                <option value="Dental Braces">Dental Braces</option>
-                                                <option value="Dental Implants">Dental Implants</option>
-                                                <option value="Crown & Bridge">Crown & Bridge</option>
-                                                <option value="Teeth Filling">Teeth Filling</option>
-                                                <option value="Dentures">Dentures</option>
-                                                <option value="Teeth Scaling">Teeth Scaling</option>
-                                                <option value="Tooth Extraction">Tooth Extraction</option>
-                                                <option value="Teeth Cleaning">Teeth Cleaning</option>
-                                                <option value="Teeth Whitening">Teeth Whitening</option>
-                                                <option value="Smile Makeover">Smile Makeover</option>
-                                                <option value="Full Mouth Restoration">Full Mouth Restoration</option>
+                                                <option value="Urology">Urology</option>
+                                                <option value="Obstetrics & Gynaecology">Obstetrics & Gynaecology</option>
+                                                <option value="Orthopedic">Orthopedic</option>
+                                                <option value="Paediatrics">Paediatrics</option>
+                                                <option value="General Surgery">General Surgery</option>
+                                                <option value="Cardiology">Cardiology</option>
+                                                <option value="Neurology">Neurology</option>
+                                                <option value="Dermatology">Dermatology</option>
+                                                <option value="Radiology">Radiology</option>
+                                                
                                             </select>
                                         </div>
 
@@ -238,7 +236,7 @@
                     <div class="container my-auto">
                         <div class="copyright text-center my-auto">
                             <div class="footer-widget__copyright">
-                                <p class="mini_text" style="color:black"> ©2024 Srinivasa Dental . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi Creations</a></p>
+                                <p class="mini_text" style="color:black"> ©2024 Devarsh Hospitals . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi Creations</a></p>
                             </div>
                         </div>
                     </div>

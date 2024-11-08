@@ -9,7 +9,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title> Srinivasa Dental</title>
+        <title> Devarsh Hospitals</title>
         <link href="img\Oncology logo.png" rel="icon">
 
         <!-- Custom fonts for this template-->
