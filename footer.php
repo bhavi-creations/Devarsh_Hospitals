@@ -99,19 +99,19 @@
                     <h1 class="foot_head">Patient Guide</h1>
 
                     <li class="foot_para">
-                        <a href="root.php" style="color: #1E1E1E;">Home</a>
+                        <a href="index.php" style="color: #1E1E1E;">Home</a>
                     </li>
                     <li class="foot_para">
-                        <a href="braces.php" style="color: #1E1E1E;"> About Us </a>
+                        <a href="about.php" style="color: #1E1E1E;"> About Us </a>
                     </li>
                     <li class="foot_para">
-                        <a href="braces.php" style="color: #1E1E1E;"> Blogs </a>
+                        <a href="blogs.php" style="color: #1E1E1E;"> Blogs </a>
                     </li>
                     <li class="foot_para">
-                        <a href="pediatric.php" style="color: #1E1E1E;">Contact Us</a>
+                        <a href="contact.php" style="color: #1E1E1E;">Contact Us</a>
                     </li>
                     <li class="foot_para">
-                        <a href="paedodontist.php" style="color: #1E1E1E;">Book an Appoitment</a>
+                        <a href="appointment.php" style="color: #1E1E1E;">Book an Appoitment</a>
                     </li>
 
                     </ul>
@@ -121,31 +121,31 @@
                     <h1 class="foot_head">Specialties</h1>
 
                     <li class="foot_para">
-                        <a href="root.php" style="color: #1E1E1E;">Urology </a>
+                        <a href="urology.php" style="color: #1E1E1E;">Urology </a>
                     </li>
                     <li class="foot_para">
-                        <a href="braces.php" style="color: #1E1E1E;">gynaecology </a>
+                        <a href="gynocology.php" style="color: #1E1E1E;">gynaecology </a>
                     </li>
                     <li class="foot_para">
-                        <a href="pediatric.php" style="color: #1E1E1E;">Orthopedic </a>
+                        <a href="orthopedic.php" style="color: #1E1E1E;">Orthopedic </a>
                     </li>
                     <li class="foot_para">
-                        <a href="paedodontist.php" style="color: #1E1E1E;">Paediatrics</a>
+                        <a href="paediatrics.php" style="color: #1E1E1E;">Paediatrics</a>
                     </li>
                     <li class="foot_para">
-                        <a href="aligners.php" style="color: #1E1E1E;">General surgery </a>
+                        <a href="generalsurgery.php" style="color: #1E1E1E;">General surgery </a>
                     </li>
                     <li class="foot_para">
-                        <a href="cosmetic.php" style="color: #1E1E1E;">General medicine </a>
+                        <a href="generalmedicine.php" style="color: #1E1E1E;">General medicine </a>
                     </li>
                     <li class="foot_para">
-                        <a href="crowns.php" style="color: #1E1E1E;">Gastroenterology</a>
+                        <a href="gastroenterology.php" style="color: #1E1E1E;">Gastroenterology</a>
                     </li>
                     <li class="foot_para">
-                        <a href="implants.php" style="color: #1E1E1E;">Neurology </a>
+                        <a href="neurology.php" style="color: #1E1E1E;">Neurology </a>
                     </li>
                     <li class="foot_para">
-                        <a href="implants.php" style="color: #1E1E1E;">Cardiology </a>
+                        <a href="cardiology.php" style="color: #1E1E1E;">Cardiology </a>
                     </li>
                     </ul>
 
