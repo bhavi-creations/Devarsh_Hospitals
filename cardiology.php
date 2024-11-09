@@ -301,8 +301,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                    <p class="test_cont_para">Committed to Providing Quality Healthcare For Every Patient,
-                        Every Time</p>
+                     
                 </div>
                 <div class="row mt-5">
 
@@ -313,25 +312,27 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> What are the symptoms of Heart attack?
+
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Symptoms of a heart attack include chest pain, shortness of breath, dizziness, and nausea. Pain may radiate to the arm, jaw, or back.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> What are the risk factors for heart disease?
+
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Risk factors for heart disease include high blood pressure, smoking, high cholesterol, diabetes, obesity, and a sedentary lifestyle.
                                     </div>
                                 </li>
 
@@ -351,26 +352,28 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> What are healthy heart foods?
+
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Healthy heart foods include fruits, vegetables, whole grains, lean proteins, and healthy fats like those found in fish and nuts.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> Does stress contribute to cardiac disease?
+
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Stress does contribute to cardiac disease by increasing blood pressure, raising heart rate, and promoting unhealthy habits like overeating or smoking.
                                     </div>
                                 </li>
                             </ul>

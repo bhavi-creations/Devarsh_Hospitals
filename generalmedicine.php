@@ -301,8 +301,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                    <p class="test_cont_para">Committed to Providing Quality Healthcare For Every Patient,
-                        Every Time</p>
+                   
                 </div>
                 <div class="row mt-5">
 
@@ -313,25 +312,27 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> What conditions do general medicine doctors treat? 
+
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    General medicine doctors manage a wide range of health conditions, including infections, chronic illnesses like diabetes, and preventive health care.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> How often should I see a general physician? 
+
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    It’s recommended to visit a general physician annually for routine check-ups or more often if managing chronic conditions.
                                     </div>
                                 </li>
 
@@ -351,26 +352,28 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag">What should I bring to a general medicine appointment?  
+
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Bring a list of current medications, any medical history documents, and questions you may have for your doctor.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> Can a general physician refer me to a specialist?  
+
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Yes, general physicians can refer you to specialists when more advanced or targeted treatment is needed.
                                     </div>
                                 </li>
                             </ul>

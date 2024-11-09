@@ -977,6 +977,18 @@ button.reader {
     margin-bottom: -56px;
     text-align: center;
   }
+  .about_test_cont_head_about {
+    padding: 0px;
+    /* margin-bottom: -56px; */
+    text-align: center;
+    color: #446391;
+
+    font-family: Helvetica;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 192%;
+  }
 }
 
 @media(min-width:768px) and (max-width:992px) {
@@ -995,6 +1007,18 @@ button.reader {
     padding: 30px;
     border: none;
 
+  }
+
+  .about_test_cont_head_about {
+    padding: 0px;
+ 
+    color: #446391;
+
+    font-family: Helvetica;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 192%;
   }
 }
 
@@ -1019,6 +1043,17 @@ button.reader {
     border: none;
 
   }
+  .about_test_cont_head_about {
+    padding: 0px;
+ 
+    color: #446391;
+
+    font-family: Helvetica;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 192%;
+  }
 }
 
 @media(min-width:1200px) {
@@ -1037,5 +1072,16 @@ button.reader {
     border: none;
     margin-top: 150px !important;
 
+  }
+  .about_test_cont_head_about {
+    padding: 0px;
+ 
+    color: #446391;
+
+    font-family: Helvetica;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 192%;
   }
 }

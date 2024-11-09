@@ -301,8 +301,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                    <p class="test_cont_para">Committed to Providing Quality Healthcare For Every Patient,
-                        Every Time</p>
+                    
                 </div>
                 <div class="row mt-5">
 
@@ -313,25 +312,27 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> Can I travel during pregnancy?  
+
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Yes, unless there are complications, travelling during pregnancy is generally safe, with the second trimester being ideal. Most Indian airlines allow travel up to 32 weeks.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> How often should I get checked by my doctor during my pregnancy?
+
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    In a normal pregnancy, check-ups are typically monthly until 28 weeks, bi-weekly until 36 weeks, and weekly until 40 weeks. High-risk pregnancies may need more frequent visits.
                                     </div>
                                 </li>
 
@@ -351,26 +352,28 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> What should my diet be once I am pregnant?  
+ 
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    A balanced diet with leafy vegetables, whole grains, dairy, fruits, and lean meats is essential, along with prenatal vitamins for added nutrients like folic acid, iron, and calcium.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> Do I require any post-surgery follow-ups?  
+
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Yes, follow-ups are necessary, especially for conditions like preeclampsia and placenta previa due to risks of postpartum haemorrhage. Your doctor will advise based on your specific case.
                                     </div>
                                 </li>
                             </ul>

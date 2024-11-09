@@ -301,8 +301,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                    <p class="test_cont_para">Committed to Providing Quality Healthcare For Every Patient,
-                        Every Time</p>
+                     
                 </div>
                 <div class="row mt-5">
 
@@ -313,25 +312,27 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> Why would you need to see a gastroenterologist?
+
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    If you are over the age of 45, you should visit a gastroenterologist to have a screening colonoscopy. Other than this very important screening, you might choose to see a gastroenterologist if you are suffering with gastrointestinal symptoms such as cramping, pain, discomfort or sudden changes in bowel movements. 
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> What are the most common signs and symptoms of gastrointestinal disorders?
+
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    The most common signs and symptoms of gastrointestinal disorders include stomach pain, significant heartburn or reflux, weight loss or gain, changes in bowels or blood in stool. 
                                     </div>
                                 </li>
 
@@ -351,26 +352,28 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag">What diseases do gastroenterologists treat?
+
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Gastroenterologists can treat a variety of diseases related to the digestive system, including abdominal pain, acid reflux/GERD, Barrett’s oesophagus, celiac disease, colitis, colonoscopy, Crohn’s disease, gallstones, inflammatory bowel disease, irritable bowel syndrome (IBS), liver disease, pancreatic disease and ulcerative colitis.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag">What tests does a gastroenterologist perform?
+
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Screenings and tests performed by gastroenterologists include colonoscopies, EGD/upper GI endoscopy, endoscopic ultrasounds, liver biopsy, sigmoidoscopies, video capsule endoscopies, endoscopic retrograde cholangiopancreatography (ERCP) and Cholangioscopy.
                                     </div>
                                 </li>
                             </ul>

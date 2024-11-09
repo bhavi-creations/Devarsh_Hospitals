@@ -301,8 +301,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                    <p class="test_cont_para">Committed to Providing Quality Healthcare For Every Patient,
-                        Every Time</p>
+                     
                 </div>
                 <div class="row mt-5">
 
@@ -313,25 +312,27 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag">What does a neurologist treat? 
+
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Neurologists treat disorders of the nervous system, brain, spinal cord, nerves and muscles.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> What are neurological disorders?
+
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Neurological disorders are diseases of the brain, spine and nerves. There are more than 600 diseases of the nervous system, such as brain tumours, epilepsy, Alzheimer’s disease, Parkinson's disease and stroke.
                                     </div>
                                 </li>
 
@@ -351,26 +352,28 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> How are neurological disorders treated?
+
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Since no two conditions are the same, our neurologists use a wide range of diagnostic tools and evaluations to determine the best treatment options for you. Browse conditions and treatments.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
+                                        <p class="list_p_tag"> What is Parkinson's disease?
+
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
+                                    Parkinson's disease is a disorder in which a patient has multiple symptoms like tremors, slowness in doing day to day activities, difficulty in walking, stiffness in hands and legs, etc.
                                     </div>
                                 </li>
                             </ul>

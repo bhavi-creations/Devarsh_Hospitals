@@ -189,8 +189,8 @@
      <div class="container text-center testmonials_section_space">
        <div class="row  d-flex fex-row justify-content-center">
          <h1 class="test_cont_head only_to_plus">Our Centres of Excellence</h1>
-         <p class="test_cont_para only_to_miinus">Committed to Providing Quality Healthcare For Every Patient,
-           Every Time</p>
+         <p class="test_cont_para only_to_miinus">Delivers top-tier, specialised medical care with advanced technology and expert teams.
+         </p>
        </div>
      </div>
 
@@ -223,11 +223,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Obstetrics.png" class="img-fluid img_box" alt="">
                </div>
-              <a href="gynocology.php"> <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p></a>
+               <a href="gynocology.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -238,11 +240,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Orthopedic.png" class="img-fluid img_box" alt="">
                </div>
-             <a href="orthopedic.php">  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p></a>
+               <a href="orthopedic.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -253,11 +257,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Paediatrics.png" class="img-fluid img_box" alt="">
                </div>
-             <a href="paediatrics.php">  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p></a>
+               <a href="paediatrics.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -268,11 +274,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/General surgery.png" class="img-fluid img_box" alt="">
                </div>
-             <a href="generalsurgery.php"> <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p></a> 
+               <a href="generalsurgery.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -283,11 +291,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/General medicine.png" class="img-fluid img_box" alt="">
                </div>
-             <a href="generalmedicine.php"> <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p></a> 
+               <a href="generalmedicine.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -298,11 +308,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Gastroenterology.png" class="img-fluid img_box" alt="">
                </div>
-           <a href="gastroenterology.php">  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p></a>  
+               <a href="gastroenterology.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -313,11 +325,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Neurology.png" class="img-fluid img_box" alt="">
                </div>
-              <a href="neurology.php"> <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p></a>
+               <a href="neurology.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -328,11 +342,13 @@
                <div class="text-center">
                  <img src="assets/img/deversh/Cardiology.png" class="img-fluid img_box" alt="">
                </div>
-             <a href="cardiology.php">  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                   <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                   <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                 </svg></p></a>
+               <a href="cardiology.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
 
              </div>
            </div>
@@ -395,8 +411,7 @@
      <div class="container text-center testmonials_section_space">
        <div class="row  d-flex fex-row justify-content-center">
          <h1 class="test_cont_head">Message From Our Chairman</h1>
-         <p class="test_cont_para">Committed to Providing Quality Healthcare For Every Patient,
-           Every Time</p>
+
        </div>
      </div>
      <div class="container">
@@ -407,10 +422,12 @@
          <div class="col-md-6">
 
 
-           <p class="doc_para_text">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-           <p class="doc_para_text">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-           <p class="doc_para_text">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-
+           <p class="doc_para_text">Welcome to Devarsh Hospitals, where we prioritise the health and well-being of our patients above all else. As a multi-specialty healthcare provider, we are committed to offering world-class medical care, advanced technology, and compassionate service.
+           </p>
+           <p class="doc_para_text">Our mission is to bring exceptional healthcare within reach, empowering individuals to lead healthier lives. At Devarsh Hospitals, our team of highly skilled doctors, nurses, and healthcare professionals work together to provide personalised, evidence-based treatments in a comfortable and safe environment.
+           </p>
+           <p class="doc_para_text">We understand that healthcare is more than just a service; it is a vital part of your journey to good health. That is why we are dedicated to creating an experience that is patient-centred, efficient, and caring. Whether you are visiting for routine care or seeking specialised treatment, you can trust us to support your health needs at every step.</p>
+           <p class="doc_para_text">Thank you for choosing Devarsh Hospitals. We are here to serve you with dedication, integrity, and excellence.</p>
 
          </div>
 
@@ -427,8 +444,8 @@
            Call Us!</h2>
 
          <h4 class="mob_num_text">+91 91546 56888</h4>
-         <p class="text_mam">Lorem ipsum dolor sit amet consectetur.
-           Vestibulum proin vulputate
+         <p class="text_mam">Our expert medical team is always ready to assist you in any emergency. Your health and safety are our top priority.
+
          </p>
 
        </div>
@@ -487,7 +504,7 @@
 
                          <div class="d-flex get_up_top">
                            <p class="side_line"></p>
-                           <h3 class="revier_name">Sesha Reddy</h3>
+                           <h3 class="revier_name">shanker </h3>
 
                          </div>
                          <div class="">
@@ -497,9 +514,9 @@
                        </div>
 
                        <div class="card-content ">
-                         <h2 class="  text_card_head">Best Service
+
                          </h2>
-                         <p class="description_in_card">“I had a wonderful experience at this dental hospital. The staff were incredibly...”</p>
+                         <p class="description_in_card">“I am extremely grateful to Dr. B. Anji Naik and the team at Devarsh Hospital for their exceptional care. After struggling with kidney disease for months, Dr. Naik's expertise and attention gave me hope. His approach was both professional and compassionate, and I felt at ease throughout my treatment. Thanks to his skillful treatment, I am now on the path to recovery. I highly recommend Dr. Naik to anyone in need of expert kidney care”</p>
 
 
                        </div>
@@ -514,19 +531,19 @@
 
                          <div class="d-flex get_up_top">
                            <p class="side_line"></p>
-                           <h3 class="revier_name">Sesha Reddy</h3>
+                           <h3 class="revier_name">Bhoomika</h3>
 
                          </div>
                          <div class="">
-                           <img src="assets/img/deversh/test (2).png" class="img-fluid dp_image_testmonials" alt="">
+                           <img src="assets/img/deversh/test (3).png" class="img-fluid dp_image_testmonials" alt="">
                          </div>
 
                        </div>
 
                        <div class="card-content ">
-                         <h2 class="  text_card_head">Best Service
+
                          </h2>
-                         <p class="description_in_card">“I had a wonderful experience at this dental hospital. The staff were incredibly...”</p>
+                         <p class="description_in_card">“ I am extremely grateful to Dr. D. Vijaya and the team at Devarsh Hospital. After struggling with infertility, I consulted Dr. Vijaya, who guided me with personalised treatment and care. Thanks to her expertise and support, I am now happily pregnant! Her knowledge, patience, and understanding made all the difference in my journey. I highly recommend Dr. Vijaya for anyone facing infertility challenges.”</p>
 
 
                        </div>
@@ -541,61 +558,7 @@
 
                          <div class="d-flex get_up_top">
                            <p class="side_line"></p>
-                           <h3 class="revier_name">Sesha Reddy</h3>
-
-                         </div>
-                         <div class="">
-                           <img src="assets/img/deversh/test (3).png" class="img-fluid dp_image_testmonials" alt="">
-                         </div>
-
-                       </div>
-
-                       <div class="card-content ">
-                         <h2 class="  text_card_head">Best Service
-                         </h2>
-                         <p class="description_in_card">“I had a wonderful experience at this dental hospital. The staff were incredibly...”</p>
-
-
-                       </div>
-
-
-                     </div>
-
-                     <div class="card swiper-slide ">
-
-
-                       <div class="d-flex profile_card_div_dp card_border_radious2">
-
-                         <div class="d-flex get_up_top">
-                           <p class="side_line"></p>
-                           <h3 class="revier_name">Sesha Reddy</h3>
-
-                         </div>
-                         <div class="">
-                           <img src="assets/img/deversh/test (1).png" class="img-fluid dp_image_testmonials" alt="">
-                         </div>
-
-                       </div>
-
-                       <div class="card-content ">
-                         <h2 class="  text_card_head">Best Service
-                         </h2>
-                         <p class="description_in_card">“I had a wonderful experience at this dental hospital. The staff were incredibly...”</p>
-
-
-                       </div>
-
-
-                     </div>
-
-                     <div class="card swiper-slide ">
-
-
-                       <div class="d-flex profile_card_div_dp card_border_radious1">
-
-                         <div class="d-flex get_up_top">
-                           <p class="side_line"></p>
-                           <h3 class="revier_name">Sesha Reddy</h3>
+                           <h3 class="revier_name">Ramesh</h3>
 
                          </div>
                          <div class="">
@@ -605,9 +568,68 @@
                        </div>
 
                        <div class="card-content ">
-                         <h2 class="  text_card_head">Best Service
+
                          </h2>
-                         <p class="description_in_card">“I had a wonderful experience at this dental hospital. The staff were incredibly...”</p>
+                         <p class="description_in_card">“ I suffered severe burns in a fire accident. After my recovery, I consulted Dr. Satya Sundeep Pandu at Devarsh Hospital for plastic and reconstructive surgery. Thanks to his expertise, I look just like I did before the accident. Dr. Pandu's care and skill have been truly life-changing, and I am beyond grateful for his exceptional work.”</p>
+
+
+                       </div>
+
+
+                     </div>
+                   
+
+                     <div class="card swiper-slide ">
+
+
+                       <div class="d-flex profile_card_div_dp card_border_radious2">
+
+                         <div class="d-flex get_up_top">
+                           <p class="side_line"></p>
+                           <h3 class="revier_name"> Chandra
+                           </h3>
+
+                         </div>
+                         <div class="">
+                           <img src="assets/img/deversh/test (1).png" class="img-fluid dp_image_testmonials" alt="">
+                         </div>
+
+                       </div>
+
+                       <div class="card-content ">
+
+                         <p class="description_in_card">“I had a wonderful experience at Devarsh Hospital under the care of Dr. Taraka Krishna Nulukurthi. I was diagnosed with appendicitis and was quite worried, but Dr. Nulukurthi explained everything clearly and performed laparoscopic surgery. The procedure was smooth, and my recovery was quick. The hospital staff was very supportive, and I felt comfortable throughout my stay. I’m extremely grateful for the excellent care and highly recommend Dr. Nulukurthi and Devarsh Hospital for anyone in need of treatment.”
+                         </p>
+
+
+                       </div>
+
+
+                     </div>
+
+
+
+                     <div class="card swiper-slide ">
+
+
+                       <div class="d-flex profile_card_div_dp card_border_radious1">
+
+                         <div class="d-flex get_up_top">
+                           <p class="side_line"></p>
+                           <h3 class="revier_name">jagan</h3>
+
+                         </div>
+                         <div class="">
+                           <img src="assets/img/deversh/test (2).png" class="img-fluid dp_image_testmonials" alt="">
+                         </div>
+
+                       </div>
+
+                       <div class="card-content ">
+
+                         </h2>
+                         <p class="description_in_card">"I am writing this on behalf of my father, Jaganadham, who was diagnosed with throat cancer. We are incredibly grateful to Dr. Tarak, a skilled surgical oncologist, who provided exceptional care throughout his treatment. From the initial consultation to the recovery process, Dr. Tarak's expertise, compassion, and precision in performing the surgery were outstanding. My father has recovered remarkably well, and we couldn’t have asked for a better doctor. We highly recommend Dr. Tarak and Devarsh Hospital for anyone seeking expert care in oncology."
+                         </p>
 
 
                        </div>
@@ -622,19 +644,20 @@
 
                          <div class="d-flex get_up_top">
                            <p class="side_line"></p>
-                           <h3 class="revier_name">Sesha Reddy</h3>
+                           <h3 class="revier_name">Raja Rao
+                           </h3>
 
                          </div>
                          <div class="">
-                           <img src="assets/img/deversh/test (3).png" class="img-fluid dp_image_testmonials" alt="">
+                           <img src="assets/img/deversh/test (1).png" class="img-fluid dp_image_testmonials" alt="">
                          </div>
 
                        </div>
 
                        <div class="card-content ">
-                         <h2 class="  text_card_head">Best Service
-                         </h2>
-                         <p class="description_in_card">“I had a wonderful experience at this dental hospital. The staff were incredibly...”</p>
+
+                         <p class="description_in_card">"After battling dengue fever, I visited Devarsh Hospital and received exceptional care. The doctors and staff were attentive, and the treatment plan was thorough. I felt well-supported throughout my recovery, and within no time, I was back to my normal self. The hospital's facilities were top-notch, and I’m incredibly grateful for the excellent treatment. Highly recommend Devarsh Hospital for anyone in need of quality care!" – Raja Rao
+                         </p>
 
 
                        </div>

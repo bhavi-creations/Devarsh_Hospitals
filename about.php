@@ -163,13 +163,12 @@
 
           <p class="home_direction">Home > <Strong> About Us </Strong></p>
 
-          <h1 class="about_test_cont_head">Our Mission</h1>
+          <h1 class="about_test_cont_head_about">Our Mission</h1>
 
 
-          <p class="doc_para_text_mini">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-          <p class="doc_para_text_mini">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-          <p class="doc_para_text_mini"> <span class="span_class"> 5,50,000+</span> <br>
-            Happy patients annually</p>
+          <p class="doc_para_text_mini">At Devarsh Hospital, our mission is to provide accessible, high-quality healthcare to individuals in rural communities and beyond. As a trusted multi-specialty hospital and division headquarters, we are dedicated to offering a wide range of medical services, including urology, gynaecology, orthopaedics, paediatrics, and general surgery.</p>
+          <p class="doc_para_text_mini">Our goal is to ensure that every patient, whether from nearby areas or distant locations, receives compassionate care, advanced treatments, and personalised attention. We are committed to enhancing the health and well-being of our community, fostering a healthy future for all.</p>
+         
 
 
         </div>
@@ -191,7 +190,7 @@
 
 
         <div class="col-md-6 order-1 order-md-0">
-          <img src="assets/img/deversh/about_doc.png" class="img-fluid" alt="">
+          <img src="assets/img/deversh/chair_man.png" class="img-fluid" alt="">
         </div>
 
 
@@ -201,8 +200,9 @@
           <h1 class="about_test_cont_two">Overview</h1>
 
 
-          <p class="doc_para_text_mini">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-          <p class="doc_para_text_mini">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+          <p class="doc_para_text_mini">Nestled in the heart of a rural community, Devarsh Hospital serves as a trusted healthcare hub for both local residents and patients from distant areas. As the division headquarters, we are dedicated to providing compassionate, high-quality medical care to individuals seeking treatment across a wide range of specialties.
+          </p>
+          <p class="doc_para_text_mini">At Devarsh Hospital, we take pride in offering comprehensive medical services through our state-of-the-art facilities and skilled team of healthcare professionals. Our hospital has grown to become a beacon of hope for patients in need of specialised care.</p>
 
 
         </div>
@@ -236,8 +236,12 @@
                 <img src="assets/img/deversh/doc_name (2).png" class="img-fluid img_box_doc" alt="">
               </div>
 
-              <h4 class="text-center card_text_inn_doc">Doctor Name</h4>
-              <p class="card_doc_name">Rahul</p>
+              <h4 class="text-center card_text_inn_doc"> Dr.Anji Naik</h4>
+              <p class="card_doc_name"> M.S (general surgery)</p>
+              <p class="card_doc_name"> M.ch (urology)              </p>
+              <p class="card_doc_name">Andrology and kidney transplant surgeon</p>
+          
+
 
             </div>
           </div>
@@ -258,11 +262,31 @@
             <div class="row  ">
 
               <div class="text-center">
+                <img src="assets/img/deversh/doc_name (2).png" class="img-fluid img_box_doc" alt="">
+              </div>
+
+              <h4 class="text-center card_text_inn_doc">Dr. Satya Sundeep pandu. </h4>
+              <p class="card_doc_name">M.S. ( general surgery) </p>
+              <p class="card_doc_name"> M.Ch ( plastic and reconstructive surgery)</p>
+
+
+            </div>
+          </div>
+          <div class="custom-card   swiper-slide">
+            <div class="row  ">
+
+              <div class="text-center">
                 <img src="assets/img/deversh/doc_name (3).png" class="img-fluid img_box_doc" alt="">
               </div>
 
-              <h4 class="text-center card_text_inn_doc">Doctor Name</h4>
-              <p class="card_doc_name">Rahul</p>
+              <h4 class="text-center card_text_inn_doc">Dr D.vijaya
+              </h4>
+              <p class="card_doc_name">M.S (obg),FMAS,DMAS
+              </p>
+              <p class="card_doc_name">Obg and infertility specialist 
+              </p>
+              <p class="card_doc_name">Laparoscopic surgeon</p>
+
 
             </div>
           </div>
@@ -273,20 +297,14 @@
                 <img src="assets/img/deversh/doc_name (2).png" class="img-fluid img_box_doc" alt="">
               </div>
 
-              <h4 class="text-center card_text_inn_doc">Doctor Name</h4>
-              <p class="card_doc_name">Rahul</p>
+              <h4 class="text-center card_text_inn_doc">Dr TARAKA KRISHNA  </h4>
+              <p class="card_doc_name">MBBS., MS.</p>
+              <p class="card_doc_name">General & Laparoscopic surgeon</p>
+              
+              <p class="card_doc_name">Laser surgeon,
+              </p>
+           
 
-            </div>
-          </div>
-          <div class="custom-card   swiper-slide">
-            <div class="row  ">
-
-              <div class="text-center">
-                <img src="assets/img/deversh/doc_name (3).png" class="img-fluid img_box_doc" alt="">
-              </div>
-
-              <h4 class="text-center card_text_inn_doc">Doctor Name</h4>
-              <p class="card_doc_name">Rahul</p>
 
             </div>
           </div>
@@ -342,114 +360,7 @@
 
 
 
-  <section class="ask_qus_sec  need_margin_top">
-    <div class="container  ">
-      <div class="text-center">
-        <h1 class="test_cont_head">FAQ's</h1>
-        <p class="test_cont_para">Committed to Providing Quality Healthcare For Every Patient,
-          Every Time</p>
-      </div>
-      <div class="row mt-5">
-
-        <div class="col-lg-6">
-
-
-          <div class="faq">
-            <ul class="faq-list">
-              <li class="padding_in_list">
-                <div class="question ">
-                  <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
-                    <span class="toggle-icon toggle_padding_icon_one">+</span>
-                  </p>
-                </div>
-
-                <div class="answer">
-                  Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
-                </div>
-              </li>
-              <hr class="hr_line">
-              <li>
-                <div class="question ">
-                  <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
-                    <span class="toggle-icon toggle_padding_icon_two">+</span>
-                  </p>
-                </div>
-
-                <div class="answer">
-                  Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
-                </div>
-              </li>
-
-            </ul>
-          </div>
-
-        <hr class="hr_line   d-md-none">
-      
-        </div>
-
-        <div class="col-lg-6">
-
-
-          <div class="faq">
-            <ul class="faq-list">
-
-
-              <li>
-                <div class="question ">
-                  <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
-                    <span class="toggle-icon toggle_padding_icon_three">+</span>
-                  </p>
-                </div>
-
-                <div class="answer">
-                  Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
-                </div>
-              </li>
-              <hr class="hr_line">
-
-              <li>
-                <div class="question ">
-                  <p class="list_p_tag"> Lorem ipsum dolor sit amet consectetur ?
-                    <span class="toggle-icon toggle_padding_icon_four">+</span>
-                  </p>
-                </div>
-
-                <div class="answer">
-                  Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-    <script>
-      $(document).ready(function() {
-        $('.question').click(function() {
-          var $answer = $(this).next('.answer');
-          var $icon = $(this).find('.toggle-icon');
-
-          // Toggle the answer visibility
-          $answer.slideToggle();
-
-          // Change icon text
-          $icon.text($icon.text() === '+' ? '-' : '+');
-
-          // Toggle background color by adding/removing the active-bg class
-          $(this).toggleClass('active-bg');
-          $answer.toggleClass('active-bg');
-        });
-      });
-    </script>
-
-
-  </section>
-
+ 
 
 
   <!-- ======= Footer ======= -->
