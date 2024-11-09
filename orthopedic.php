@@ -172,10 +172,11 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service"> <span class="span_class"> 5,50,000+</span> <br>
-                            Happy patients annually</p>
+                        <p class="doc_para_text_mini_service">Orthopaedics is a medical specialty that focuses on the diagnosis, treatment, prevention, and rehabilitation of musculoskeletal disorders. The musculoskeletal system includes bones, joints, ligaments, tendons, muscles, and nerves that allow us to move, work, and be active. Orthopaedic specialists, known as orthopaedic surgeons, treat a wide range of conditions, from fractures and dislocations to chronic conditions such as arthritis and degenerative diseases. They employ both surgical and non-surgical methods, tailoring treatment plans to meet the needs of each patient.
+                        </p>
+                        <p class="doc_para_text_mini_service">The field of orthopaedics is constantly evolving with advancements in technology and treatment options, allowing for more effective, minimally invasive procedures. Orthopaedic care is essential for individuals of all ages, from young athletes dealing with sports injuries to older adults managing the effects of ageing on their joints and bones.
+                        </p>
+                        
 
 
                     </div>

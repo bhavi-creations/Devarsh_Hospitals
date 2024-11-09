@@ -72,43 +72,43 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+                        <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+                        <div class="unique-dropdown">
+                            <ul class="unique-dropdown-list new_nav_bg">
+                                <!-- Column 1 -->
+                                <li class="unique-dropdown-item">
+                                    <a href="urology.php" class="unique-dropdown-link">Urology</a>
+                                </li>
+                                <li class="unique-dropdown-item">
+                                    <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
+                                </li>
+                                <li class="unique-dropdown-item">
+                                    <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                                </li>
+                                <li class="unique-dropdown-item">
+                                    <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
+                                </li>
+                                <li class="unique-dropdown-item">
+                                    <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
+                                </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
+                                <!-- Column 2 -->
+                                <li class="unique-dropdown-item">
+                                    <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
+                                </li>
+                                <li class="unique-dropdown-item">
+                                    <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
+                                </li>
+                                <li class="unique-dropdown-item">
+                                    <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
+                                </li>
+                                <li class="unique-dropdown-item">
+                                    <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
+                                </li>
+                            </ul>
+                            <div class="unique-arrow"></div>
+                        </div>
+                    </li>
 
 
 
@@ -172,10 +172,12 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service"> <span class="span_class"> 5,50,000+</span> <br>
-                            Happy patients annually</p>
+                        <p class="doc_para_text_mini_service">Obstetrics and Gynaecology (OB-GYN) is a medical field that focuses on women's reproductive health.</p>
+                        <p class="doc_para_text_mini_service">Obstetrics involves care during pregnancy, childbirth, and postpartum, managing prenatal care, labour, and complications like preeclampsia and gestational diabetes.
+                            Gynaecology focuses on the female reproductive system, diagnosing and treating conditions such as menstrual disorders, infections, and reproductive cancers. It also includes preventive care like Pap smears, family planning, and menopause management.
+                        </p>
+                        <p class="doc_para_text_mini_service"> OB-GYNs also perform surgeries, including caesarean sections and hysterectomies, and provide education and counselling for women's reproductive health at all stages of life.
+                        </p>
 
 
                     </div>
@@ -205,10 +207,11 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">L dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Maternal-Foetal Medicine (MFM): High-Risk Pregnancy Management  
+                            </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service">Maternal-Foetal Medicine (MFM) specialists focus on high-risk pregnancies, ensuring both mother and baby are healthy. They manage complications such as gestational diabetes, preeclampsia, and foetal growth restriction. MFM experts use advanced diagnostic tools like ultrasounds and amniocentesis to monitor foetal development. They collaborate with obstetricians to create personalised care plans for complex pregnancies. Early intervention and expert monitoring significantly improve outcomes for both mother and baby.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch1 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore1()">
@@ -218,10 +221,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Gynae-oncology: Early Detection and Treatment of Reproductive Cancers  </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service">Gynae-oncology specialises in the detection and treatment of cancers affecting the female reproductive system, including ovarian, uterine, and cervical cancers. Early diagnosis through screenings like Pap smears and HPV testing is vital for successful treatment. These specialists use advanced imaging, biopsies, and surgical interventions to manage cancer. Treatment options include surgery, chemotherapy, and targeted therapies, depending on the cancer stage. Gynae-oncologists offer compassionate care, guiding patients through diagnosis, treatment, and recovery.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch2 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore2()">
@@ -232,10 +235,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Adolescent Gynaecology: Addressing Teen Reproductive Health  
+                            </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Adolescent gynaecology focuses on the unique reproductive health needs of teenagers, including managing menstrual irregularities and sexual health education. Specialists provide guidance on contraception, sexual activity, and prevention of sexually transmitted infections (STIs). They also address conditions like polycystic ovary syndrome (PCOS) and endometriosis, which can affect younger women. This field emphasises creating a comfortable, supportive environment for young patients. Early intervention and education help promote long-term reproductive health and well-being.</p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
@@ -301,7 +304,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                    
+
                 </div>
                 <div class="row mt-5">
 
@@ -312,14 +315,14 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> Can I travel during pregnancy?  
+                                        <p class="list_p_tag"> Can I travel during pregnancy?
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                    Yes, unless there are complications, travelling during pregnancy is generally safe, with the second trimester being ideal. Most Indian airlines allow travel up to 32 weeks.
+                                        Yes, unless there are complications, travelling during pregnancy is generally safe, with the second trimester being ideal. Most Indian airlines allow travel up to 32 weeks.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -332,7 +335,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    In a normal pregnancy, check-ups are typically monthly until 28 weeks, bi-weekly until 36 weeks, and weekly until 40 weeks. High-risk pregnancies may need more frequent visits.
+                                        In a normal pregnancy, check-ups are typically monthly until 28 weeks, bi-weekly until 36 weeks, and weekly until 40 weeks. High-risk pregnancies may need more frequent visits.
                                     </div>
                                 </li>
 
@@ -352,28 +355,28 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> What should my diet be once I am pregnant?  
- 
+                                        <p class="list_p_tag"> What should my diet be once I am pregnant?
+
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                    A balanced diet with leafy vegetables, whole grains, dairy, fruits, and lean meats is essential, along with prenatal vitamins for added nutrients like folic acid, iron, and calcium.
+                                        A balanced diet with leafy vegetables, whole grains, dairy, fruits, and lean meats is essential, along with prenatal vitamins for added nutrients like folic acid, iron, and calcium.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Do I require any post-surgery follow-ups?  
+                                        <p class="list_p_tag"> Do I require any post-surgery follow-ups?
 
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                    Yes, follow-ups are necessary, especially for conditions like preeclampsia and placenta previa due to risks of postpartum haemorrhage. Your doctor will advise based on your specific case.
+                                        Yes, follow-ups are necessary, especially for conditions like preeclampsia and placenta previa due to risks of postpartum haemorrhage. Your doctor will advise based on your specific case.
                                     </div>
                                 </li>
                             </ul>
