@@ -172,10 +172,12 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service"> <span class="span_class"> 5,50,000+</span> <br>
-                            Happy patients annually</p>
+                        <p class="doc_para_text_mini_service">Cardiology is a branch of medicine that focuses on diagnosing, treating, and preventing diseases and conditions related to the heart and blood vessels. The field is essential, as cardiovascular health plays a significant role in overall well-being and life expectancy. </p>
+                        <p class="doc_para_text_mini_service">Cardiologists are specialised physicians who manage various cardiac disorders, ranging from congenital heart defects to heart disease acquired over a lifetime. They use advanced medical technology and comprehensive approaches to care for patients with acute and chronic heart conditions. Cardiology services are critical in hospitals as they provide specialised care, utilise diagnostic tests like electrocardiograms (ECG), echocardiograms, and stress tests, and create tailored treatment plans that can include medication, lifestyle changes, or surgical procedures.
+
+
+                        </p>
+                      
 
 
                     </div>
@@ -205,10 +207,10 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">L dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Interventional Cardiology: This specialty involves minimally invasive procedures to </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> diagnose and treat heart conditions. Interventional cardiologists perform procedures such as angioplasty and stenting to clear blocked arteries and improve blood flow, thereby reducing the risk of heart attacks and other complications.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch1 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore1()">
@@ -218,10 +220,9 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Electrophysiology: This field focuses on the heart’s electrical activity and is essential for </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> diagnosing and treating heart rhythm disorders, such as arrhythmias. Electrophysiologists use techniques like cardiac ablation and the implantation of pacemakers or defibrillators to manage irregular heartbeats and ensure proper heart function</p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch2 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore2()">
@@ -232,10 +233,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Preventive Cardiology: This specialty emphasizes preventing heart disease through risk </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> assessment and management. It involves monitoring patients for risk factors like high cholesterol, hypertension, and diabetes, and guiding them with lifestyle modifications, medical therapies, and routine follow-ups to reduce the risk of cardiovascular events.
+                               </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">

@@ -172,10 +172,9 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service"> <span class="span_class"> 5,50,000+</span> <br>
-                            Happy patients annually</p>
+                        <p class="doc_para_text_mini_service">Neurology is a branch of medicine focused on diagnosing, treating, and managing disorders of the nervous system, which includes the brain, spinal cord, and peripheral nerves. This field plays a critical role in understanding complex neurological diseases and conditions that </p>
+                        <p class="doc_para_text_mini_service">can impact a person's overall health, mobility, and cognitive function. Neurologists are specialists who are trained to handle a variety of issues related to the nervous system, ranging from headaches and seizures to more complex disorders such as multiple sclerosis and Parkinson's disease.</p>
+                 
 
 
                     </div>
@@ -205,10 +204,10 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">L dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Stroke and Cerebrovascular Services: These services focus on the prevention, diagnosis, </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> and treatment of strokes and other vascular diseases affecting the brain. Specialists in this area provide rapid assessment and acute management of stroke patients, aiming to minimise brain damage and improve recovery outcomes.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch1 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore1()">
@@ -218,10 +217,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Epilepsy and Seizure Management: Neurology departments often have specialised units </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> for managing epilepsy, including comprehensive diagnostic testing and treatment plans that may involve medication or surgical interventions for patients with recurrent seizures.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch2 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore2()">
@@ -232,10 +231,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Headache and Migraine Clinics: Chronic headaches and migraines can significantly impact </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> quality of life. Neurology specialists in hospitals offer evaluation and tailored treatment options, including lifestyle management, medication, and advanced therapies, to help patients manage and reduce the frequency and severity of these conditions.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">

@@ -172,10 +172,9 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service"> <span class="span_class"> 5,50,000+</span> <br>
-                            Happy patients annually</p>
+                        <p class="doc_para_text_mini_service">General surgery is a key medical field that focuses on diagnosing and treating various conditions involving the digestive tract, abdominal organs, skin, and more. General surgeons handle procedures like appendectomies, hernia repairs, and gallbladder removals, ensuring comprehensive care from diagnosis to recovery.</p>
+                        <p class="doc_para_text_mini_service"> They are essential in both emergency and elective surgeries, contributing to patient care with their broad expertise. Advancements in techniques, such as minimally invasive surgery, have improved outcomes, leading to faster recovery and fewer complications. General surgeons play a critical role in healthcare, balancing technical skill with compassionate patient care</p>
+                       
 
 
                     </div>
@@ -205,10 +204,10 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">L dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Colorectal surgery specialises in treating conditions of the colon, rectum, and anus. It addresses a wide range of issues, from benign conditions like haemorrhoids and anal</p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service">fissures to more complex diseases such as colorectal cancer, diverticulitis, and inflammatory bowel disease (IBD), including Crohn’s disease and ulcerative colitis. Colorectal surgeons perform procedures like colectomies, polyp removals, and minimally invasive laparoscopic or robotic surgeries to manage these conditions effectively. Their work is essential in maintaining gastrointestinal health, preventing complications, and improving patients' quality of life.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch1 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore1()">
@@ -218,10 +217,11 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">
+                            Hepatobiliary surgery is focused on the liver, gallbladder, bile ducts, and pancreas. This specialty addresses a variety of conditions, including liver tumours, bile duct obstructions,</p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> gallstones, and pancreatitis. Hepatobiliary surgeons are skilled in complex procedures such as liver resections, bile duct reconstructions, and pancreatic surgeries. These operations often require precision and advanced techniques, as the liver and surrounding organs are highly vascular. This specialty plays a crucial role in treating cancers, cysts, and chronic diseases that affect these critical organs.
+</p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch2 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore2()">
@@ -232,11 +232,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Endocrine surgery deals with disorders affecting the endocrine glands, which regulate hormonal balance in the body. Surgeons in this field perform operations on the thyroid gland </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
-                            </div>
+                                <p class="poetsen_font1 doc_para_text_mini_service">to treat conditions like thyroid cancer, hyperthyroidism, or goitres. They also operate on the parathyroid glands to address hyperparathyroidism and related calcium imbalances. Additionally, surgeries involving the adrenal glands help manage conditions such as adrenal tumours and hormone overproduction. Endocrine surgery requires detailed knowledge of hormonal function and precise surgical techniques to minimise risks and preserve healthy gland function.
+                            </p></div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
                                     Read More <i class="fa-solid fa-arrow-right"></i></p>

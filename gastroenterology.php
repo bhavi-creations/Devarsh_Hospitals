@@ -172,10 +172,11 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service"> <span class="span_class"> 5,50,000+</span> <br>
-                            Happy patients annually</p>
+                        <p class="doc_para_text_mini_service">Gastroenterology is a branch of medicine that focuses on the diagnosis and treatment of disorders related to the digestive system. This includes the gastrointestinal (GI) tract as well as associated organs such as the liver, pancreas, and gallbladder. </p>
+                        <p class="doc_para_text_mini_service">specialised doctors who manage conditions affecting the esophagus, stomach, small intestine, colon, and related structures. Common issues treated by gastroenterologists include acid reflux, ulcers, irritable bowel syndrome (IBS), Crohn’s disease, liver disorders, and colorectal cancer.
+                            Hospitals often have specialised departments dedicated to providing comprehensive care for patients with digestive and liver diseases. These departments are equipped with advanced diagnostic tools and a team of specialists to offer tailored treatment plans
+                            </p>
+                      
 
 
                     </div>
@@ -205,10 +206,10 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">L dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Hepatology Services: Many hospitals offer specialised hepatology services as a </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service">subspecialty of gastroenterology. This focuses on the diagnosis and treatment of liver diseases, including hepatitis, cirrhosis, and liver cancer.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch1 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore1()">
@@ -218,10 +219,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Endoscopy Units: An essential part of any gastroenterology department, endoscopy units </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> are equipped to perform diagnostic and therapeutic procedures such as colonoscopy, upper GI endoscopy, and ERCP (Endoscopic Retrograde Cholangiopancreatography) for examining and treating the digestive tract.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch2 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore2()">
@@ -232,10 +233,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Paediatric Gastroenterology: Hospitals often have a dedicated division that focuses on </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> children’s digestive health. Paediatric gastroenterologists handle conditions like celiac disease, chronic constipation, and congenital GI disorders, ensuring that young patients receive age-appropriate care and treatment.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">

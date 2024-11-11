@@ -172,11 +172,9 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
-                        <p class="doc_para_text_mini_service"> <span class="span_class"> 5,50,000+</span> <br>
-                            Happy patients annually</p>
-
+                        <p class="doc_para_text_mini_service">Welcome to Devarsh Hospital, a trusted multi-specialty healthcare centre serving as a vital hub for patients from nearby areas and beyond. Our General Medicine Department plays a pivotal role in providing comprehensive adult healthcare, addressing both routine and </p>
+                        <p class="doc_para_text_mini_service">complex medical needs At Devarsh Hospital, the General Medicine Department is dedicated to offering high-quality diagnostic, treatment, and preventive medical care. Our experienced team of internists ensures that each patient receives personalised attention, working collaboratively with other specialties to provide a seamless and coordinated treatment plan.</p>
+                        
 
                     </div>
 
@@ -205,10 +203,10 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">L dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Chronic Disease Management: We specialise in managing chronic illnesses such as </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> diabetes, hypertension, and cardiovascular disease. Our approach combines medical treatment, lifestyle advice, and ongoing monitoring to improve patient health and quality of life.
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch1 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore1()">
@@ -218,10 +216,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Infectious Disease Treatment: The department is proficient in diagnosing and treating </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service">various infections, including respiratory illnesses, gastrointestinal infections, and tropical diseases. Our medical team employs the latest diagnostic techniques and treatment protocols for effective patient care.</p>
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch2 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore2()">
@@ -232,10 +230,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Lorem ipsum dolor sit amet consectetur. Vestibulum proin vulputate curabitur sit. At quis ac pellentesque bibendum. Nullam mi enim nec duis netus integer pellentesque ipsum.</p>
+                            <p class="doc_para_text_mini_service ">Preventive Health Screenings: We emphasize preventive medicine by offering </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> focuses
-                                    on aesthetics but also aims to improve functional aspects of your teeth and bite, addressing both beauty and health. The treatment plan may include restorative options like crowns or implants to replace missing teeth and enhance the overall functionality of your smile. During the makeover, your dentist will work closely with you to understand your goals and use advanced techniques to achieve the best possible results. The process often involves multiple visits and may take several weeks to complete, but the outcome is a revitalized, confident smile that can significantly impact your personal and professional life. Regular maintenance and care are essential to preserve the results and ensure long-term satisfaction with your newly enhanced smile.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> comprehensive health screenings that detect early signs of potential health issues. These screenings are tailored to the patient’s age, lifestyle, and medical history, enabling proactive management and healthier outcomes.
+                                </p></div>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
