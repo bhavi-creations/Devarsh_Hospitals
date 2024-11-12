@@ -75,7 +75,7 @@ $conn->close();
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
                                                 <option value="Urology" <?php echo ($service == 'Urology') ? 'selected' : ''; ?>>Urology</option>
-                                                <option value="Obstetrics & Gynaecology" <?php echo ($service == 'Obstetrics & Gynaecology') ? 'selected' : ''; ?>>Obstetrics & Gynaecology</option>
+                                                <option value="Obstetrics Gynaecology" <?php echo ($service == 'Obstetrics Gynaecology') ? 'selected' : ''; ?>>Obstetrics & Gynaecology</option>
                                                 <option value="Orthopedic" <?php echo ($service == 'Orthopedic') ? 'selected' : ''; ?>>Orthopedic</option>
                                                 <option value="Paediatrics" <?php echo ($service == 'Paediatrics') ? 'selected' : ''; ?>>Paediatrics</option>
                                                 <option value="General Surgery" <?php echo ($service == 'General Surgery') ? 'selected' : ''; ?>>General Surgery</option>

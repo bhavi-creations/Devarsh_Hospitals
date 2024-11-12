@@ -68,7 +68,7 @@
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
                                                 <option value="Urology">Urology</option>
-                                                <option value="Obstetrics & Gynaecology">Obstetrics & Gynaecology</option>
+                                                <option value="Obstetrics Gynaecology">Obstetrics & Gynaecology</option>
                                                 <option value="Orthopedic">Orthopedic</option>
                                                 <option value="Paediatrics">Paediatrics</option>
                                                 <option value="General Surgery">General Surgery</option>

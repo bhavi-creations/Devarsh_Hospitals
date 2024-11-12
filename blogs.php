@@ -188,7 +188,7 @@ $result = $stmt->get_result();
       <div class="filter_buttons redirect_section mt-4">
         <a href="blogs.php?service="><button class="redirect_blog_srivice">All</button></a>
         <a href="blogs.php?service=Urology"><button class="redirect_blog_srivice">Urology</button></a>
-        <a href="blogs.php?service=Obstetrics & Gynaecology"><button class="redirect_blog_srivice">Obstetrics & Gynaecology</button></a>
+        <a href="blogs.php?service=Obstetrics Gynaecology"><button class="redirect_blog_srivice">Obstetrics & Gynaecology</button></a>
         <a href="blogs.php?service=Orthopedic"><button class="redirect_blog_srivice">Orthopedic</button></a>
         <a href="blogs.php?service=Paediatrics"><button class="redirect_blog_srivice">Paediatrics</button></a>
         <a href="blogs.php?service=General Surgery"><button class="redirect_blog_srivice">General Surgery</button></a>
