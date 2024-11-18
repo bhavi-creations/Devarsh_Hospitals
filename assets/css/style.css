@@ -3957,7 +3957,7 @@ h6 {
 .new_nav_bg {
 
   background: var(--primary-200, #d6ddeecb);
-  list-style-type: circle !important;
+  list-style-type: square !important;
   align-items: start !important;
   padding-top: 25px !important;
   padding-bottom: 25px !important;
