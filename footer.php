@@ -7,10 +7,12 @@
                     <img src="assets/img/deversh/Logo.png" class="img-fluid " alt="">
                     <h1 class="foot_head my-3">Inquiries</h1>
                     <li class="foot_para">
-                        <a href="root.php" style="color: #1E1E1E;">(+91) 76609 07108 </a>
+                        <p style="color: #1E1E1E;">(+91) 76609 07108 </p>
+                        <p style="color: #1E1E1E;">(+91) 98493 36135</p>
+
                     </li>
                     <li class="foot_para">
-                        <a href="braces.php" style="color: #1E1E1E;"> hospital.ppd@gmail.com </a>
+                        <p style="color: #1E1E1E;"> hospital.ppd@gmail.com </p>
                     </li>
 
                     <div class="d-flex social_media">
@@ -121,32 +123,46 @@
                     <h1 class="foot_head">Specialties</h1>
 
                     <li class="foot_para">
+                        <a href="gynocology.php" style="color: #1E1E1E;">Obstetrics & gynaecology </a>
+                    </li>
+                    <li class="foot_para">
                         <a href="urology.php" style="color: #1E1E1E;">Urology </a>
                     </li>
                     <li class="foot_para">
-                        <a href="gynocology.php" style="color: #1E1E1E;">gynaecology </a>
-                    </li>
-                    <li class="foot_para">
-                        <a href="orthopedic.php" style="color: #1E1E1E;">Orthopedic </a>
-                    </li>
-                    <li class="foot_para">
-                        <a href="paediatrics.php" style="color: #1E1E1E;">Paediatrics</a>
-                    </li>
-                    <li class="foot_para">
-                        <a href="generalsurgery.php" style="color: #1E1E1E;">General surgery </a>
+                        <a href="generalsurgery.php" style="color: #1E1E1E;">General Surgery </a>
                     </li>
                     <li class="foot_para">
                         <a href="generalmedicine.php" style="color: #1E1E1E;">General medicine </a>
                     </li>
                     <li class="foot_para">
+                        <a href="paediatrics.php" style="color: #1E1E1E;">Paediatrics</a>
+                    </li>
+                    <li class="foot_para">
+                        <a href="cardiology.php" style="color: #1E1E1E;">Cardiology </a>
+                    </li>
+                    <li class="foot_para">
                         <a href="gastroenterology.php" style="color: #1E1E1E;">Gastroenterology</a>
+                    </li>
+                    <li class="foot_para">
+                        <a href="oncology.php" style="color: #1E1E1E;">Oncology </a>
                     </li>
                     <li class="foot_para">
                         <a href="neurology.php" style="color: #1E1E1E;">Neurology </a>
                     </li>
                     <li class="foot_para">
-                        <a href="cardiology.php" style="color: #1E1E1E;">Cardiology </a>
+                        <a href="plasticsurgery.php" style="color: #1E1E1E;">Plastic Surgery </a>
                     </li>
+                    <li class="foot_para">
+                        <a href="laparoscopic.php" style="color: #1E1E1E;">Laparoscopic Surgery  </a>
+                    </li>             
+                    <li class="foot_para">
+                        <a href="traumacritical.php" style="color: #1E1E1E;">Trauma & critical </a>
+                    </li>
+                    <li class="foot_para">
+                        <a href="dermatology.php" style="color: #1E1E1E;">Dermatology </a>
+                    </li>
+                   
+                    
                     </ul>
 
 
@@ -164,7 +180,7 @@
                             Prattipadu</a>
                     </li>
                     <li class="foot_para view_maps mt-4">
-                        <a href="contact.php" style="color: #1E1E1E;">View on Maps </a>
+                        <a href="contact.php#mapsn" style="color: #1E1E1E;">View on Maps </a>
                     </li>
                     </ul>
                 </div>

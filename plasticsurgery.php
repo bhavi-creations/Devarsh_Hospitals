@@ -79,67 +79,67 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="urology.php" class="unique-dropdown-link">Urology 
-                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology
+                                                &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
-                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
-                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="cardiology.php" class="unique-dropdown-link">Cardiology
-                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
-                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                     </div>
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
-                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology
+                                                &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
-                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology
+                                                &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
-                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                                                &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
-                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="dermatology.php" class="unique-dropdown-link">Dermatology
-                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
 
@@ -218,8 +218,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>General medicine </Strong></p>
-                    <h1 class="about_test_cont_head">General medicine </h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Plastic surgery </Strong></p>
+                    <h1 class="about_test_cont_head">Plastic surgery </h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -227,14 +227,19 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Welcome to Devarsh Hospital, a trusted multi-specialty healthcare centre serving as a vital hub for patients from nearby areas and beyond. Our General Medicine Department plays a pivotal role in providing comprehensive adult healthcare, addressing both routine and </p>
-                        <p class="doc_para_text_mini_service">complex medical needs At Devarsh Hospital, the General Medicine Department is dedicated to offering high-quality diagnostic, treatment, and preventive medical care. Our experienced team of internists ensures that each patient receives personalised attention, working collaboratively with other specialties to provide a seamless and coordinated treatment plan.</p>
+                        <p class="doc_para_text_mini_service">Plastic surgery is a specialised branch of medicine focused on reconstructing, repairing, or altering the human body to restore or enhance its appearance and function. It combines both surgical and non-surgical techniques to address various medical, cosmetic, and trauma-related needs.
+                        </p>
+                        <p class="doc_para_text_mini_service"> Unlike general surgical procedures that primarily treat life-threatening conditions or injuries, plastic surgery also emphasises aesthetics and patient self-confidence, allowing individuals to achieve a more desired physical appearance and improved quality of life. The field encompasses a range of sub-specialties, each designed to address specific areas of the body and specific needs.
+
+
+                        </p>
+
 
 
                     </div>
 
                     <div class="col-md-6  order-0 order-md-1 ">
-                        <img src="assets/img/deversh/medicine (1).png" class="img-fluid  need_img_top" alt="">
+                        <img src="assets/img/deversh/plastic_major.png" class="img-fluid  need_img_top" alt="">
                     </div>
 
                 </div>
@@ -250,7 +255,7 @@
                     <h1 class="service_text_head mt-3">Specialities</h1>
                     <div class="col-md-6 ">
                         <div class=" ">
-                            <img src="assets/img/deversh/medicine (2).png" class="img-fluid   " alt="">
+                            <img src="assets/img/deversh/plastic_minor.png" class="img-fluid   " alt="">
                         </div>
                     </div>
 
@@ -258,9 +263,12 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Chronic Disease Management: We specialise in managing chronic illnesses such as </p>
+                            <p class="doc_para_text_mini_service ">Reconstructive Surgery :
+                                This type of plastic surgery aims to restore the function and appearance of body parts affected by congenital defects, trauma, tumours, or disease.
+                            </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> diabetes, hypertension, and cardiovascular disease. Our approach combines medical treatment, lifestyle advice, and ongoing monitoring to improve patient health and quality of life.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Common reconstructive procedures include breast reconstruction after mastectomy, cleft lip and palate repair, and skin grafts for burn victims.
+
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -271,10 +279,11 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Infectious Disease Treatment: The department is proficient in diagnosing and treating </p>
+                            <p class="doc_para_text_mini_service ">Cosmetic Surgery :
+                                Cosmetic or aesthetic surgery is focused on enhancing the appearance of a patient, contributing to improved self-esteem and confidence.
+                            </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service">various infections, including respiratory illnesses, gastrointestinal infections, and tropical diseases. Our medical team employs the latest diagnostic techniques and treatment protocols for effective patient care.</p>
-                                </p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Examples include rhinoplasty (nose reshaping), facelifts, and liposuction. These procedures are elective and are often sought for personal improvement rather than medical necessity.</p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch2 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore2()">
@@ -285,67 +294,69 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Preventive Health Screenings: We emphasize preventive medicine by offering </p>
+                            <p class="doc_para_text_mini_service ">Hand Surgery :
+                                Hand surgery is a sub-specialty that addresses conditions affecting the hand and upper extremities, including injuries, carpal tunnel syndrome, and congenital hand deformities.
+                            </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> comprehensive health screenings that detect early signs of potential health issues. These screenings are tailored to the patient’s age, lifestyle, and medical history, enabling proactive management and healthier outcomes.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Surgeons specialising in this field combine their knowledge of both orthopaedic and plastic surgery techniques to restore hand function and appearance.
+
                                 </p>
                             </div>
+                            <div class="d-flex flex-row justify-content-start">
+                                <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
+                                    Read More <i class="fa-solid fa-arrow-right"></i></p>
+                            </div>
                         </div>
-                        <div class="d-flex flex-row justify-content-start">
-                            <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
-                                Read More <i class="fa-solid fa-arrow-right"></i></p>
-                        </div>
+
+
+
+
+                        <script>
+                            function toggleReadMore1() {
+                                var showThisDiv = document.querySelector('.showthisdiv1');
+                                var readMoreText = document.querySelector('.get_in_touch1');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+                        <script>
+                            function toggleReadMore2() {
+                                var showThisDiv = document.querySelector('.showthisdiv2');
+                                var readMoreText = document.querySelector('.get_in_touch2');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+                        <script>
+                            function toggleReadMore3() {
+                                var showThisDiv = document.querySelector('.showthisdiv3');
+                                var readMoreText = document.querySelector('.get_in_touch3');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+
+
                     </div>
-
-
-
-
-                    <script>
-                        function toggleReadMore1() {
-                            var showThisDiv = document.querySelector('.showthisdiv1');
-                            var readMoreText = document.querySelector('.get_in_touch1');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-                    <script>
-                        function toggleReadMore2() {
-                            var showThisDiv = document.querySelector('.showthisdiv2');
-                            var readMoreText = document.querySelector('.get_in_touch2');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-                    <script>
-                        function toggleReadMore3() {
-                            var showThisDiv = document.querySelector('.showthisdiv3');
-                            var readMoreText = document.querySelector('.get_in_touch3');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-
-
                 </div>
-            </div>
             </div>
             </div>
             </div>
@@ -366,27 +377,30 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> What conditions do general medicine doctors treat?
+                                        <p class="list_p_tag">Is plastic surgery safe?
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        General medicine doctors manage a wide range of health conditions, including infections, chronic illnesses like diabetes, and preventive health care.
+                                        As with all surgical procedures, there is some risk of complications. You can reduce potential risks and complications by carefully following all pre- and post-surgery instructions provided to you by your surgeon and care team. This will ensure that you and your plastic surgeon are prepared and that your body is appropriately cared for before, during and after surgery.
+
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> How often should I see a general physician?
+                                        <p class="list_p_tag"> Do you keep your patients and their procedures confidential?
+
 
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        It’s recommended to visit a general physician annually for routine check-ups or more often if managing chronic conditions.
+                                        Although many people are more open about their own cosmetic surgery, not everyone is. Rest assured that at our plastic surgery offices, your privacy is highly guarded. all new staff members must attend yearly training sessions on how to maintain patients' privacy. Following their first training, each new employee signs an agreement to follow privacy and confidentiality principles. Our physicians and support staff use extreme discretion with patient information.
+
                                     </div>
                                 </li>
 
@@ -406,28 +420,32 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag">What should I bring to a general medicine appointment?
+                                        <p class="list_p_tag"> What is recovery from plastic surgery like?
+
 
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Bring a list of current medications, any medical history documents, and questions you may have for your doctor.
+                                        While each person has a different pain threshold, your surgeon will prescribe appropriate pain medication to minimise discomfort. The practice will also discuss follow-up appointments and if you may need to take time off of work.
+
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Can a general physician refer me to a specialist?
+                                        <p class="list_p_tag"> During a consultation, what questions should I ask the plastic surgeon?
+
 
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Yes, general physicians can refer you to specialists when more advanced or targeted treatment is needed.
+                                        No matter where you have a consultation, we recommend you get answers to the following questions to ensure your plastic surgery will be safe and successful.
+
                                     </div>
                                 </li>
                             </ul>

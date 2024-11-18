@@ -72,47 +72,102 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+                        <a href="#" class="unique-nav-link active">Specialties<i class="fas fa-caret-down"></i></a>
+                        <div class="unique-dropdown">
+                            <ul class="unique-dropdown-list new_nav_bg">
+                                <!-- Column 1 -->
+                                <div class="row">
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology 
+                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                    </div>
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
+                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
+                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
+                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
+
+                                        <!-- <li class="unique-dropdown-item">
+                                    <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                                </li> -->
+
+                                    </div>
+                                </div>
 
 
 
-                    <li><a class="nav-link scrollto active" href="contact.php">Contact Us</a></li>
+
+
+                                <!-- Column 2 -->
+
+
+
+
+                            </ul>
+                            <div class="unique-arrow"></div>
+                        </div>
+                    </li>
+
+
+
+                    <li><a class="nav-link scrollto  " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -163,8 +218,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>General surgery   </Strong></p>
-                    <h1 class="about_test_cont_head">General surgery  </h1>
+                    <p class="home_direction">Home > Speciality > <Strong>General surgery </Strong></p>
+                    <h1 class="about_test_cont_head">General surgery </h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -174,7 +229,7 @@
 
                         <p class="doc_para_text_mini_service">General surgery is a key medical field that focuses on diagnosing and treating various conditions involving the digestive tract, abdominal organs, skin, and more. General surgeons handle procedures like appendectomies, hernia repairs, and gallbladder removals, ensuring comprehensive care from diagnosis to recovery.</p>
                         <p class="doc_para_text_mini_service"> They are essential in both emergency and elective surgeries, contributing to patient care with their broad expertise. Advancements in techniques, such as minimally invasive surgery, have improved outcomes, leading to faster recovery and fewer complications. General surgeons play a critical role in healthcare, balancing technical skill with compassionate patient care</p>
-                       
+
 
 
                     </div>
@@ -218,10 +273,10 @@
 
                         <div class="">
                             <p class="doc_para_text_mini_service ">
-                            Hepatobiliary surgery is focused on the liver, gallbladder, bile ducts, and pancreas. This specialty addresses a variety of conditions, including liver tumours, bile duct obstructions,</p>
+                                Hepatobiliary surgery is focused on the liver, gallbladder, bile ducts, and pancreas. This specialty addresses a variety of conditions, including liver tumours, bile duct obstructions,</p>
                             <div class="showthisdiv2  " style="display:none ">
                                 <p class="poetsen_font1 doc_para_text_mini_service"> gallstones, and pancreatitis. Hepatobiliary surgeons are skilled in complex procedures such as liver resections, bile duct reconstructions, and pancreatic surgeries. These operations often require precision and advanced techniques, as the liver and surrounding organs are highly vascular. This specialty plays a crucial role in treating cancers, cysts, and chronic diseases that affect these critical organs.
-</p>
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch2 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore2()">
@@ -235,7 +290,8 @@
                             <p class="doc_para_text_mini_service ">Endocrine surgery deals with disorders affecting the endocrine glands, which regulate hormonal balance in the body. Surgeons in this field perform operations on the thyroid gland </p>
                             <div class="showthisdiv3  " style="display:none ">
                                 <p class="poetsen_font1 doc_para_text_mini_service">to treat conditions like thyroid cancer, hyperthyroidism, or goitres. They also operate on the parathyroid glands to address hyperparathyroidism and related calcium imbalances. Additionally, surgeries involving the adrenal glands help manage conditions such as adrenal tumours and hormone overproduction. Endocrine surgery requires detailed knowledge of hormonal function and precise surgical techniques to minimise risks and preserve healthy gland function.
-                            </p></div>
+                                </p>
+                            </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
                                     Read More <i class="fa-solid fa-arrow-right"></i></p>
@@ -300,7 +356,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                   
+
                 </div>
                 <div class="row mt-5">
 
@@ -318,7 +374,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Your surgical team or doctor will advise you on what to eat and what not to eat before your surgery. Check with them to know what you should eat or drink before the surgery.
+                                        Your surgical team or doctor will advise you on what to eat and what not to eat before your surgery. Check with them to know what you should eat or drink before the surgery.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -331,7 +387,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Yes, an IV (intravenous catheter) is placed before the surgery so that fluids and medications can be delivered safely and quickly through your vein. It is usually inserted while in the preoperative area by your anesthesiologist and nursing staff.
+                                        Yes, an IV (intravenous catheter) is placed before the surgery so that fluids and medications can be delivered safely and quickly through your vein. It is usually inserted while in the preoperative area by your anesthesiologist and nursing staff.
                                     </div>
                                 </li>
 
@@ -358,7 +414,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Your anesthesiologist can prescribe you some medications to calm you. However, these medications are given after you have signed your consent form and consulted your surgeon.
+                                        Your anesthesiologist can prescribe you some medications to calm you. However, these medications are given after you have signed your consent form and consulted your surgeon.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -372,7 +428,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    The discomfort and pain will go away within a few days. You will be able to resume your normal daily activities within a week. You will have to go for a follow-up appointment with your doctor or surgical team two weeks after the laparoscopic surgery
+                                        The discomfort and pain will go away within a few days. You will be able to resume your normal daily activities within a week. You will have to go for a follow-up appointment with your doctor or surgical team two weeks after the laparoscopic surgery
                                     </div>
                                 </li>
                             </ul>

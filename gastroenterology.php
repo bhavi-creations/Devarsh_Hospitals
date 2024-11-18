@@ -72,47 +72,102 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+                        <a href="#" class="unique-nav-link active">Specialties<i class="fas fa-caret-down"></i></a>
+                        <div class="unique-dropdown">
+                            <ul class="unique-dropdown-list new_nav_bg">
+                                <!-- Column 1 -->
+                                <div class="row">
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology 
+                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                    </div>
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
+                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
+                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
+                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
+
+                                        <!-- <li class="unique-dropdown-item">
+                                    <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                                </li> -->
+
+                                    </div>
+                                </div>
 
 
 
-                    <li><a class="nav-link scrollto active" href="contact.php">Contact Us</a></li>
+
+
+                                <!-- Column 2 -->
+
+
+
+
+                            </ul>
+                            <div class="unique-arrow"></div>
+                        </div>
+                    </li>
+
+
+
+                    <li><a class="nav-link scrollto " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -163,8 +218,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>Gastroenterology  </Strong></p>
-                    <h1 class="about_test_cont_head">Gastroenterology    </h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Gastroenterology </Strong></p>
+                    <h1 class="about_test_cont_head">Gastroenterology </h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -175,8 +230,8 @@
                         <p class="doc_para_text_mini_service">Gastroenterology is a branch of medicine that focuses on the diagnosis and treatment of disorders related to the digestive system. This includes the gastrointestinal (GI) tract as well as associated organs such as the liver, pancreas, and gallbladder. </p>
                         <p class="doc_para_text_mini_service">specialised doctors who manage conditions affecting the esophagus, stomach, small intestine, colon, and related structures. Common issues treated by gastroenterologists include acid reflux, ulcers, irritable bowel syndrome (IBS), Crohn’s disease, liver disorders, and colorectal cancer.
                             Hospitals often have specialised departments dedicated to providing comprehensive care for patients with digestive and liver diseases. These departments are equipped with advanced diagnostic tools and a team of specialists to offer tailored treatment plans
-                            </p>
-                      
+                        </p>
+
 
 
                     </div>
@@ -302,7 +357,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                     
+
                 </div>
                 <div class="row mt-5">
 
@@ -320,7 +375,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    If you are over the age of 45, you should visit a gastroenterologist to have a screening colonoscopy. Other than this very important screening, you might choose to see a gastroenterologist if you are suffering with gastrointestinal symptoms such as cramping, pain, discomfort or sudden changes in bowel movements. 
+                                        If you are over the age of 45, you should visit a gastroenterologist to have a screening colonoscopy. Other than this very important screening, you might choose to see a gastroenterologist if you are suffering with gastrointestinal symptoms such as cramping, pain, discomfort or sudden changes in bowel movements.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -333,7 +388,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    The most common signs and symptoms of gastrointestinal disorders include stomach pain, significant heartburn or reflux, weight loss or gain, changes in bowels or blood in stool. 
+                                        The most common signs and symptoms of gastrointestinal disorders include stomach pain, significant heartburn or reflux, weight loss or gain, changes in bowels or blood in stool.
                                     </div>
                                 </li>
 
@@ -360,7 +415,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Gastroenterologists can treat a variety of diseases related to the digestive system, including abdominal pain, acid reflux/GERD, Barrett’s oesophagus, celiac disease, colitis, colonoscopy, Crohn’s disease, gallstones, inflammatory bowel disease, irritable bowel syndrome (IBS), liver disease, pancreatic disease and ulcerative colitis.
+                                        Gastroenterologists can treat a variety of diseases related to the digestive system, including abdominal pain, acid reflux/GERD, Barrett’s oesophagus, celiac disease, colitis, colonoscopy, Crohn’s disease, gallstones, inflammatory bowel disease, irritable bowel syndrome (IBS), liver disease, pancreatic disease and ulcerative colitis.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -374,7 +429,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Screenings and tests performed by gastroenterologists include colonoscopies, EGD/upper GI endoscopy, endoscopic ultrasounds, liver biopsy, sigmoidoscopies, video capsule endoscopies, endoscopic retrograde cholangiopancreatography (ERCP) and Cholangioscopy.
+                                        Screenings and tests performed by gastroenterologists include colonoscopies, EGD/upper GI endoscopy, endoscopic ultrasounds, liver biopsy, sigmoidoscopies, video capsule endoscopies, endoscopic retrograde cholangiopancreatography (ERCP) and Cholangioscopy.
                                     </div>
                                 </li>
                             </ul>

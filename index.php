@@ -76,35 +76,90 @@
              <div class="unique-dropdown">
                <ul class="unique-dropdown-list new_nav_bg">
                  <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+                 <div class="row">
+                   <div class="col-6">
+                     <li class="unique-dropdown-item">
+                       <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="urology.php" class="unique-dropdown-link">Urology
+                         &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                         &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                         &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                         &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                         &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                         &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                   </div>
+                   <div class="col-6">
+                     <li class="unique-dropdown-item">
+                       <a href="oncology.php" class="unique-dropdown-link">Oncology
+                         &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="neurology.php" class="unique-dropdown-link">Neurology
+                         &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                         &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                         &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                         &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+                     <li class="unique-dropdown-item">
+                       <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                         &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                       </a>
+                     </li>
+
+
+                     <!-- <li class="unique-dropdown-item">
+                                    <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                                </li> -->
+
+                   </div>
+                 </div>
+
+
+
+
 
                  <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
+
+
+
+
                </ul>
                <div class="unique-arrow"></div>
              </div>
@@ -199,22 +254,7 @@
        <div class="custom-slide-content">
          <div class="custom-card-wrapper swiper-wrapper py-5">
 
-           <div class="custom-card custom_card_bg_one swiper-slide">
-             <div class="row  ">
-               <h4 class="text-center card_text_inn">Urology</h4>
-               <div class="text-center">
-                 <img src="assets/img/deversh/urology.png" class="img-fluid img_box" alt="">
-               </div>
-               <a href="urology.php">
-                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   </svg></p>
-               </a>
-
-             </div>
-           </div>
+           
 
            <div class="custom-card custom_card_bg_two swiper-slide">
              <div class="row  ">
@@ -234,13 +274,48 @@
              </div>
            </div>
 
+
            <div class="custom-card custom_card_bg_one swiper-slide">
              <div class="row  ">
-               <h4 class="text-center card_text_inn">Orthopedic </h4>
+               <h4 class="text-center card_text_inn">Urology</h4>
                <div class="text-center">
-                 <img src="assets/img/deversh/Orthopedic.png" class="img-fluid img_box" alt="">
+                 <img src="assets/img/deversh/urology.png" class="img-fluid img_box" alt="">
                </div>
-               <a href="orthopedic.php">
+               <a href="urology.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
+
+             </div>
+           </div>
+
+           <div class="custom-card custom_card_bg_two swiper-slide">
+             <div class="row  ">
+               <h4 class="text-center card_text_inn"> General surgery </h4>
+               <div class="text-center">
+                 <img src="assets/img/deversh/General surgery.png" class="img-fluid img_box" alt="">
+               </div>
+               <a href="generalsurgery.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
+
+             </div>
+           </div>
+
+           <div class="custom-card custom_card_bg_one swiper-slide">
+             <div class="row  ">
+               <h4 class="text-center card_text_inn">General medicine </h4>
+               <div class="text-center">
+                 <img src="assets/img/deversh/General medicine.png" class="img-fluid img_box" alt="">
+               </div>
+               <a href="generalmedicine.php">
                  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                      <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                      <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
@@ -267,14 +342,14 @@
 
              </div>
            </div>
-
+           
            <div class="custom-card custom_card_bg_one swiper-slide">
              <div class="row  ">
-               <h4 class="text-center card_text_inn"> General surgery </h4>
+               <h4 class="text-center card_text_inn">Cardiology </h4>
                <div class="text-center">
-                 <img src="assets/img/deversh/General surgery.png" class="img-fluid img_box" alt="">
+                 <img src="assets/img/deversh/Cardiology.png" class="img-fluid img_box" alt="">
                </div>
-               <a href="generalsurgery.php">
+               <a href="cardiology.php">
                  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                      <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                      <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
@@ -286,23 +361,6 @@
            </div>
 
            <div class="custom-card custom_card_bg_two swiper-slide">
-             <div class="row  ">
-               <h4 class="text-center card_text_inn">General medicine </h4>
-               <div class="text-center">
-                 <img src="assets/img/deversh/General medicine.png" class="img-fluid img_box" alt="">
-               </div>
-               <a href="generalmedicine.php">
-                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
-                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
-                   </svg></p>
-               </a>
-
-             </div>
-           </div>
-
-           <div class="custom-card custom_card_bg_one swiper-slide">
              <div class="row  ">
                <h4 class="text-center card_text_inn">Gastroenterology </h4>
                <div class="text-center">
@@ -321,6 +379,23 @@
 
            <div class="custom-card custom_card_bg_one swiper-slide">
              <div class="row  ">
+               <h4 class="text-center card_text_inn">Oncology </h4>
+               <div class="text-center">
+                 <img src="assets/img/deversh/oncology_minor.png" class="img-fluid img_box" alt="">
+               </div>
+               <a href="oncology.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
+
+             </div>
+           </div>
+
+           <div class="custom-card custom_card_bg_two swiper-slide">
+             <div class="row  ">
                <h4 class="text-center card_text_inn">Neurology </h4>
                <div class="text-center">
                  <img src="assets/img/deversh/Neurology.png" class="img-fluid img_box" alt="">
@@ -336,13 +411,13 @@
              </div>
            </div>
 
-           <div class="custom-card custom_card_bg_two swiper-slide">
+           <div class="custom-card custom_card_bg_one swiper-slide">
              <div class="row  ">
-               <h4 class="text-center card_text_inn">Cardiology </h4>
+               <h4 class="text-center card_text_inn">Plastic Surgery </h4>
                <div class="text-center">
-                 <img src="assets/img/deversh/Cardiology.png" class="img-fluid img_box" alt="">
+                 <img src="assets/img/deversh/plastic_minor.png" class="img-fluid img_box" alt="">
                </div>
-               <a href="cardiology.php">
+               <a href="plasticsurgery.php">
                  <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
                      <rect width="37" height="37" rx="18.5" fill="#BF3685" />
                      <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
@@ -352,6 +427,74 @@
 
              </div>
            </div>
+
+           <div class="custom-card custom_card_bg_two swiper-slide">
+             <div class="row  ">
+               <h4 class="text-center card_text_inn">Laparoscopic </h4>
+               <div class="text-center">
+                 <img src="assets/img/deversh/surgery_minor.png" class="img-fluid img_box" alt="">
+               </div>
+               <a href="laparoscopic.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
+
+             </div>
+           </div>
+
+           <div class="custom-card custom_card_bg_one swiper-slide">
+             <div class="row  ">
+               <h4 class="text-center card_text_inn">Trauma & critical </h4>
+               <div class="text-center">
+                 <img src="assets/img/deversh/truma_minor.png" class="img-fluid img_box" alt="">
+               </div>
+               <a href="traumacritical.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
+
+             </div>
+           </div>
+
+           <div class="custom-card custom_card_bg_two swiper-slide">
+             <div class="row  ">
+               <h4 class="text-center card_text_inn">Dermatology </h4>
+               <div class="text-center">
+                 <img src="assets/img/deversh/skin_minor.png" class="img-fluid img_box" alt="">
+               </div>
+               <a href="dermatology.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
+
+             </div>
+           </div>
+
+           <!-- <div class="custom-card custom_card_bg_one swiper-slide">
+             <div class="row  ">
+               <h4 class="text-center card_text_inn">Orthopedic </h4>
+               <div class="text-center">
+                 <img src="assets/img/deversh/Orthopedic.png" class="img-fluid img_box" alt="">
+               </div>
+               <a href="orthopedic.php">
+                 <p class="arrow_tag"><svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+                     <rect width="37" height="37" rx="18.5" fill="#BF3685" />
+                     <path d="M14.1833 18.5H22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                     <path d="M18.5 14.1833L22.8167 18.5L18.5 22.8167" stroke="white" stroke-width="1.23333" stroke-linecap="round" stroke-linejoin="round" />
+                   </svg></p>
+               </a>
+
+             </div>
+           </div> -->
 
 
          </div>
@@ -577,7 +720,7 @@
 
 
                      </div>
-                   
+
 
                      <div class="card swiper-slide ">
 

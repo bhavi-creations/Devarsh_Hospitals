@@ -79,67 +79,67 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="urology.php" class="unique-dropdown-link">Urology 
-                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology
+                                                &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
-                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
-                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="cardiology.php" class="unique-dropdown-link">Cardiology
-                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
-                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                     </div>
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
-                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology
+                                                &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
-                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology
+                                                &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
-                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                                                &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
-                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="dermatology.php" class="unique-dropdown-link">Dermatology
-                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
 
@@ -167,7 +167,7 @@
 
 
 
-                    <li><a class="nav-link scrollto " href="contact.php">Contact Us</a></li>
+                    <li><a class="nav-link scrollto  " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -218,8 +218,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>General medicine </Strong></p>
-                    <h1 class="about_test_cont_head">General medicine </h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Oncology </Strong></p>
+                    <h1 class="about_test_cont_head">Oncology </h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -227,14 +227,17 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Welcome to Devarsh Hospital, a trusted multi-specialty healthcare centre serving as a vital hub for patients from nearby areas and beyond. Our General Medicine Department plays a pivotal role in providing comprehensive adult healthcare, addressing both routine and </p>
-                        <p class="doc_para_text_mini_service">complex medical needs At Devarsh Hospital, the General Medicine Department is dedicated to offering high-quality diagnostic, treatment, and preventive medical care. Our experienced team of internists ensures that each patient receives personalised attention, working collaboratively with other specialties to provide a seamless and coordinated treatment plan.</p>
+                        <p class="doc_para_text_mini_service">Oncology is the branch of medicine that focuses on the diagnosis, treatment, and prevention of cancer.
+                        </p>
+                        <p class="doc_para_text_mini_service">The field has evolved to encompass various approaches to care, including medical, surgical, and radiation oncology, to provide comprehensive cancer treatment. Oncologists collaborate with multidisciplinary teams to tailor patient care based on individual needs and the type and stage of cancer. This field is pivotal as it involves both curative and palliative care, supporting patients through the challenging journey of cancer treatment and survivorship.
+                        </p>
+
 
 
                     </div>
 
                     <div class="col-md-6  order-0 order-md-1 ">
-                        <img src="assets/img/deversh/medicine (1).png" class="img-fluid  need_img_top" alt="">
+                        <img src="assets/img/deversh/oncology_major.png" class="img-fluid  need_img_top" alt="">
                     </div>
 
                 </div>
@@ -250,7 +253,7 @@
                     <h1 class="service_text_head mt-3">Specialities</h1>
                     <div class="col-md-6 ">
                         <div class=" ">
-                            <img src="assets/img/deversh/medicine (2).png" class="img-fluid   " alt="">
+                            <img src="assets/img/deversh/oncology_minor.png" class="img-fluid   " alt="">
                         </div>
                     </div>
 
@@ -258,9 +261,12 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Chronic Disease Management: We specialise in managing chronic illnesses such as </p>
+                            <p class="doc_para_text_mini_service ">Medical Oncology:
+                                This specialty deals with the treatment of cancer using chemotherapy, immunotherapy, and targeted therapy.
+                            </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> diabetes, hypertension, and cardiovascular disease. Our approach combines medical treatment, lifestyle advice, and ongoing monitoring to improve patient health and quality of life.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Medical oncologists manage the overall treatment plan and coordinate care among various specialists. For instance, a medical oncologist at a major cancer centre may oversee a patient's chemotherapy regimen while monitoring progress and side effects.
+
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -271,9 +277,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Infectious Disease Treatment: The department is proficient in diagnosing and treating </p>
+                            <p class="doc_para_text_mini_service ">Surgical Oncology:
+                                Surgical oncologists specialise in performing operations to remove tumours and cancerous tissues. </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service">various infections, including respiratory illnesses, gastrointestinal infections, and tropical diseases. Our medical team employs the latest diagnostic techniques and treatment protocols for effective patient care.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service"> This form of oncology not only aids in treatment but also in diagnosis through biopsies. A hospital may have specialised units for surgeries such as mastectomies for breast cancer or tumour resections for gastrointestinal cancers.
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -285,67 +292,69 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Preventive Health Screenings: We emphasize preventive medicine by offering </p>
+                            <p class="doc_para_text_mini_service ">Radiation Oncology:
+                                This specialty uses high-energy radiation to kill or damage cancer cells. Radiation oncologists design treatment plans that maximise the dose to the cancerous area while minimising exposure to healthy tissues.
+                            </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> comprehensive health screenings that detect early signs of potential health issues. These screenings are tailored to the patient’s age, lifestyle, and medical history, enabling proactive management and healthier outcomes.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> An example in hospitals would be a department equipped with linear accelerators to provide precise radiation therapy for patients with prostate or head and neck cancers.
+
                                 </p>
                             </div>
+                            <div class="d-flex flex-row justify-content-start">
+                                <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
+                                    Read More <i class="fa-solid fa-arrow-right"></i></p>
+                            </div>
                         </div>
-                        <div class="d-flex flex-row justify-content-start">
-                            <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
-                                Read More <i class="fa-solid fa-arrow-right"></i></p>
-                        </div>
+
+
+
+
+                        <script>
+                            function toggleReadMore1() {
+                                var showThisDiv = document.querySelector('.showthisdiv1');
+                                var readMoreText = document.querySelector('.get_in_touch1');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+                        <script>
+                            function toggleReadMore2() {
+                                var showThisDiv = document.querySelector('.showthisdiv2');
+                                var readMoreText = document.querySelector('.get_in_touch2');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+                        <script>
+                            function toggleReadMore3() {
+                                var showThisDiv = document.querySelector('.showthisdiv3');
+                                var readMoreText = document.querySelector('.get_in_touch3');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+
+
                     </div>
-
-
-
-
-                    <script>
-                        function toggleReadMore1() {
-                            var showThisDiv = document.querySelector('.showthisdiv1');
-                            var readMoreText = document.querySelector('.get_in_touch1');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-                    <script>
-                        function toggleReadMore2() {
-                            var showThisDiv = document.querySelector('.showthisdiv2');
-                            var readMoreText = document.querySelector('.get_in_touch2');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-                    <script>
-                        function toggleReadMore3() {
-                            var showThisDiv = document.querySelector('.showthisdiv3');
-                            var readMoreText = document.querySelector('.get_in_touch3');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-
-
                 </div>
-            </div>
             </div>
             </div>
             </div>
@@ -366,27 +375,30 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> What conditions do general medicine doctors treat?
+                                        <p class="list_p_tag"> How does radiation therapy work?
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        General medicine doctors manage a wide range of health conditions, including infections, chronic illnesses like diabetes, and preventive health care.
+                                        Radiation therapy kills or damages cancer cells in the area being treated. Cancer cells begin to die days or weeks after treatment starts, and continue to die for weeks or months after it finishes. Although the radiation can also damage healthy cells, most of these cells tend to receive a lower dose and can usually repair themselves. Many people will develop temporary side effects during or shortly after treatment that may cause pain or discomfort.
+
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> How often should I see a general physician?
+                                        <p class="list_p_tag"> What is the difference between chemotherapy and radiation therapy?
+
 
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        It’s recommended to visit a general physician annually for routine check-ups or more often if managing chronic conditions.
+                                        Chemotherapy means medications given by injections or tablets for treatment of cancer. The medicine circulates throughout the entire body and is generally prescribed by a medical oncologist. Radiation therapy is treatment by rays produced by a linear accelerator or another radiation source, and is prescribed by a radiation oncologist. The radiotherapy beams are focused on a very specific area of the body, and thus the effects are local.
+
                                     </div>
                                 </li>
 
@@ -406,28 +418,32 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag">What should I bring to a general medicine appointment?
+                                        <p class="list_p_tag"> How long does a course of radiotherapy treatments usually last?
+
 
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Bring a list of current medications, any medical history documents, and questions you may have for your doctor.
+                                        Most radiation therapy treatments are daily, five days per week, for a specified period of one to eight weeks, depending on the disease and the course that the physician plans
+
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Can a general physician refer me to a specialist?
+                                        <p class="list_p_tag"> How long does each treatment take?
 
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Yes, general physicians can refer you to specialists when more advanced or targeted treatment is needed.
+                                        Radiation technologists, who are under the direction of the radiation oncologist, will take all the time necessary to ensure that you are accurately positioned for your treatment.
+                                        This may be between 15 to 20 minutes. The actual time when the radiation is “on” is generally only about a minute or two for each treatment field. The staff tries to arrange the schedules to ensure that appointments are kept on time, but on some days, there may be delays because of unforeseen circumstances or emergencies.
+
                                     </div>
                                 </li>
                             </ul>

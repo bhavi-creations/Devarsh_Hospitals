@@ -74,15 +74,20 @@ $conn->close();
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Urology" <?php echo ($service == 'Urology') ? 'selected' : ''; ?>>Urology</option>
                                                 <option value="Obstetrics Gynaecology" <?php echo ($service == 'Obstetrics Gynaecology') ? 'selected' : ''; ?>>Obstetrics & Gynaecology</option>
-                                                <option value="Orthopedic" <?php echo ($service == 'Orthopedic') ? 'selected' : ''; ?>>Orthopedic</option>
-                                                <option value="Paediatrics" <?php echo ($service == 'Paediatrics') ? 'selected' : ''; ?>>Paediatrics</option>
+                                                <option value="Urology" <?php echo ($service == 'Urology') ? 'selected' : ''; ?>>Urology</option>
                                                 <option value="General Surgery" <?php echo ($service == 'General Surgery') ? 'selected' : ''; ?>>General Surgery</option>
-                                                <option value="Cardiology" <?php echo ($service == 'Cardiology') ? 'selected' : ''; ?>>Cardiology</option>
-                                                <option value="Neurology" <?php echo ($service == 'Neurology') ? 'selected' : ''; ?>>Neurology</option>
-                                                <option value="Gastroenterology" <?php echo ($service == 'Gastroenterology') ? 'selected' : ''; ?>>Gastroenterology</option>
                                                 <option value="General Medicine" <?php echo ($service == 'General Medicine') ? 'selected' : ''; ?>>General Medicine</option>
+                                                <option value="Paediatrics" <?php echo ($service == 'Paediatrics') ? 'selected' : ''; ?>>Paediatrics</option>
+                                                <option value="Cardiology" <?php echo ($service == 'Cardiology') ? 'selected' : ''; ?>>Cardiology</option>
+                                                <option value="Gastroenterology" <?php echo ($service == 'Gastroenterology') ? 'selected' : ''; ?>>Gastroenterology</option>
+                                                <option value="Oncology" <?php echo ($service == 'Oncology') ? 'selected' : ''; ?>>Oncology</option>
+                                                <option value="Neurology" <?php echo ($service == 'Neurology') ? 'selected' : ''; ?>>Neurology</option>
+                                                <option value="Plastic" <?php echo ($service == 'Plastic') ? 'selected' : ''; ?>>Plastic Surgery</option>
+                                                <option value="Laparoscopic" <?php echo ($service == 'Laparoscopic') ? 'selected' : ''; ?>>Laparoscopic Surgery</option>
+                                                <option value="Trauma" <?php echo ($service == 'Trauma') ? 'selected' : ''; ?>>Trauma & critical</option>
+                                                <option value="Dermatology" <?php echo ($service == 'Dermatology') ? 'selected' : ''; ?>> Dermatology</option>
+                                                <!-- <option value="Orthopedic" <?php echo ($service == 'Orthopedic') ? 'selected' : ''; ?>>Orthopedic</option> -->
                                             
                                                 
                                             

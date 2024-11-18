@@ -79,67 +79,67 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="urology.php" class="unique-dropdown-link">Urology 
-                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology
+                                                &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
-                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
-                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="cardiology.php" class="unique-dropdown-link">Cardiology
-                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
-                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                     </div>
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
-                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology
+                                                &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
-                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology
+                                                &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
-                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                                                &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
-                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="dermatology.php" class="unique-dropdown-link">Dermatology
-                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
 
@@ -167,7 +167,7 @@
 
 
 
-                    <li><a class="nav-link scrollto " href="contact.php">Contact Us</a></li>
+                    <li><a class="nav-link scrollto  " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -218,8 +218,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>General medicine </Strong></p>
-                    <h1 class="about_test_cont_head">General medicine </h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Trauma critical</Strong></p>
+                    <h1 class="about_test_cont_head">Trauma critical</h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -227,14 +227,17 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Welcome to Devarsh Hospital, a trusted multi-specialty healthcare centre serving as a vital hub for patients from nearby areas and beyond. Our General Medicine Department plays a pivotal role in providing comprehensive adult healthcare, addressing both routine and </p>
-                        <p class="doc_para_text_mini_service">complex medical needs At Devarsh Hospital, the General Medicine Department is dedicated to offering high-quality diagnostic, treatment, and preventive medical care. Our experienced team of internists ensures that each patient receives personalised attention, working collaboratively with other specialties to provide a seamless and coordinated treatment plan.</p>
+                        <p class="doc_para_text_mini_service">Trauma critical care is a specialised area in the medical field dedicated to the treatment of patients suffering from severe and life-threatening injuries.
+                        </p>
+                        <p class="doc_para_text_mini_service"> It encompasses a range of practices designed to stabilise, diagnose, and manage patients who experience major trauma resulting from accidents, violence, or other acute medical emergencies. The goal of trauma critical care is to provide immediate, comprehensive medical support to prevent fatalities and promote recovery. This highly demanding field requires a multidisciplinary approach, involving trauma surgeons, emergency physicians, critical care nurses, and specialists across various domains.
+                        </p>
+
 
 
                     </div>
 
                     <div class="col-md-6  order-0 order-md-1 ">
-                        <img src="assets/img/deversh/medicine (1).png" class="img-fluid  need_img_top" alt="">
+                        <img src="assets/img/deversh/truma_major.png" class="img-fluid  need_img_top" alt="">
                     </div>
 
                 </div>
@@ -250,7 +253,7 @@
                     <h1 class="service_text_head mt-3">Specialities</h1>
                     <div class="col-md-6 ">
                         <div class=" ">
-                            <img src="assets/img/deversh/medicine (2).png" class="img-fluid   " alt="">
+                            <img src="assets/img/deversh/truma_minor.png" class="img-fluid   " alt="">
                         </div>
                     </div>
 
@@ -258,9 +261,11 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Chronic Disease Management: We specialise in managing chronic illnesses such as </p>
+                            <p class="doc_para_text_mini_service ">Emergency Surgery and Trauma Surgery:
+                                These departments focus on immediate surgical interventions to control bleeding, repair internal damage, and stabilise critical injuries. </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> diabetes, hypertension, and cardiovascular disease. Our approach combines medical treatment, lifestyle advice, and ongoing monitoring to improve patient health and quality of life.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Trauma surgeons often manage patients involved in motor vehicle accidents, falls, or acts of violence, working in tandem with other specialists to ensure swift surgical response.
+
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -271,9 +276,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Infectious Disease Treatment: The department is proficient in diagnosing and treating </p>
+                            <p class="doc_para_text_mini_service ">Neurosurgery:
+                                Critical care involving the brain and nervous system is essential for trauma patients who sustain head injuries or spinal trauma. </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service">various infections, including respiratory illnesses, gastrointestinal infections, and tropical diseases. Our medical team employs the latest diagnostic techniques and treatment protocols for effective patient care.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service">Neurosurgical teams are equipped to handle cases such as traumatic brain injuries (TBIs) resulting from high-impact accidents, which require rapid evaluation and potentially surgical decompression to prevent long-term damage or fatal outcomes.
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -285,67 +291,68 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Preventive Health Screenings: We emphasize preventive medicine by offering </p>
+                            <p class="doc_para_text_mini_service ">Orthopaedic Trauma:
+                                This specialty deals with complex fractures and musculoskeletal injuries that result from severe trauma like car accidents or sports-related incidents.
+                            </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> comprehensive health screenings that detect early signs of potential health issues. These screenings are tailored to the patient’s age, lifestyle, and medical history, enabling proactive management and healthier outcomes.
+                                <p class="poetsen_font1 doc_para_text_mini_service">Orthopaedic trauma specialists focus on stabilising bone injuries and performing necessary surgical procedures to restore mobility and function.
                                 </p>
                             </div>
+                            <div class="d-flex flex-row justify-content-start">
+                                <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
+                                    Read More <i class="fa-solid fa-arrow-right"></i></p>
+                            </div>
                         </div>
-                        <div class="d-flex flex-row justify-content-start">
-                            <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
-                                Read More <i class="fa-solid fa-arrow-right"></i></p>
-                        </div>
+
+
+
+
+                        <script>
+                            function toggleReadMore1() {
+                                var showThisDiv = document.querySelector('.showthisdiv1');
+                                var readMoreText = document.querySelector('.get_in_touch1');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+                        <script>
+                            function toggleReadMore2() {
+                                var showThisDiv = document.querySelector('.showthisdiv2');
+                                var readMoreText = document.querySelector('.get_in_touch2');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+                        <script>
+                            function toggleReadMore3() {
+                                var showThisDiv = document.querySelector('.showthisdiv3');
+                                var readMoreText = document.querySelector('.get_in_touch3');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+
+
                     </div>
-
-
-
-
-                    <script>
-                        function toggleReadMore1() {
-                            var showThisDiv = document.querySelector('.showthisdiv1');
-                            var readMoreText = document.querySelector('.get_in_touch1');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-                    <script>
-                        function toggleReadMore2() {
-                            var showThisDiv = document.querySelector('.showthisdiv2');
-                            var readMoreText = document.querySelector('.get_in_touch2');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-                    <script>
-                        function toggleReadMore3() {
-                            var showThisDiv = document.querySelector('.showthisdiv3');
-                            var readMoreText = document.querySelector('.get_in_touch3');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-
-
                 </div>
-            </div>
             </div>
             </div>
             </div>
@@ -366,27 +373,30 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> What conditions do general medicine doctors treat?
+                                        <p class="list_p_tag">What is a Trauma Center?
+
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        General medicine doctors manage a wide range of health conditions, including infections, chronic illnesses like diabetes, and preventive health care.
+                                        A trauma centre is a hospital equipped and staffed to provide comprehensive medical services to patients suffering from traumatic injuries. A Level 1 Trauma Center provides the highest level of surgical care to trauma patients with access to a full range of surgical specialists and equipment available 24 hours a day. If you are severely injured, getting care at a Level 1 trauma centre can lower your risk of death by 25 percent. For a complete list of trauma centres and to learn more about the different levels of trauma centres, please visit the American College of Surgeons website.
+
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> How often should I see a general physician?
+                                        <p class="list_p_tag">When can I visit a patient in The Trauma Center? Can anyone visit?
 
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        It’s recommended to visit a general physician annually for routine check-ups or more often if managing chronic conditions.
+                                        Visiting Hours are from 10:00am-9:00 pm. Members of the health care team may restrict visitation if visitors display behaviours that are unsafe or disruptive to patient care. Visitors under the age of 16 are not permitted in the Intensive Care Unit.
+
                                     </div>
                                 </li>
 
@@ -406,28 +416,32 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag">What should I bring to a general medicine appointment?
+                                        <p class="list_p_tag"> Who takes care of the patients in The Trauma Center?
+
 
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Bring a list of current medications, any medical history documents, and questions you may have for your doctor.
+                                        All physicians on the trauma team are board certified or board eligible in Surgical Critical Care. A team of specially trained registered nurses work collaboratively with the physicians to provide care to patients in The Trauma Center. Trauma surgeons work collaboratively with physicians from other specialties, such as orthopaedic surgeons, plastic surgeons, neurosurgeons, and others. Social work, case management, and clergy are available. Other health care team members include pharmacists, respiratory therapists, physical/occupational therapists, registered dieticians, unit secretaries, and patient transport.
+
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Can a general physician refer me to a specialist?
+                                        <p class="list_p_tag">Where in the hospital will a trauma patient be?
+
 
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Yes, general physicians can refer you to specialists when more advanced or targeted treatment is needed.
+                                        Trauma patients are first evaluated in the Emergency Department. If admission is deemed necessary, critically ill patients are admitted to the Trauma Intensive Care Unit while less severely injured patients are admitted to the regular nursing floor. The trauma patient may also require procedures in the Radiology Suite or Operating Room.
+
                                     </div>
                                 </li>
                             </ul>

@@ -67,15 +67,22 @@
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Urology">Urology</option>
                                                 <option value="Obstetrics Gynaecology">Obstetrics & Gynaecology</option>
-                                                <option value="Orthopedic">Orthopedic</option>
-                                                <option value="Paediatrics">Paediatrics</option>
+                                                <option value="Urology">Urology</option>
                                                 <option value="General Surgery">General Surgery</option>
-                                                <option value="Cardiology">Cardiology</option>
-                                                <option value="Neurology">Neurology</option>
-                                                <option value="Gastroenterology">Gastroenterology</option>
                                                 <option value="General Medicine">General Medicine</option>
+                                                <option value="Paediatrics">Paediatrics</option>
+                                                <option value="Cardiology">Cardiology</option>
+                                                <option value="Gastroenterology">Gastroenterology</option>
+                                                <option value="Oncology">Oncology</option>
+                                                <option value="Neurology">Neurology</option>
+                                                <option value="Plastic">Plastic Surgery</option>
+                                                <option value="Laparoscopic">Laparoscopic Surgery</option>
+                                                <option value="Trauma">Trauma & critical</option>
+                                                <option value="Dermatology">Dermatology</option>
+
+
+                                                <!-- <option value="Orthopedic">Orthopedic</option> -->
                                                 
                                             </select>
                                         </div>

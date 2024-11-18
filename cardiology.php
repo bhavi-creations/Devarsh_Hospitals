@@ -72,47 +72,102 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+                        <a href="#" class="unique-nav-link active">Specialties<i class="fas fa-caret-down"></i></a>
+                        <div class="unique-dropdown">
+                            <ul class="unique-dropdown-list new_nav_bg">
+                                <!-- Column 1 -->
+                                <div class="row">
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology 
+                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                    </div>
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
+                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
+                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
+                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
+
+                                        <!-- <li class="unique-dropdown-item">
+                                    <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                                </li> -->
+
+                                    </div>
+                                </div>
 
 
 
-                    <li><a class="nav-link scrollto active" href="contact.php">Contact Us</a></li>
+
+
+                                <!-- Column 2 -->
+
+
+
+
+                            </ul>
+                            <div class="unique-arrow"></div>
+                        </div>
+                    </li>
+
+
+
+                    <li><a class="nav-link scrollto " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -177,7 +232,7 @@
 
 
                         </p>
-                      
+
 
 
                     </div>
@@ -236,7 +291,7 @@
                             <p class="doc_para_text_mini_service ">Preventive Cardiology: This specialty emphasizes preventing heart disease through risk </p>
                             <div class="showthisdiv3  " style="display:none ">
                                 <p class="poetsen_font1 doc_para_text_mini_service"> assessment and management. It involves monitoring patients for risk factors like high cholesterol, hypertension, and diabetes, and guiding them with lifestyle modifications, medical therapies, and routine follow-ups to reduce the risk of cardiovascular events.
-                               </p>
+                                </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
                                 <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
@@ -302,7 +357,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                     
+
                 </div>
                 <div class="row mt-5">
 
@@ -320,7 +375,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Symptoms of a heart attack include chest pain, shortness of breath, dizziness, and nausea. Pain may radiate to the arm, jaw, or back.
+                                        Symptoms of a heart attack include chest pain, shortness of breath, dizziness, and nausea. Pain may radiate to the arm, jaw, or back.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -333,7 +388,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Risk factors for heart disease include high blood pressure, smoking, high cholesterol, diabetes, obesity, and a sedentary lifestyle.
+                                        Risk factors for heart disease include high blood pressure, smoking, high cholesterol, diabetes, obesity, and a sedentary lifestyle.
                                     </div>
                                 </li>
 
@@ -360,7 +415,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Healthy heart foods include fruits, vegetables, whole grains, lean proteins, and healthy fats like those found in fish and nuts.
+                                        Healthy heart foods include fruits, vegetables, whole grains, lean proteins, and healthy fats like those found in fish and nuts.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -374,7 +429,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Stress does contribute to cardiac disease by increasing blood pressure, raising heart rate, and promoting unhealthy habits like overeating or smoking.
+                                        Stress does contribute to cardiac disease by increasing blood pressure, raising heart rate, and promoting unhealthy habits like overeating or smoking.
                                     </div>
                                 </li>
                             </ul>

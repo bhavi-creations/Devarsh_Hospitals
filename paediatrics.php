@@ -72,47 +72,102 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+                        <a href="#" class="unique-nav-link active">Specialties<i class="fas fa-caret-down"></i></a>
+                        <div class="unique-dropdown">
+                            <ul class="unique-dropdown-list new_nav_bg">
+                                <!-- Column 1 -->
+                                <div class="row">
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology 
+                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                    </div>
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
+                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
+                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
+                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
+
+                                        <!-- <li class="unique-dropdown-item">
+                                    <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                                </li> -->
+
+                                    </div>
+                                </div>
 
 
 
-                    <li><a class="nav-link scrollto active" href="contact.php">Contact Us</a></li>
+
+
+                                <!-- Column 2 -->
+
+
+
+
+                            </ul>
+                            <div class="unique-arrow"></div>
+                        </div>
+                    </li>
+
+
+
+                    <li><a class="nav-link scrollto  " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -163,7 +218,7 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>Paediatrics  </Strong></p>
+                    <p class="home_direction">Home > Speciality > <Strong>Paediatrics </Strong></p>
                     <h1 class="about_test_cont_head">Paediatrics </h1>
 
                     <div class="col-md-6 order-1 order-md-0">
@@ -174,7 +229,7 @@
 
                         <p class="doc_para_text_mini_service">Pediatrics is a medical specialty focused on the health and well-being of children, from infancy through adolescence. Paediatricians are trained to diagnose, treat, and manage a wide range of childhood illnesses, injuries, and conditions. They also provide preventive care and health screenings to ensure healthy growth and development during the formative years. This branch of medicine not only focuses on physical health but also on the emotional, social, and psychological needs of young patients.
                         </p>
-                       
+
 
 
                     </div>
@@ -219,7 +274,7 @@
                         <div class="">
                             <p class="doc_para_text_mini_service ">Paediatric neurology is concerned with the diagnosis and treatment of neurological </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> conditions in children, such as epilepsy, cerebral palsy, and genetic disorders affecting the nervous system. Paediatric neurologists work closely with families to manage conditions like developmental delays, headaches, and neurogenetic disorders. 
+                                <p class="poetsen_font1 doc_para_text_mini_service"> conditions in children, such as epilepsy, cerebral palsy, and genetic disorders affecting the nervous system. Paediatric neurologists work closely with families to manage conditions like developmental delays, headaches, and neurogenetic disorders.
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -300,7 +355,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                     
+
                 </div>
                 <div class="row mt-5">
 
@@ -318,7 +373,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Yes, many parents schedule a meeting with their paediatrician before birth to discuss care plans and ask questions.
+                                        Yes, many parents schedule a meeting with their paediatrician before birth to discuss care plans and ask questions.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -331,7 +386,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Newborns typically visit the paediatrician every few weeks, with check-ups at 2, 4, 6, 9, and 12 months, then annually after that.
+                                        Newborns typically visit the paediatrician every few weeks, with check-ups at 2, 4, 6, 9, and 12 months, then annually after that.
                                     </div>
                                 </li>
 
@@ -358,7 +413,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    The American Academy of Pediatrics recommends breastfeeding for at least the first 6 months and continuing as long as desired.
+                                        The American Academy of Pediatrics recommends breastfeeding for at least the first 6 months and continuing as long as desired.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -372,7 +427,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Solid foods can be introduced around 6 months of age, when your baby shows signs of readiness.
+                                        Solid foods can be introduced around 6 months of age, when your baby shows signs of readiness.
                                     </div>
                                 </li>
                             </ul>

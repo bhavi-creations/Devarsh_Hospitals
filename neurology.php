@@ -72,47 +72,102 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+                        <a href="#" class="unique-nav-link active">Specialties<i class="fas fa-caret-down"></i></a>
+                        <div class="unique-dropdown">
+                            <ul class="unique-dropdown-list new_nav_bg">
+                                <!-- Column 1 -->
+                                <div class="row">
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology 
+                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                    </div>
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
+                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
+                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
+                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
+
+                                        <!-- <li class="unique-dropdown-item">
+                                    <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                                </li> -->
+
+                                    </div>
+                                </div>
 
 
 
-                    <li><a class="nav-link scrollto active" href="contact.php">Contact Us</a></li>
+
+
+                                <!-- Column 2 -->
+
+
+
+
+                            </ul>
+                            <div class="unique-arrow"></div>
+                        </div>
+                    </li>
+
+
+
+                    <li><a class="nav-link scrollto  " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -163,8 +218,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>Neurology  </Strong></p>
-                    <h1 class="about_test_cont_head">Neurology    </h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Neurology </Strong></p>
+                    <h1 class="about_test_cont_head">Neurology </h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -174,7 +229,7 @@
 
                         <p class="doc_para_text_mini_service">Neurology is a branch of medicine focused on diagnosing, treating, and managing disorders of the nervous system, which includes the brain, spinal cord, and peripheral nerves. This field plays a critical role in understanding complex neurological diseases and conditions that </p>
                         <p class="doc_para_text_mini_service">can impact a person's overall health, mobility, and cognitive function. Neurologists are specialists who are trained to handle a variety of issues related to the nervous system, ranging from headaches and seizures to more complex disorders such as multiple sclerosis and Parkinson's disease.</p>
-                 
+
 
 
                     </div>
@@ -300,7 +355,7 @@
             <div class="container  ">
                 <div class="text-center">
                     <h1 class="test_cont_head">FAQ's</h1>
-                     
+
                 </div>
                 <div class="row mt-5">
 
@@ -311,14 +366,14 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag">What does a neurologist treat? 
+                                        <p class="list_p_tag">What does a neurologist treat?
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                    Neurologists treat disorders of the nervous system, brain, spinal cord, nerves and muscles.
+                                        Neurologists treat disorders of the nervous system, brain, spinal cord, nerves and muscles.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -331,7 +386,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Neurological disorders are diseases of the brain, spine and nerves. There are more than 600 diseases of the nervous system, such as brain tumours, epilepsy, Alzheimer’s disease, Parkinson's disease and stroke.
+                                        Neurological disorders are diseases of the brain, spine and nerves. There are more than 600 diseases of the nervous system, such as brain tumours, epilepsy, Alzheimer’s disease, Parkinson's disease and stroke.
                                     </div>
                                 </li>
 
@@ -358,7 +413,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Since no two conditions are the same, our neurologists use a wide range of diagnostic tools and evaluations to determine the best treatment options for you. Browse conditions and treatments.
+                                        Since no two conditions are the same, our neurologists use a wide range of diagnostic tools and evaluations to determine the best treatment options for you. Browse conditions and treatments.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -372,7 +427,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Parkinson's disease is a disorder in which a patient has multiple symptoms like tremors, slowness in doing day to day activities, difficulty in walking, stiffness in hands and legs, etc.
+                                        Parkinson's disease is a disorder in which a patient has multiple symptoms like tremors, slowness in doing day to day activities, difficulty in walking, stiffness in hands and legs, etc.
                                     </div>
                                 </li>
                             </ul>

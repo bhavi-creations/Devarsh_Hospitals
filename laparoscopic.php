@@ -79,67 +79,67 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="urology.php" class="unique-dropdown-link">Urology 
-                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology
+                                                &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
-                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
-                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="cardiology.php" class="unique-dropdown-link">Cardiology
-                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
-                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                     </div>
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
-                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology
+                                                &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
-                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology
+                                                &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
-                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                                                &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
-                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="dermatology.php" class="unique-dropdown-link">Dermatology
-                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
 
@@ -167,7 +167,7 @@
 
 
 
-                    <li><a class="nav-link scrollto " href="contact.php">Contact Us</a></li>
+                    <li><a class="nav-link scrollto  " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -218,8 +218,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>General medicine </Strong></p>
-                    <h1 class="about_test_cont_head">General medicine </h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Laparoscopic Surgery</Strong></p>
+                    <h1 class="about_test_cont_head">Laparoscopic Surgery</h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -227,14 +227,17 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Welcome to Devarsh Hospital, a trusted multi-specialty healthcare centre serving as a vital hub for patients from nearby areas and beyond. Our General Medicine Department plays a pivotal role in providing comprehensive adult healthcare, addressing both routine and </p>
-                        <p class="doc_para_text_mini_service">complex medical needs At Devarsh Hospital, the General Medicine Department is dedicated to offering high-quality diagnostic, treatment, and preventive medical care. Our experienced team of internists ensures that each patient receives personalised attention, working collaboratively with other specialties to provide a seamless and coordinated treatment plan.</p>
+                        <p class="doc_para_text_mini_service">Laparoscopic surgery, also known as minimally invasive surgery (MIS), is a modern surgical technique that enables operations through small incisions rather than large ones.
+                        </p>
+                        <p class="doc_para_text_mini_service">This method is facilitated by the use of a laparoscope—a slender, flexible tube equipped with a light source and camera. The camera transmits images to a monitor, allowing the surgeon to operate with precision and minimal disruption to surrounding tissues. The benefits of laparoscopic surgery include less postoperative pain, reduced risk of infection, shorter hospital stays, and quicker recovery times, making it a popular choice for various medical procedures.
+                        </p>
+
 
 
                     </div>
 
                     <div class="col-md-6  order-0 order-md-1 ">
-                        <img src="assets/img/deversh/medicine (1).png" class="img-fluid  need_img_top" alt="">
+                        <img src="assets/img/deversh/surgery_major.png" class="img-fluid  need_img_top" alt="">
                     </div>
 
                 </div>
@@ -250,7 +253,7 @@
                     <h1 class="service_text_head mt-3">Specialities</h1>
                     <div class="col-md-6 ">
                         <div class=" ">
-                            <img src="assets/img/deversh/medicine (2).png" class="img-fluid   " alt="">
+                            <img src="assets/img/deversh/surgery_minor.png" class="img-fluid   " alt="">
                         </div>
                     </div>
 
@@ -258,9 +261,13 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Chronic Disease Management: We specialise in managing chronic illnesses such as </p>
+                            <p class="doc_para_text_mini_service ">Laparoscopic Cholecystectomy (Gallbladder Removal) :
+
+                                This is one of the most common laparoscopic procedures performed to remove the gallbladder in patients suffering from gallstones or cholecystitis.
+                            </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> diabetes, hypertension, and cardiovascular disease. Our approach combines medical treatment, lifestyle advice, and ongoing monitoring to improve patient health and quality of life.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> It provides an effective treatment with minimal scarring and a fast recovery period.
+
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -271,9 +278,12 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Infectious Disease Treatment: The department is proficient in diagnosing and treating </p>
+                            <p class="doc_para_text_mini_service ">Laparoscopic Appendectomy :
+
+                                Used for the removal of an inflamed appendix, laparoscopic appendectomy is highly effective in treating acute appendicitis.
+                            </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service">various infections, including respiratory illnesses, gastrointestinal infections, and tropical diseases. Our medical team employs the latest diagnostic techniques and treatment protocols for effective patient care.</p>
+                                <p class="poetsen_font1 doc_para_text_mini_service">Patients benefit from a shorter hospital stay and less postoperative discomfort compared to traditional open surgery.
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -285,67 +295,70 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Preventive Health Screenings: We emphasize preventive medicine by offering </p>
+                            <p class="doc_para_text_mini_service ">Laparoscopic Hernia Repair :
+
+                                Hernia repair using laparoscopy involves inserting a mesh to strengthen the affected area, reducing the chances of recurrence.
+                            </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> comprehensive health screenings that detect early signs of potential health issues. These screenings are tailored to the patient’s age, lifestyle, and medical history, enabling proactive management and healthier outcomes.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> This approach results in smaller incisions, less pain, and a quicker return to daily activities.
+
                                 </p>
                             </div>
+                            <div class="d-flex flex-row justify-content-start">
+                                <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
+                                    Read More <i class="fa-solid fa-arrow-right"></i></p>
+                            </div>
                         </div>
-                        <div class="d-flex flex-row justify-content-start">
-                            <p class="get_in_touch3 read_more_text" style="color: #474FA0; cursor: pointer;" onclick="toggleReadMore3()">
-                                Read More <i class="fa-solid fa-arrow-right"></i></p>
-                        </div>
+
+
+
+
+                        <script>
+                            function toggleReadMore1() {
+                                var showThisDiv = document.querySelector('.showthisdiv1');
+                                var readMoreText = document.querySelector('.get_in_touch1');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+                        <script>
+                            function toggleReadMore2() {
+                                var showThisDiv = document.querySelector('.showthisdiv2');
+                                var readMoreText = document.querySelector('.get_in_touch2');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+                        <script>
+                            function toggleReadMore3() {
+                                var showThisDiv = document.querySelector('.showthisdiv3');
+                                var readMoreText = document.querySelector('.get_in_touch3');
+
+                                if (showThisDiv.style.display === "none") {
+                                    showThisDiv.style.display = "block";
+                                    readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
+                                } else {
+                                    showThisDiv.style.display = "none";
+                                    readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
+                                }
+                            }
+                        </script>
+
+
                     </div>
-
-
-
-
-                    <script>
-                        function toggleReadMore1() {
-                            var showThisDiv = document.querySelector('.showthisdiv1');
-                            var readMoreText = document.querySelector('.get_in_touch1');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-                    <script>
-                        function toggleReadMore2() {
-                            var showThisDiv = document.querySelector('.showthisdiv2');
-                            var readMoreText = document.querySelector('.get_in_touch2');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-                    <script>
-                        function toggleReadMore3() {
-                            var showThisDiv = document.querySelector('.showthisdiv3');
-                            var readMoreText = document.querySelector('.get_in_touch3');
-
-                            if (showThisDiv.style.display === "none") {
-                                showThisDiv.style.display = "block";
-                                readMoreText.innerHTML = 'Read Less <i class="fa-solid fa-arrow-up"></i>';
-                            } else {
-                                showThisDiv.style.display = "none";
-                                readMoreText.innerHTML = 'Read More <i class="fa-solid fa-arrow-right"></i>';
-                            }
-                        }
-                    </script>
-
-
                 </div>
-            </div>
             </div>
             </div>
             </div>
@@ -366,27 +379,32 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> What conditions do general medicine doctors treat?
+                                        <p class="list_p_tag"> What is Laparoscopic Surgery?
+
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        General medicine doctors manage a wide range of health conditions, including infections, chronic illnesses like diabetes, and preventive health care.
+                                        Laparoscopic surgery is a type of minimally invasive surgery. It is also known as keyhole surgery. In this, small incisions are made in the body, and a thin tube with a lens at its end (known as a laparoscope) is inserted. It allows the surgeon to see the abdomen organs on a video screen. It is used for diagnosis of the health condition and can be followed by minor surgery to fix it. With these special instruments, the surgeon does not have to make large cuts in your body or reach deep inside. It can be used to diagnose Gallstones, Hernia, Appendicitis, Ovarian cysts, etc.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> How often should I see a general physician?
+                                        <p class="list_p_tag"> What are the benefits of Laparoscopic Surgery?
+
 
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        It’s recommended to visit a general physician annually for routine check-ups or more often if managing chronic conditions.
+                                        Surgical treatment is often the last resort for many diseases. Not only does laparoscopic surgery improve the efficacy of treatment, but it also minimises patient discomfort. This procedure has several benefits over traditional open surgery, such as:
+                                        It is less risky
+                                        The patient can go home soon after the procedure.
+                                        The recovery time is much shorter than traditional open surgery.
                                     </div>
                                 </li>
 
@@ -406,28 +424,33 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag">What should I bring to a general medicine appointment?
+                                        <p class="list_p_tag"> Is Laparoscopic Surgery suitable for all patients?
+
 
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Bring a list of current medications, any medical history documents, and questions you may have for your doctor.
+                                        Laparoscopic surgery can be done on patients of any age without any restrictions on weight or height. However, it is important to note that not all patients are fit for laparoscopic surgery. There are some factors that need to be considered before undergoing this procedure such as:
+                                        The type of diagnosis.
+                                        The presence of other medical conditions. For instance, it is not suitable for patients with cardiac diseases, COPD.
+                                        Whether they have had previous open abdominal surgeries.
                                     </div>
                                 </li>
                                 <hr class="hr_line">
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Can a general physician refer me to a specialist?
+                                        <p class="list_p_tag">What to expect just after the Laparoscopic Surgery?
+
 
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Yes, general physicians can refer you to specialists when more advanced or targeted treatment is needed.
+                                        After the surgery, the patient might feel tired and sore for a few days. They will also need to take pain medication as prescribed by the doctor. The patient usually recovers from this procedure within 3-5 days. Some people might experience pain or discomfort for up to 2 weeks after the surgery. Please remain patient as the recovery time and success rate depends a lot on the severity of the problem.
                                     </div>
                                 </li>
                             </ul>

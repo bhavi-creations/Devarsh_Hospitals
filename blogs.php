@@ -101,43 +101,98 @@ $result = $stmt->get_result();
           </li>
 
           <li class="unique-nav-item" style="--i: 1.1s">
-             <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-             <div class="unique-dropdown">
-               <ul class="unique-dropdown-list new_nav_bg">
-                 <!-- Column 1 -->
-                 <li class="unique-dropdown-item">
-                   <a href="urology.php" class="unique-dropdown-link">Urology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery</a>
-                 </li>
+            <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+            <div class="unique-dropdown">
+              <ul class="unique-dropdown-list new_nav_bg">
+                <!-- Column 1 -->
+                <div class="row">
+                  <div class="col-6">
+                    <li class="unique-dropdown-item">
+                      <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="urology.php" class="unique-dropdown-link">Urology
+                        &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                        &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                        &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                        &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                        &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                        &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                  </div>
+                  <div class="col-6">
+                    <li class="unique-dropdown-item">
+                      <a href="oncology.php" class="unique-dropdown-link">Oncology
+                        &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="neurology.php" class="unique-dropdown-link">Neurology
+                        &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                        &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                        &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                        &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                        &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
 
-                 <!-- Column 2 -->
-                 <li class="unique-dropdown-item">
-                   <a href="cardiology.php" class="unique-dropdown-link">Cardiology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="neurology.php" class="unique-dropdown-link">Neurology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology</a>
-                 </li>
-                 <li class="unique-dropdown-item">
-                   <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine</a>
-                 </li>
-               </ul>
-               <div class="unique-arrow"></div>
-             </div>
-           </li>
+
+                    <!-- <li class="unique-dropdown-item">
+                                    <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
+                                </li> -->
+
+                  </div>
+                </div>
+
+
+
+
+
+                <!-- Column 2 -->
+
+
+
+
+              </ul>
+              <div class="unique-arrow"></div>
+            </div>
+          </li>
 
 
 
@@ -187,15 +242,21 @@ $result = $stmt->get_result();
     <div class="container">
       <div class="filter_buttons redirect_section mt-4">
         <a href="blogs.php?service="><button class="redirect_blog_srivice">All</button></a>
-        <a href="blogs.php?service=Urology"><button class="redirect_blog_srivice">Urology</button></a>
         <a href="blogs.php?service=Obstetrics Gynaecology"><button class="redirect_blog_srivice">Obstetrics & Gynaecology</button></a>
-        <a href="blogs.php?service=Orthopedic"><button class="redirect_blog_srivice">Orthopedic</button></a>
-        <a href="blogs.php?service=Paediatrics"><button class="redirect_blog_srivice">Paediatrics</button></a>
+        <a href="blogs.php?service=Urology"><button class="redirect_blog_srivice">Urology</button></a>
         <a href="blogs.php?service=General Surgery"><button class="redirect_blog_srivice">General Surgery</button></a>
-        <a href="blogs.php?service=Cardiology"><button class="redirect_blog_srivice">Cardiology</button></a>
-        <a href="blogs.php?service=Neurology"><button class="redirect_blog_srivice">Neurology</button></a>
-        <a href="blogs.php?service=Gastroenterology"><button class="redirect_blog_srivice">Gastroenterology</button></a>
         <a href="blogs.php?service=General Medicine"><button class="redirect_blog_srivice">General Medicine</button></a>
+        <a href="blogs.php?service=Paediatrics"><button class="redirect_blog_srivice">Paediatrics</button></a>
+        <a href="blogs.php?service=Cardiology"><button class="redirect_blog_srivice">Cardiology</button></a>
+        <a href="blogs.php?service=Gastroenterology"><button class="redirect_blog_srivice">Gastroenterology</button></a>
+        <a href="blogs.php?service=Oncology"><button class="redirect_blog_srivice">Oncology</button></a>
+        <a href="blogs.php?service=Neurology"><button class="redirect_blog_srivice">Neurology</button></a>
+        <a href="blogs.php?service=Plastic"><button class="redirect_blog_srivice">Plastic Surgery </button></a>
+        <a href="blogs.php?service=Laparoscopic"><button class="redirect_blog_srivice">Laparoscopic Surgery </button></a>
+        <a href="blogs.php?service=Trauma"><button class="redirect_blog_srivice">Trauma & critical </button></a>
+        <a href="blogs.php?service=Dermatology"><button class="redirect_blog_srivice">Dermatology </button></a>
+
+        <!-- <a href="blogs.php?service=Orthopedic"><button class="redirect_blog_srivice">Orthopedic</button></a> -->
 
 
       </div>
