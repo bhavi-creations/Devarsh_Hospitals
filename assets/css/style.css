@@ -3956,7 +3956,7 @@ h6 {
 
 .new_nav_bg {
 
-  background: var(--primary-200, #d6ddeecb);
+  background: var(--primary-200, #d6ddeeea);
   list-style-type: square !important;
   align-items: start !important;
   padding-top: 25px !important;

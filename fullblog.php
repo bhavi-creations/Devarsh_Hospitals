@@ -134,14 +134,14 @@ $conn->close();
                                             <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
                                             &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
-                                        </li>
-                                    </div>
-                                    <div class="col-6">
-                                        <li class="unique-dropdown-item">
+                                        </li><li class="unique-dropdown-item">
                                             <a href="oncology.php" class="unique-dropdown-link">Oncology 
                                             &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
+                                    </div>
+                                    <div class="col-6">
+                                        
                                         <li class="unique-dropdown-item">
                                             <a href="neurology.php" class="unique-dropdown-link">Neurology 
                                             &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
@@ -166,7 +166,16 @@ $conn->close();
                                             &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
-
+                                        <li class="unique-dropdown-item">
+                                            <a href="nephrology.php" class="unique-dropdown-link">Nephrology
+                                            &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="paediatricsurgery.php" class="unique-dropdown-link">Paediatric Surgery
+                                            &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
 
                                         <!-- <li class="unique-dropdown-item">
                                     <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>

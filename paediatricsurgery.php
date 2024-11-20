@@ -227,8 +227,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>Trauma critical</Strong></p>
-                    <h1 class="about_test_cont_head">Trauma critical</h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Paediatric Surgery</Strong></p>
+                    <h1 class="about_test_cont_head">Paediatric Surgery</h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -236,9 +236,10 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Trauma critical care is a specialised area in the medical field dedicated to the treatment of patients suffering from severe and life-threatening injuries.
+                        <p class="doc_para_text_mini_service">Paediatric surgery is a highly specialised field within the realm of surgery, focusing on the diagnosis, treatment, and management of surgical needs in infants, children, and adolescents. 
+
                         </p>
-                        <p class="doc_para_text_mini_service"> It encompasses a range of practices designed to stabilise, diagnose, and manage patients who experience major trauma resulting from accidents, violence, or other acute medical emergencies. The goal of trauma critical care is to provide immediate, comprehensive medical support to prevent fatalities and promote recovery. This highly demanding field requires a multidisciplinary approach, involving trauma surgeons, emergency physicians, critical care nurses, and specialists across various domains.
+                        <p class="doc_para_text_mini_service">This discipline requires expert knowledge not only in surgical techniques but also in understanding the unique physiological and developmental considerations of young patients. Paediatric surgeons are equipped with the skills to address a wide variety of conditions, ensuring that procedures are safe, minimally invasive when possible, and tailored to the growing bodies of their patients.
                         </p>
 
 
@@ -246,7 +247,7 @@
                     </div>
 
                     <div class="col-md-6  order-0 order-md-1 ">
-                        <img src="assets/img/deversh/truma_major.png" class="img-fluid  need_img_top" alt="">
+                        <img src="assets/img/deversh/pediatrics surgery.png" class="img-fluid  need_img_top" alt="">
                     </div>
 
                 </div>
@@ -262,7 +263,7 @@
                     <h1 class="service_text_head mt-3">Specialities</h1>
                     <div class="col-md-6 ">
                         <div class=" ">
-                            <img src="assets/img/deversh/truma_minor.png" class="img-fluid   " alt="">
+                            <img src="assets/img/deversh/pediatrics surgery 1.png" class="img-fluid   " alt="">
                         </div>
                     </div>
 
@@ -270,10 +271,11 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Emergency Surgery and Trauma Surgery:
-                                These departments focus on immediate surgical interventions to control bleeding, repair internal damage, and stabilise critical injuries. </p>
+                            <p class="doc_para_text_mini_service ">Congenital Anomaly Corrections :
+                            Overview: Many children are born with congenital anomalies that may require surgical intervention to correct and prevent complications. Paediatric surgeons specialise in repairing conditions such as cleft lips and palates, congenital heart defects, and limb deformities.
+                            </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> Trauma surgeons often manage patients involved in motor vehicle accidents, falls, or acts of violence, working in tandem with other specialists to ensure swift surgical response.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Example Procedure: Cleft lip and palate surgery is often performed within the first year of life to enable normal feeding, speech development, and facial aesthetics. This procedure not only corrects physical appearance but also promotes healthy growth and social development.
 
                                 </p>
                             </div>
@@ -285,10 +287,13 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Neurosurgery:
-                                Critical care involving the brain and nervous system is essential for trauma patients who sustain head injuries or spinal trauma. </p>
+                            <p class="doc_para_text_mini_service ">Appendectomy for Acute Appendicitis :
+Overview: Appendicitis, the inflammation of the appendix, is a common emergency condition among children and can be life-threatening if not treated promptly. Paediatric surgeons are adept at diagnosing and performing appendectomies to remove the inflamed appendix.
+
+                            </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service">Neurosurgical teams are equipped to handle cases such as traumatic brain injuries (TBIs) resulting from high-impact accidents, which require rapid evaluation and potentially surgical decompression to prevent long-term damage or fatal outcomes.
+                                <p class="poetsen_font1 doc_para_text_mini_service">Procedure Details: In most general hospitals, appendectomies are performed laparoscopically, which involves making small incisions and using specialised instruments. This minimally invasive approach reduces recovery time, lowers the risk of infection, and minimises scarring.
+
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -300,11 +305,13 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Orthopaedic Trauma:
-                                This specialty deals with complex fractures and musculoskeletal injuries that result from severe trauma like car accidents or sports-related incidents.
+                            <p class="doc_para_text_mini_service ">Paediatric Hernia Repair :
+Overview: Hernias are common in children and can occur when an organ or tissue pushes through a weak spot in the surrounding muscle or connective tissue. Paediatric hernias, such as inguinal hernias, are typically corrected through surgical procedures to prevent complications like obstruction or strangulation of the intestine.
+
                             </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service">Orthopaedic trauma specialists focus on stabilising bone injuries and performing necessary surgical procedures to restore mobility and function.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Surgical Approach: Paediatric hernia repair is generally done under general anaesthesia, using either open or minimally invasive techniques depending on the hospital's capabilities. Surgeons ensure that the repair is strong and adapted to the child's growth to prevent recurrence.
+
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -382,7 +389,8 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag">What is a Trauma Center?
+                                        <p class="list_p_tag">What is paediatric surgery?  
+
 
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
@@ -390,21 +398,22 @@
                                     </div>
 
                                     <div class="answer">
-                                        A trauma centre is a hospital equipped and staffed to provide comprehensive medical services to patients suffering from traumatic injuries. A Level 1 Trauma Center provides the highest level of surgical care to trauma patients with access to a full range of surgical specialists and equipment available 24 hours a day. If you are severely injured, getting care at a Level 1 trauma centre can lower your risk of death by 25 percent. For a complete list of trauma centres and to learn more about the different levels of trauma centres, please visit the American College of Surgeons website.
+                                    Paediatric surgery is a branch of surgery that deals with the surgical treatment of children, from newborns to adolescents. Paediatric surgeons are trained to perform a variety of surgical procedures tailored to the unique needs of children
 
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag">When can I visit a patient in The Trauma Center? Can anyone visit?
+                                        <p class="list_p_tag"> What do paediatric surgeons do? 
+
 
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Visiting Hours are from 10:00am-9:00 pm. Members of the health care team may restrict visitation if visitors display behaviours that are unsafe or disruptive to patient care. Visitors under the age of 16 are not permitted in the Intensive Care Unit.
+                                    Paediatric surgeons are responsible for the diagnosis, preoperative, operative, and postoperative management of surgical problems in children. They work with other specialists to determine if surgery is the best option for the child
 
                                     </div>
                                 </li>
@@ -425,7 +434,8 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Who takes care of the patients in The Trauma Center?
+                                        <p class="list_p_tag"> What are some common paediatric surgeries? 
+
 
 
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
@@ -433,7 +443,7 @@
                                     </div>
 
                                     <div class="answer">
-                                        All physicians on the trauma team are board certified or board eligible in Surgical Critical Care. A team of specially trained registered nurses work collaboratively with the physicians to provide care to patients in The Trauma Center. Trauma surgeons work collaboratively with physicians from other specialties, such as orthopaedic surgeons, plastic surgeons, neurosurgeons, and others. Social work, case management, and clergy are available. Other health care team members include pharmacists, respiratory therapists, physical/occupational therapists, registered dieticians, unit secretaries, and patient transport.
+                                    Common paediatric surgeries include tonsillectomies, adenoidectomies, and tympanostomy tube placement. These surgeries are usually performed by otolaryngologists (ENT doctors)
 
                                     </div>
                                 </li>
@@ -441,7 +451,8 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag">Where in the hospital will a trauma patient be?
+                                        <p class="list_p_tag">Will I be able to stay with my child?
+
 
 
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
@@ -449,8 +460,7 @@
                                     </div>
 
                                     <div class="answer">
-                                        Trauma patients are first evaluated in the Emergency Department. If admission is deemed necessary, critically ill patients are admitted to the Trauma Intensive Care Unit while less severely injured patients are admitted to the regular nursing floor. The trauma patient may also require procedures in the Radiology Suite or Operating Room.
-
+                                    Yes! But only after surgery. Each inpatient room has a sleeping area for a parent or primary caregiver if your child is staying overnight after surgery.
                                     </div>
                                 </li>
                             </ul>

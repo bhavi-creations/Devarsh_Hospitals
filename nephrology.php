@@ -79,77 +79,78 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <li class="unique-dropdown-item">
-                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="urology.php" class="unique-dropdown-link">Urology 
-                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology
+                                                &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
-                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
-                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="cardiology.php" class="unique-dropdown-link">Cardiology
-                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
-                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
-                                        </li><li class="unique-dropdown-item">
-                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
-                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology
+                                                &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                     </div>
                                     <div class="col-6">
-                                        
+
                                         <li class="unique-dropdown-item">
-                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
-                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology
+                                                &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
-                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
-                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                                                &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
-                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="dermatology.php" class="unique-dropdown-link">Dermatology
-                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="nephrology.php" class="unique-dropdown-link">Nephrology
-                                            &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
                                         <li class="unique-dropdown-item">
                                             <a href="paediatricsurgery.php" class="unique-dropdown-link">Paediatric Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
+                                                &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
                                             </a>
                                         </li>
 
@@ -223,12 +224,10 @@
 
 
         <section>
-
-
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>Trauma critical</Strong></p>
-                    <h1 class="about_test_cont_head">Trauma critical</h1>
+                    <p class="home_direction">Home > Speciality > <Strong> Nephrology</Strong></p>
+                    <h1 class="about_test_cont_head">Nephrology </h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -236,9 +235,11 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Trauma critical care is a specialised area in the medical field dedicated to the treatment of patients suffering from severe and life-threatening injuries.
+                        <p class="doc_para_text_mini_service">Nephrology is a specialised branch of medicine focused on the diagnosis and treatment of kidney-related conditions and diseases. Nephrologists are highly trained physicians who deal with kidney health, ensuring that this vital organ functions properly to maintain the body’s fluid and electrolyte balance, filter waste, and produce essential hormones.
+
+
                         </p>
-                        <p class="doc_para_text_mini_service"> It encompasses a range of practices designed to stabilise, diagnose, and manage patients who experience major trauma resulting from accidents, violence, or other acute medical emergencies. The goal of trauma critical care is to provide immediate, comprehensive medical support to prevent fatalities and promote recovery. This highly demanding field requires a multidisciplinary approach, involving trauma surgeons, emergency physicians, critical care nurses, and specialists across various domains.
+                        <p class="doc_para_text_mini_service">In a general hospital, nephrology services play a crucial role in providing comprehensive care for patients with acute and chronic kidney conditions. Here are three common nephrology treatments offered in general hospitals:
                         </p>
 
 
@@ -246,7 +247,7 @@
                     </div>
 
                     <div class="col-md-6  order-0 order-md-1 ">
-                        <img src="assets/img/deversh/truma_major.png" class="img-fluid  need_img_top" alt="">
+                        <img src="assets/img/deversh/support.png" class="img-fluid  need_img_top" alt="">
                     </div>
 
                 </div>
@@ -262,7 +263,7 @@
                     <h1 class="service_text_head mt-3">Specialities</h1>
                     <div class="col-md-6 ">
                         <div class=" ">
-                            <img src="assets/img/deversh/truma_minor.png" class="img-fluid   " alt="">
+                            <img src="assets/img/deversh/kidney.png" class="img-fluid   " alt="">
                         </div>
                     </div>
 
@@ -270,10 +271,14 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Emergency Surgery and Trauma Surgery:
-                                These departments focus on immediate surgical interventions to control bleeding, repair internal damage, and stabilise critical injuries. </p>
+                            <p class="doc_para_text_mini_service ">Dialysis (Hemodialysis and Peritoneal Dialysis)
+                                Dialysis is a life-saving treatment used when kidneys can no longer effectively remove waste and excess fluids from the blood.
+
+                            </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> Trauma surgeons often manage patients involved in motor vehicle accidents, falls, or acts of violence, working in tandem with other specialists to ensure swift surgical response.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Hemodialysis involves using a dialysis machine and a special filter to clean the patient’s blood outside the body.
+                                    Peritoneal dialysis uses the lining of the abdomen to filter blood inside the body through a catheter and dialysis fluid. These procedures help manage kidney failure and maintain patients' quality of life.
+
 
                                 </p>
                             </div>
@@ -285,10 +290,10 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Neurosurgery:
-                                Critical care involving the brain and nervous system is essential for trauma patients who sustain head injuries or spinal trauma. </p>
+                            <p class="doc_para_text_mini_service ">A kidney biopsy is a diagnostic procedure that involves taking a small sample of kidney tissue to identify the cause of kidney dysfunction or disease. This procedure aids in diagnosing
+                            </p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service">Neurosurgical teams are equipped to handle cases such as traumatic brain injuries (TBIs) resulting from high-impact accidents, which require rapid evaluation and potentially surgical decompression to prevent long-term damage or fatal outcomes.
+                                <p class="poetsen_font1 doc_para_text_mini_service">conditions such as glomerulonephritis, nephrotic syndrome, and other kidney disorders. Accurate diagnosis through biopsy enables nephrologists to create tailored treatment plans for patients, addressing their specific medical needs.
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -300,11 +305,16 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Orthopaedic Trauma:
-                                This specialty deals with complex fractures and musculoskeletal injuries that result from severe trauma like car accidents or sports-related incidents.
+                            <p class="doc_para_text_mini_service ">Management of Chronic Kidney Disease (CKD):
+                                General hospitals provide comprehensive care for CKD, a condition characterised by a gradual loss of kidney function over time. Nephrologists develop individualised treatment plans focusing on:
+
                             </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service">Orthopaedic trauma specialists focus on stabilising bone injuries and performing necessary surgical procedures to restore mobility and function.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Lifestyle modifications such as diet and exercise to slow disease progression.
+                                    Medication management to control blood pressure, diabetes, and other contributing factors.
+                                    Regular monitoring to prevent or delay the onset of end-stage renal disease (ESRD), where more intensive treatments like dialysis or a kidney transplant may be necessary.
+
+
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -382,7 +392,7 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag">What is a Trauma Center?
+                                        <p class="list_p_tag"> What is dialysis?
 
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
@@ -390,21 +400,22 @@
                                     </div>
 
                                     <div class="answer">
-                                        A trauma centre is a hospital equipped and staffed to provide comprehensive medical services to patients suffering from traumatic injuries. A Level 1 Trauma Center provides the highest level of surgical care to trauma patients with access to a full range of surgical specialists and equipment available 24 hours a day. If you are severely injured, getting care at a Level 1 trauma centre can lower your risk of death by 25 percent. For a complete list of trauma centres and to learn more about the different levels of trauma centres, please visit the American College of Surgeons website.
-
+                                    Dialysis is a medical process through which a person’s blood is cleansed of the toxins or wastes that kidneys normally remove. It is used when a person’s kidneys no longer function optimally. The purpose is to keep the right levels of chemicals, fluids and salts in the body so that body functions normally
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag">When can I visit a patient in The Trauma Center? Can anyone visit?
+                                        <p class="list_p_tag">Is it dangerous to Skip dialysis
+
+
 
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Visiting Hours are from 10:00am-9:00 pm. Members of the health care team may restrict visitation if visitors display behaviours that are unsafe or disruptive to patient care. Visitors under the age of 16 are not permitted in the Intensive Care Unit.
+                                    Yes, this can lead to fluid overload and breathing problems. It can also increase your serum potassium level which can lead to serious cardiac complications. Therefore skipping dialysis can be life threatening.
 
                                     </div>
                                 </li>
@@ -425,7 +436,7 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> Who takes care of the patients in The Trauma Center?
+                                        <p class="list_p_tag"> Can Dialysis Cure My Kidney Disease?
 
 
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
@@ -433,7 +444,7 @@
                                     </div>
 
                                     <div class="answer">
-                                        All physicians on the trauma team are board certified or board eligible in Surgical Critical Care. A team of specially trained registered nurses work collaboratively with the physicians to provide care to patients in The Trauma Center. Trauma surgeons work collaboratively with physicians from other specialties, such as orthopaedic surgeons, plastic surgeons, neurosurgeons, and others. Social work, case management, and clergy are available. Other health care team members include pharmacists, respiratory therapists, physical/occupational therapists, registered dieticians, unit secretaries, and patient transport.
+                                    No, dialysis does not cure kidney disease. It does the work which the kidneys should be doing.
 
                                     </div>
                                 </li>
@@ -441,16 +452,14 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag">Where in the hospital will a trauma patient be?
-
+                                        <p class="list_p_tag">Can dialysis patients travel?
 
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Trauma patients are first evaluated in the Emergency Department. If admission is deemed necessary, critically ill patients are admitted to the Trauma Intensive Care Unit while less severely injured patients are admitted to the regular nursing floor. The trauma patient may also require procedures in the Radiology Suite or Operating Room.
-
+                                    Yes, they can travel and whenever they need to travel they should make prior arrangements for dialysis to wherever they are travelling.
                                     </div>
                                 </li>
                             </ul>

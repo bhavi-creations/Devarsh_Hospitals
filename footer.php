@@ -161,7 +161,12 @@
                     <li class="foot_para">
                         <a href="dermatology.php" style="color: #1E1E1E;">Dermatology </a>
                     </li>
-                   
+                    <li class="foot_para">
+                        <a href="paediatricsurgery.php" style="color: #1E1E1E;">Paediatric surgery </a>
+                    </li>
+                    <li class="foot_para">
+                        <a href="nephrology.php" style="color: #1E1E1E;">Nephrology </a>
+                    </li>
                     
                     </ul>
 
