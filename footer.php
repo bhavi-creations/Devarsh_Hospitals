@@ -3,7 +3,7 @@
         <div class="container py-5">
             <div class="row">
 
-                <div class="col-6 col-md-4  col-lg-4  ">
+                <div class="col-12 col-md-6  col-lg-3  ">
                     <img src="assets/img/deversh/Logo.png" class="img-fluid " alt="">
                     <h1 class="foot_head my-3">Inquiries</h1>
                     <li class="foot_para">
@@ -97,7 +97,7 @@
                 </div>
 
 
-                <div class="col-6  col-md-2  col-lg-3  ">
+                <div class="col-6  col-md-6  col-lg-2 only_sapace_sjf ">
                     <h1 class="foot_head">Patient Guide</h1>
 
                     <li class="foot_para">
@@ -119,7 +119,7 @@
                     </ul>
                 </div>
 
-                <div class="col-6  col-md-3  col-lg-3 only_space_in_md ">
+                <div class="col-6  col-md-4  col-lg-3 only_space_in_md ">
                     <h1 class="foot_head">Specialties</h1>
 
                     <li class="foot_para">
@@ -146,6 +146,16 @@
                     <li class="foot_para">
                         <a href="oncology.php" style="color: #1E1E1E;">Oncology </a>
                     </li>
+
+                    </ul>
+
+
+                </div>
+
+                <div class="col-6  col-md-4  col-lg-2 only_space_in_md ">
+                    <h1 class="foot_head">Specialties</h1>
+
+
                     <li class="foot_para">
                         <a href="neurology.php" style="color: #1E1E1E;">Neurology </a>
                     </li>
@@ -175,7 +185,7 @@
 
                 </div>
 
-                <div class="col-6  col-md-3  col-lg-2 only_space_in_md ">
+                <div class="col-6  col-md-4  col-lg-2 only_space_in_md ">
                     <h1 class="foot_head">Address</h1>
 
                     <li class="foot_para">

@@ -3046,10 +3046,17 @@ h6 {
 
 }
 
+@media (min-width:768px) and (max-width:992px) {
+  .only_space_in_md {
+    margin-top: 50px;
+  }
+
+}
 
 @media (max-width:768px) {
 
-  .only_space_in_md {
+  .only_space_in_md,
+  .only_sapace_sjf {
     margin-top: 30px;
   }
 
