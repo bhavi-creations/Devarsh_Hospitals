@@ -72,119 +72,119 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-            <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-            <div class="unique-dropdown">
-              <ul class="unique-dropdown-list new_nav_bg">
-                <!-- Column 1 -->
-                <div class="row">
-                  <div class="col-6">
-                    <li class="unique-dropdown-item">
-                      <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="urology.php" class="unique-dropdown-link">Urology
-                        &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
-                        &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
-                        &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
-                        &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="cardiology.php" class="unique-dropdown-link">Cardiology
-                        &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
-                        &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="oncology.php" class="unique-dropdown-link">Oncology
-                        &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                  </div>
-                  <div class="col-6">
+                        <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+                        <div class="unique-dropdown">
+                            <ul class="unique-dropdown-list new_nav_bg">
+                                <!-- Column 1 -->
+                                <div class="row">
+                                    <div class="col-6">
+                                        <li class="unique-dropdown-item">
+                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="urology.php" class="unique-dropdown-link">Urology
+                                                &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                                                &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                                                &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                                                &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                                                &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                                                &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="oncology.php" class="unique-dropdown-link">Oncology
+                                                &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                    </div>
+                                    <div class="col-6">
 
-                    <li class="unique-dropdown-item">
-                      <a href="neurology.php" class="unique-dropdown-link">Neurology
-                        &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
-                        &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
-                        &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
-                        &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="dermatology.php" class="unique-dropdown-link">Dermatology
-                        &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="nephrology.php" class="unique-dropdown-link">Nephrology
-                        &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="paediatricsurgery.php" class="unique-dropdown-link">Paediatric Surgery
-                        &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
-                      </a>
-                    </li>
-                    <li class="unique-dropdown-item">
-                      <a href="endocrinology.php" class="unique-dropdown-link">Endocrinology
-                        &nbsp; <img src="assets/img/nav_bar/endocrinology.png" class="img-fluid nav_img_size" alt="">
+                                        <li class="unique-dropdown-item">
+                                            <a href="neurology.php" class="unique-dropdown-link">Neurology
+                                                &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                                                &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                                                &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                                                &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                                                &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="nephrology.php" class="unique-dropdown-link">Nephrology
+                                                &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="paediatricsurgery.php" class="unique-dropdown-link">Paediatric Surgery
+                                                &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
+                                            </a>
+                                        </li>
+                                        <li class="unique-dropdown-item">
+                                            <a href="endocrinology.php" class="unique-dropdown-link">Endocrinology
+                                                &nbsp; <img src="assets/img/nav_bar/endocrinology.png" class="img-fluid nav_img_size" alt="">
 
 
-                      </a>
-                    </li>
+                                            </a>
+                                        </li>
 
-                    <!-- <li class="unique-dropdown-item">
+                                        <!-- <li class="unique-dropdown-item">
                                     <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
                                 </li> -->
 
-                  </div>
-                </div>
+                                    </div>
+                                </div>
 
 
 
 
 
-                <!-- Column 2 -->
+                                <!-- Column 2 -->
 
 
 
 
-              </ul>
-              <div class="unique-arrow"></div>
-            </div>
-          </li>
+                            </ul>
+                            <div class="unique-arrow"></div>
+                        </div>
+                    </li>
 
 
 
-                    <li><a class="nav-link scrollto  " href="contact.php">Contact Us</a></li>
+                    <li><a class="nav-link scrollto " href="contact.php">Contact Us</a></li>
                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
 
                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
@@ -235,8 +235,8 @@
 
             <div class="container">
                 <div class="row">
-                    <p class="home_direction">Home > Speciality > <Strong>Oncology </Strong></p>
-                    <h1 class="about_test_cont_head">Oncology </h1>
+                    <p class="home_direction">Home > Speciality > <Strong>Endocrinology</Strong></p>
+                    <h1 class="about_test_cont_head">Endocrinology</h1>
 
                     <div class="col-md-6 order-1 order-md-0">
 
@@ -244,9 +244,10 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Oncology is the branch of medicine that focuses on the diagnosis, treatment, and prevention of cancer.
+                        <p class="doc_para_text_mini_service">Endocrinology is a specialised branch of medicine that focuses on the diagnosis and treatment of disorders related to hormones, the endocrine glands, and the complex systems that regulate metabolism, growth, reproduction, and overall body function. Endocrinologists play a vital role in managing conditions such as diabetes, thyroid diseases, hormonal imbalances, and osteoporosis, ensuring a patient-centric approach to health and well-being.
                         </p>
-                        <p class="doc_para_text_mini_service">The field has evolved to encompass various approaches to care, including medical, surgical, and radiation oncology, to provide comprehensive cancer treatment. Oncologists collaborate with multidisciplinary teams to tailor patient care based on individual needs and the type and stage of cancer. This field is pivotal as it involves both curative and palliative care, supporting patients through the challenging journey of cancer treatment and survivorship.
+                        <p class="doc_para_text_mini_service">At our General Multispecialty Hospital, we take pride in offering advanced endocrinology care. With state-of-the-art facilities and a team of experienced specialists, our hospital is equipped to address a wide spectrum of endocrine disorders. We aim to provide personalised treatment plans, improve quality of life, and promote long-term health.
+
                         </p>
 
 
@@ -254,7 +255,7 @@
                     </div>
 
                     <div class="col-md-6  order-0 order-md-1 ">
-                        <img src="assets/img/deversh/oncology_major.png" class="img-fluid  need_img_top" alt="">
+                        <img src="assets/img/deversh/endocrine.png" class="img-fluid  need_img_top" alt="">
                     </div>
 
                 </div>
@@ -270,7 +271,7 @@
                     <h1 class="service_text_head mt-3">Specialities</h1>
                     <div class="col-md-6 ">
                         <div class=" ">
-                            <img src="assets/img/deversh/oncology_minor.png" class="img-fluid   " alt="">
+                            <img src="assets/img/deversh/thyroid.png" class="img-fluid   " alt="">
                         </div>
                     </div>
 
@@ -278,11 +279,13 @@
                     <div class="col-md-6 mt-5 ">
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Medical Oncology:
-                                This specialty deals with the treatment of cancer using chemotherapy, immunotherapy, and targeted therapy.
+                            <p class="doc_para_text_mini_service ">Diabetes Management :
+                                Diabetes, particularly Type 1 and Type 2, is one of the most common endocrine disorders.
                             </p>
                             <div class="showthisdiv1  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> Medical oncologists manage the overall treatment plan and coordinate care among various specialists. For instance, a medical oncologist at a major cancer centre may oversee a patient's chemotherapy regimen while monitoring progress and side effects.
+                                <p class="poetsen_font1 doc_para_text_mini_service"> Insulin Therapy: Used for Type 1 diabetes and advanced Type 2 cases to regulate blood sugar levels.
+                                    Oral Medications: Such as metformin and SGLT2 inhibitors for Type 2 diabetes management.
+                                    Continuous Glucose Monitoring (CGM): Advanced technology for real-time blood sugar tracking, enabling precise management.
 
                                 </p>
                             </div>
@@ -294,10 +297,11 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Surgical Oncology:
-                                Surgical oncologists specialise in performing operations to remove tumours and cancerous tissues. </p>
+                            <p class="doc_para_text_mini_service ">Thyroid disorders : including hypothyroidism, hyperthyroidism, and thyroid nodules, are frequently addressed by endocrinologists.</p>
                             <div class="showthisdiv2  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> This form of oncology not only aids in treatment but also in diagnosis through biopsies. A hospital may have specialised units for surgeries such as mastectomies for breast cancer or tumour resections for gastrointestinal cancers.
+                                <p class="poetsen_font1 doc_para_text_mini_service">Medication Therapy: Thyroxine for hypothyroidism and antithyroid drugs for hyperthyroidism.
+                                    Radioactive Iodine Therapy: Used for hyperthyroidism and certain types of thyroid cancer.
+                                    Thyroidectomy: Surgical removal of part or all of the thyroid gland when necessary.
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -309,12 +313,13 @@
 
 
                         <div class="">
-                            <p class="doc_para_text_mini_service ">Radiation Oncology:
-                                This specialty uses high-energy radiation to kill or damage cancer cells. Radiation oncologists design treatment plans that maximise the dose to the cancerous area while minimising exposure to healthy tissues.
+                            <p class="doc_para_text_mini_service "> Hormonal Imbalance and PCOS :
+                                Hormonal imbalances affecting fertility, menstruation, or metabolism are commonly treated, particularly in women with conditions like Polycystic Ovary Syndrome (PCOS).
                             </p>
                             <div class="showthisdiv3  " style="display:none ">
-                                <p class="poetsen_font1 doc_para_text_mini_service"> An example in hospitals would be a department equipped with linear accelerators to provide precise radiation therapy for patients with prostate or head and neck cancers.
-
+                                <p class="poetsen_font1 doc_para_text_mini_service">Hormone Replacement Therapy (HRT): For conditions like menopause or androgen imbalances.
+                                    Lifestyle Modifications: Including diet and exercise plans to manage symptoms of PCOS.
+                                    Medications: Birth control pills and metformin to regulate menstrual cycles and reduce androgen levels.
                                 </p>
                             </div>
                             <div class="d-flex flex-row justify-content-start">
@@ -392,21 +397,22 @@
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag"> How does radiation therapy work?
+                                        <p class="list_p_tag">What is Endocrinology ?
+
 
                                             <span class="toggle-icon toggle_padding_icon_one">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Radiation therapy kills or damages cancer cells in the area being treated. Cancer cells begin to die days or weeks after treatment starts, and continue to die for weeks or months after it finishes. Although the radiation can also damage healthy cells, most of these cells tend to receive a lower dose and can usually repair themselves. Many people will develop temporary side effects during or shortly after treatment that may cause pain or discomfort.
+                                        The endocrine system is a messenger system comprising feedback loops of the hormones released by internal glands of an organism directly into the circulatory system, regulating distant target organs. In vertebrates, the hypothalamus is the neural control centre for all endocrine systems. In humans, the major endocrine glands are the thyroid gland and the adrenal glands. The study of the endocrine system and its disorders is known as endocrinology.
 
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> What is the difference between chemotherapy and radiation therapy?
+                                        <p class="list_p_tag"> What are endocrine disorders?
 
 
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
@@ -414,7 +420,7 @@
                                     </div>
 
                                     <div class="answer">
-                                        Chemotherapy means medications given by injections or tablets for treatment of cancer. The medicine circulates throughout the entire body and is generally prescribed by a medical oncologist. Radiation therapy is treatment by rays produced by a linear accelerator or another radiation source, and is prescribed by a radiation oncologist. The radiotherapy beams are focused on a very specific area of the body, and thus the effects are local.
+                                        What is the Endocrine System? Endocrine disorders are diseases related to the endocrine glands of the body. The endocrine system produces hormones, which are chemical signals sent out, or secreted, through the bloodstream. Hormones help the body regulate processes, such as appetite, breathing, growth, fluid balance, feminization and virilization, and weight control.
 
                                     </div>
                                 </li>
@@ -435,7 +441,7 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> How long does a course of radiotherapy treatments usually last?
+                                        <p class="list_p_tag"> How is diabetes managed in endocrinology?
 
 
                                             <span class="toggle-icon toggle_padding_icon_three">+</span>
@@ -443,7 +449,7 @@
                                     </div>
 
                                     <div class="answer">
-                                        Most radiation therapy treatments are daily, five days per week, for a specified period of one to eight weeks, depending on the disease and the course that the physician plans
+                                        Diabetes management involves a combination of therapies, including insulin or oral medications, dietary and lifestyle changes, and advanced monitoring tools like Continuous Glucose Monitoring (CGM). The approach is tailored to the patient’s needs to control blood sugar levels effectively.
 
                                     </div>
                                 </li>
@@ -451,16 +457,15 @@
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> How long does each treatment take?
+                                        <p class="list_p_tag">Are thyroid problems curable, and what are the treatment options?
+
 
                                             <span class="toggle-icon toggle_padding_icon_four">+</span>
                                         </p>
                                     </div>
 
                                     <div class="answer">
-                                        Radiation technologists, who are under the direction of the radiation oncologist, will take all the time necessary to ensure that you are accurately positioned for your treatment.
-                                        This may be between 15 to 20 minutes. The actual time when the radiation is “on” is generally only about a minute or two for each treatment field. The staff tries to arrange the schedules to ensure that appointments are kept on time, but on some days, there may be delays because of unforeseen circumstances or emergencies.
-
+                                        Most thyroid problems, like hypothyroidism or hyperthyroidism, are manageable with proper treatment. Options include medication (like thyroxine for hypothyroidism), radioactive iodine therapy, and, in some cases, surgical intervention. Regular follow-ups with an endocrinologist are essential for optimal outcomes.
                                     </div>
                                 </li>
                             </ul>

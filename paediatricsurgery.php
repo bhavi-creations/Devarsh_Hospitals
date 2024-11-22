@@ -72,107 +72,115 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-                        <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-                        <div class="unique-dropdown">
-                            <ul class="unique-dropdown-list new_nav_bg">
-                                <!-- Column 1 -->
-                                <div class="row">
-                                    <div class="col-6">
-                                        <li class="unique-dropdown-item">
-                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt="">  </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="urology.php" class="unique-dropdown-link">Urology 
-                                            &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
-                                            &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
-                                            &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="cardiology.php" class="unique-dropdown-link">Cardiology
-                                            &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
-                                            &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li><li class="unique-dropdown-item">
-                                            <a href="oncology.php" class="unique-dropdown-link">Oncology 
-                                            &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                    </div>
-                                    <div class="col-6">
-                                        
-                                        <li class="unique-dropdown-item">
-                                            <a href="neurology.php" class="unique-dropdown-link">Neurology 
-                                            &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery) 
-                                            &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
-                                            &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="dermatology.php" class="unique-dropdown-link">Dermatology
-                                            &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="nephrology.php" class="unique-dropdown-link">Nephrology
-                                            &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="paediatricsurgery.php" class="unique-dropdown-link">Paediatric Surgery
-                                            &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
+            <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+            <div class="unique-dropdown">
+              <ul class="unique-dropdown-list new_nav_bg">
+                <!-- Column 1 -->
+                <div class="row">
+                  <div class="col-6">
+                    <li class="unique-dropdown-item">
+                      <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="urology.php" class="unique-dropdown-link">Urology
+                        &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                        &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                        &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                        &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                        &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                        &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="oncology.php" class="unique-dropdown-link">Oncology
+                        &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                  </div>
+                  <div class="col-6">
 
-                                        <!-- <li class="unique-dropdown-item">
+                    <li class="unique-dropdown-item">
+                      <a href="neurology.php" class="unique-dropdown-link">Neurology
+                        &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                        &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                        &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                        &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                        &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="nephrology.php" class="unique-dropdown-link">Nephrology
+                        &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="paediatricsurgery.php" class="unique-dropdown-link">Paediatric Surgery
+                        &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="endocrinology.php" class="unique-dropdown-link">Endocrinology
+                        &nbsp; <img src="assets/img/nav_bar/endocrinology.png" class="img-fluid nav_img_size" alt="">
+
+
+                      </a>
+                    </li>
+
+                    <!-- <li class="unique-dropdown-item">
                                     <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
                                 </li> -->
 
-                                    </div>
-                                </div>
+                  </div>
+                </div>
 
 
 
 
 
-                                <!-- Column 2 -->
+                <!-- Column 2 -->
 
 
 
 
-                            </ul>
-                            <div class="unique-arrow"></div>
-                        </div>
-                    </li>
+              </ul>
+              <div class="unique-arrow"></div>
+            </div>
+          </li>
 
 
 
@@ -236,7 +244,7 @@
 
 
 
-                        <p class="doc_para_text_mini_service">Paediatric surgery is a highly specialised field within the realm of surgery, focusing on the diagnosis, treatment, and management of surgical needs in infants, children, and adolescents. 
+                        <p class="doc_para_text_mini_service">Paediatric surgery is a highly specialised field within the realm of surgery, focusing on the diagnosis, treatment, and management of surgical needs in infants, children, and adolescents.
 
                         </p>
                         <p class="doc_para_text_mini_service">This discipline requires expert knowledge not only in surgical techniques but also in understanding the unique physiological and developmental considerations of young patients. Paediatric surgeons are equipped with the skills to address a wide variety of conditions, ensuring that procedures are safe, minimally invasive when possible, and tailored to the growing bodies of their patients.
@@ -272,7 +280,7 @@
 
                         <div class="">
                             <p class="doc_para_text_mini_service ">Congenital Anomaly Corrections :
-                            Overview: Many children are born with congenital anomalies that may require surgical intervention to correct and prevent complications. Paediatric surgeons specialise in repairing conditions such as cleft lips and palates, congenital heart defects, and limb deformities.
+                                Overview: Many children are born with congenital anomalies that may require surgical intervention to correct and prevent complications. Paediatric surgeons specialise in repairing conditions such as cleft lips and palates, congenital heart defects, and limb deformities.
                             </p>
                             <div class="showthisdiv1  " style="display:none ">
                                 <p class="poetsen_font1 doc_para_text_mini_service"> Example Procedure: Cleft lip and palate surgery is often performed within the first year of life to enable normal feeding, speech development, and facial aesthetics. This procedure not only corrects physical appearance but also promotes healthy growth and social development.
@@ -288,7 +296,7 @@
 
                         <div class="">
                             <p class="doc_para_text_mini_service ">Appendectomy for Acute Appendicitis :
-Overview: Appendicitis, the inflammation of the appendix, is a common emergency condition among children and can be life-threatening if not treated promptly. Paediatric surgeons are adept at diagnosing and performing appendectomies to remove the inflamed appendix.
+                                Overview: Appendicitis, the inflammation of the appendix, is a common emergency condition among children and can be life-threatening if not treated promptly. Paediatric surgeons are adept at diagnosing and performing appendectomies to remove the inflamed appendix.
 
                             </p>
                             <div class="showthisdiv2  " style="display:none ">
@@ -306,7 +314,7 @@ Overview: Appendicitis, the inflammation of the appendix, is a common emergency 
 
                         <div class="">
                             <p class="doc_para_text_mini_service ">Paediatric Hernia Repair :
-Overview: Hernias are common in children and can occur when an organ or tissue pushes through a weak spot in the surrounding muscle or connective tissue. Paediatric hernias, such as inguinal hernias, are typically corrected through surgical procedures to prevent complications like obstruction or strangulation of the intestine.
+                                Overview: Hernias are common in children and can occur when an organ or tissue pushes through a weak spot in the surrounding muscle or connective tissue. Paediatric hernias, such as inguinal hernias, are typically corrected through surgical procedures to prevent complications like obstruction or strangulation of the intestine.
 
                             </p>
                             <div class="showthisdiv3  " style="display:none ">
@@ -351,6 +359,7 @@ Overview: Hernias are common in children and can occur when an organ or tissue p
                                 }
                             }
                         </script>
+
                         <script>
                             function toggleReadMore3() {
                                 var showThisDiv = document.querySelector('.showthisdiv3');
@@ -389,7 +398,7 @@ Overview: Hernias are common in children and can occur when an organ or tissue p
                             <ul class="faq-list">
                                 <li class="padding_in_list">
                                     <div class="question ">
-                                        <p class="list_p_tag">What is paediatric surgery?  
+                                        <p class="list_p_tag">What is paediatric surgery?
 
 
 
@@ -398,14 +407,14 @@ Overview: Hernias are common in children and can occur when an organ or tissue p
                                     </div>
 
                                     <div class="answer">
-                                    Paediatric surgery is a branch of surgery that deals with the surgical treatment of children, from newborns to adolescents. Paediatric surgeons are trained to perform a variety of surgical procedures tailored to the unique needs of children
+                                        Paediatric surgery is a branch of surgery that deals with the surgical treatment of children, from newborns to adolescents. Paediatric surgeons are trained to perform a variety of surgical procedures tailored to the unique needs of children
 
                                     </div>
                                 </li>
                                 <hr class="hr_line">
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> What do paediatric surgeons do? 
+                                        <p class="list_p_tag"> What do paediatric surgeons do?
 
 
                                             <span class="toggle-icon toggle_padding_icon_two">+</span>
@@ -413,7 +422,7 @@ Overview: Hernias are common in children and can occur when an organ or tissue p
                                     </div>
 
                                     <div class="answer">
-                                    Paediatric surgeons are responsible for the diagnosis, preoperative, operative, and postoperative management of surgical problems in children. They work with other specialists to determine if surgery is the best option for the child
+                                        Paediatric surgeons are responsible for the diagnosis, preoperative, operative, and postoperative management of surgical problems in children. They work with other specialists to determine if surgery is the best option for the child
 
                                     </div>
                                 </li>
@@ -434,7 +443,7 @@ Overview: Hernias are common in children and can occur when an organ or tissue p
 
                                 <li>
                                     <div class="question ">
-                                        <p class="list_p_tag"> What are some common paediatric surgeries? 
+                                        <p class="list_p_tag"> What are some common paediatric surgeries?
 
 
 
@@ -443,7 +452,7 @@ Overview: Hernias are common in children and can occur when an organ or tissue p
                                     </div>
 
                                     <div class="answer">
-                                    Common paediatric surgeries include tonsillectomies, adenoidectomies, and tympanostomy tube placement. These surgeries are usually performed by otolaryngologists (ENT doctors)
+                                        Common paediatric surgeries include tonsillectomies, adenoidectomies, and tympanostomy tube placement. These surgeries are usually performed by otolaryngologists (ENT doctors)
 
                                     </div>
                                 </li>
@@ -460,7 +469,7 @@ Overview: Hernias are common in children and can occur when an organ or tissue p
                                     </div>
 
                                     <div class="answer">
-                                    Yes! But only after surgery. Each inpatient room has a sleeping area for a parent or primary caregiver if your child is staying overnight after surgery.
+                                        Yes! But only after surgery. Each inpatient room has a sleeping area for a parent or primary caregiver if your child is staying overnight after surgery.
                                     </div>
                                 </li>
                             </ul>

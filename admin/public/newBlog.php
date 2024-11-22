@@ -80,8 +80,9 @@
                                                 <option value="Laparoscopic">Laparoscopic Surgery</option>
                                                 <option value="Trauma">Trauma & critical</option>
                                                 <option value="Dermatology">Dermatology</option>
+                                                <option value="Endocrinology">Endocrinology</option>
 
-
+                                                
                                                 <!-- <option value="Orthopedic">Orthopedic</option> -->
                                                 
                                             </select>

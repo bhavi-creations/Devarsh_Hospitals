@@ -87,6 +87,9 @@ $conn->close();
                                                 <option value="Laparoscopic" <?php echo ($service == 'Laparoscopic') ? 'selected' : ''; ?>>Laparoscopic Surgery</option>
                                                 <option value="Trauma" <?php echo ($service == 'Trauma') ? 'selected' : ''; ?>>Trauma & critical</option>
                                                 <option value="Dermatology" <?php echo ($service == 'Dermatology') ? 'selected' : ''; ?>> Dermatology</option>
+                                                <option value="Endocrinology" <?php echo ($service == 'Endocrinology') ? 'selected' : ''; ?>> Endocrinology</option>
+                                             
+                                                
                                                 <!-- <option value="Orthopedic" <?php echo ($service == 'Orthopedic') ? 'selected' : ''; ?>>Orthopedic</option> -->
                                             
                                                 

@@ -73,7 +73,7 @@
                         </div>
 
                         <div class="col-3">
-                            <a href=" https://www.linkedin.com/in/devarsh-hospital-47689b335/"  target="blank">
+                            <a href=" https://www.linkedin.com/in/devarsh-hospital-47689b335/" target="blank">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23" fill="none">
                                     <g clip-path="url(#clip0_350_75)">
                                         <path d="M20.866 0H2.13403C0.95544 0 0 0.95544 0 2.13403V20.866C0 22.0446 0.95544 23 2.13403 23H20.866C22.0446 23 23 22.0446 23 20.866V2.13403C23 0.95544 22.0446 0 20.866 0Z" fill="#0B63BD" />
@@ -153,8 +153,8 @@
                         <a href="plasticsurgery.php" style="color: #1E1E1E;">Plastic Surgery </a>
                     </li>
                     <li class="foot_para">
-                        <a href="laparoscopic.php" style="color: #1E1E1E;">Laparoscopic Surgery  </a>
-                    </li>             
+                        <a href="laparoscopic.php" style="color: #1E1E1E;">Laparoscopic Surgery </a>
+                    </li>
                     <li class="foot_para">
                         <a href="traumacritical.php" style="color: #1E1E1E;">Trauma & critical </a>
                     </li>
@@ -167,7 +167,9 @@
                     <li class="foot_para">
                         <a href="nephrology.php" style="color: #1E1E1E;">Nephrology </a>
                     </li>
-                    
+                    <li class="foot_para">
+                        <a href="endocrinology.php" style="color: #1E1E1E;">Endocrinology </a>
+                    </li>
                     </ul>
 
 

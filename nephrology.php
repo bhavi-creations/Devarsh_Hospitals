@@ -72,108 +72,115 @@
                     </li>
 
                     <li class="unique-nav-item" style="--i: 1.1s">
-                        <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
-                        <div class="unique-dropdown">
-                            <ul class="unique-dropdown-list new_nav_bg">
-                                <!-- Column 1 -->
-                                <div class="row">
-                                    <div class="col-6">
-                                        <li class="unique-dropdown-item">
-                                            <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="urology.php" class="unique-dropdown-link">Urology
-                                                &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
-                                                &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
-                                                &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
-                                                &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="cardiology.php" class="unique-dropdown-link">Cardiology
-                                                &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
-                                                &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="oncology.php" class="unique-dropdown-link">Oncology
-                                                &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                    </div>
-                                    <div class="col-6">
+            <a href="#" class="unique-nav-link">Specialties<i class="fas fa-caret-down"></i></a>
+            <div class="unique-dropdown">
+              <ul class="unique-dropdown-list new_nav_bg">
+                <!-- Column 1 -->
+                <div class="row">
+                  <div class="col-6">
+                    <li class="unique-dropdown-item">
+                      <a href="gynocology.php" class="unique-dropdown-link">Obstetrics & Gynaecology &nbsp; <img src="assets/img/nav_bar/obstetrics.png" class="img-fluid nav_img_size" alt=""> </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="urology.php" class="unique-dropdown-link">Urology
+                        &nbsp; <img src="assets/img/nav_bar/urinary-tract.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="generalsurgery.php" class="unique-dropdown-link">General Surgery
+                        &nbsp; <img src="assets/img/nav_bar/surgical.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="generalmedicine.php" class="unique-dropdown-link">General Medicine
+                        &nbsp; <img src="assets/img/nav_bar//first-aid-kit.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="paediatrics.php" class="unique-dropdown-link">Paediatrics
+                        &nbsp; <img src="assets/img/nav_bar/healthcare.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="cardiology.php" class="unique-dropdown-link">Cardiology
+                        &nbsp; <img src="assets/img/nav_bar/cardiology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="gastroenterology.php" class="unique-dropdown-link">Gastroenterology
+                        &nbsp; <img src="assets/img/nav_bar/gastroenterology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="oncology.php" class="unique-dropdown-link">Oncology
+                        &nbsp; <img src="assets/img/nav_bar/oncology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                  </div>
+                  <div class="col-6">
 
-                                        <li class="unique-dropdown-item">
-                                            <a href="neurology.php" class="unique-dropdown-link">Neurology
-                                                &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
-                                                &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
-                                                &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
-                                                &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="dermatology.php" class="unique-dropdown-link">Dermatology
-                                                &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="nephrology.php" class="unique-dropdown-link">Nephrology
-                                                &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
-                                        <li class="unique-dropdown-item">
-                                            <a href="paediatricsurgery.php" class="unique-dropdown-link">Paediatric Surgery
-                                                &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
-                                            </a>
-                                        </li>
+                    <li class="unique-dropdown-item">
+                      <a href="neurology.php" class="unique-dropdown-link">Neurology
+                        &nbsp; <img src="assets/img/nav_bar/neurology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="plasticsurgery.php" class="unique-dropdown-link">Plastic Surgery
+                        &nbsp; <img src="assets/img/nav_bar/cosmetic-surgery.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="laparoscopic.php" class="unique-dropdown-link">Laparoscopic Surgery <br> (General Surgery)
+                        &nbsp; <img src="assets/img/nav_bar/surgery.png" class="img-fluid nav_img_size" alt=""></a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="traumacritical.php" class="unique-dropdown-link">Trauma & critical
+                        &nbsp; <img src="assets/img/nav_bar/people.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="dermatology.php" class="unique-dropdown-link">Dermatology
+                        &nbsp; <img src="assets/img/nav_bar/skin.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="nephrology.php" class="unique-dropdown-link">Nephrology
+                        &nbsp; <img src="assets/img/nav_bar/neprology.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="paediatricsurgery.php" class="unique-dropdown-link">Paediatric Surgery
+                        &nbsp; <img src="assets/img/nav_bar/children.png" class="img-fluid nav_img_size" alt="">
+                      </a>
+                    </li>
+                    <li class="unique-dropdown-item">
+                      <a href="endocrinology.php" class="unique-dropdown-link">Endocrinology
+                        &nbsp; <img src="assets/img/nav_bar/endocrinology.png" class="img-fluid nav_img_size" alt="">
 
-                                        <!-- <li class="unique-dropdown-item">
+
+                      </a>
+                    </li>
+
+                    <!-- <li class="unique-dropdown-item">
                                     <a href="orthopedic.php" class="unique-dropdown-link">Orthopedic</a>
                                 </li> -->
 
-                                    </div>
-                                </div>
+                  </div>
+                </div>
 
 
 
 
 
-                                <!-- Column 2 -->
+                <!-- Column 2 -->
 
 
 
 
-                            </ul>
-                            <div class="unique-arrow"></div>
-                        </div>
-                    </li>
+              </ul>
+              <div class="unique-arrow"></div>
+            </div>
+          </li>
 
 
 
@@ -400,7 +407,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Dialysis is a medical process through which a person’s blood is cleansed of the toxins or wastes that kidneys normally remove. It is used when a person’s kidneys no longer function optimally. The purpose is to keep the right levels of chemicals, fluids and salts in the body so that body functions normally
+                                        Dialysis is a medical process through which a person’s blood is cleansed of the toxins or wastes that kidneys normally remove. It is used when a person’s kidneys no longer function optimally. The purpose is to keep the right levels of chemicals, fluids and salts in the body so that body functions normally
                                     </div>
                                 </li>
                                 <hr class="hr_line">
@@ -415,7 +422,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Yes, this can lead to fluid overload and breathing problems. It can also increase your serum potassium level which can lead to serious cardiac complications. Therefore skipping dialysis can be life threatening.
+                                        Yes, this can lead to fluid overload and breathing problems. It can also increase your serum potassium level which can lead to serious cardiac complications. Therefore skipping dialysis can be life threatening.
 
                                     </div>
                                 </li>
@@ -444,7 +451,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    No, dialysis does not cure kidney disease. It does the work which the kidneys should be doing.
+                                        No, dialysis does not cure kidney disease. It does the work which the kidneys should be doing.
 
                                     </div>
                                 </li>
@@ -459,7 +466,7 @@
                                     </div>
 
                                     <div class="answer">
-                                    Yes, they can travel and whenever they need to travel they should make prior arrangements for dialysis to wherever they are travelling.
+                                        Yes, they can travel and whenever they need to travel they should make prior arrangements for dialysis to wherever they are travelling.
                                     </div>
                                 </li>
                             </ul>
