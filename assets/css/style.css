@@ -4990,3 +4990,15 @@ h6 {
     margin-top:  60px;
     }
 }
+
+
+
+.navbar-nav .nav-item.active .nav-link {
+  font-weight: bold;
+  color: #007bff; /* Customize as needed */
+}
+
+
+.unique-dropdown-item.active .unique-dropdown-link{
+  color: #007bff;
+}
